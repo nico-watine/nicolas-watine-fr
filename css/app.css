@@ -4737,9 +4737,9 @@ a.thumbnail {
 
 @font-face {
   font-family: 'Garamond-MedDisp';
-  src: url("garamond-mediumDisplay.eot");
+  src: url("/fonts/garamond/garamond-mediumDisplay.eot");
   /* IE9 Compat Modes */
-  src: url("garamond-mediumDisplay.eot?#iefix") format("embedded-opentype"), url("garamond-mediumDisplay.woff2") format("woff2"), url("garamond-mediumDisplay.woff") format("woff"), url("garamond-mediumDisplay.ttf") format("truetype"), url("garamond-mediumDisplay.otf") format("opentype"), url("garamond-mediumDisplay.svg#02867ce269869308b19469756adfa7bc") format("svg");
+  src: url("/fonts/garamond/garamond-mediumDisplay.eot?#iefix") format("embedded-opentype"), url("/fonts/garamond/garamond-mediumDisplay.woff2") format("woff2"), url("/fonts/garamond/garamond-mediumDisplay.woff") format("woff"), url("/fonts/garamond/garamond-mediumDisplay.ttf") format("truetype"), url("/fonts/garamond/garamond-mediumDisplay.otf") format("opentype"), url("/fonts/garamond/garamond-mediumDisplay.svg#02867ce269869308b19469756adfa7bc") format("svg");
   /* Legacy iOS */
   font-style: normal;
   font-weight: 400; }
