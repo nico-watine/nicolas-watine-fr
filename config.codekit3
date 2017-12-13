@@ -4365,6 +4365,16 @@
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
+	"\/dist\/css\/app-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/css\/app-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -4431,6 +4441,54 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/robots.txt",
+		"oF": 0
+		},
+	"\/fonts\/garamond\/garamond\/font.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/garamond\/garamond\/font-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/fonts\/garamond\/garamond\/garamond-mediumDisplay.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/garamond\/garamond\/garamond-mediumDisplay.eot",
+		"oF": 0
+		},
+	"\/fonts\/garamond\/garamond\/garamond-mediumDisplay.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/garamond\/garamond\/garamond-mediumDisplay.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/garamond\/garamond\/garamond-mediumDisplay.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/FINAL\/garamond\/garamond-mediumDisplay.ttf",
+		"oF": 0
+		},
+	"\/fonts\/garamond\/garamond\/garamond-mediumDisplay.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/FINAL\/garamond\/garamond-mediumDisplay.woff",
+		"oF": 0
+		},
+	"\/fonts\/garamond\/garamond\/garamond-mediumDisplay.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/garamond\/garamond\/garamond-mediumDisplay.woff2",
 		"oF": 0
 		},
 	"\/gulpfile.babel.js": {
