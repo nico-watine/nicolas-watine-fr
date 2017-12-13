@@ -4735,6 +4735,15 @@ a.thumbnail {
 .long-delay {
   animation-delay: 700ms !important; }
 
+@font-face {
+  font-family: 'Garamond-MedDisp';
+  src: url("garamond-mediumDisplay.eot");
+  /* IE9 Compat Modes */
+  src: url("garamond-mediumDisplay.eot?#iefix") format("embedded-opentype"), url("garamond-mediumDisplay.woff2") format("woff2"), url("garamond-mediumDisplay.woff") format("woff"), url("garamond-mediumDisplay.ttf") format("truetype"), url("garamond-mediumDisplay.otf") format("opentype"), url("garamond-mediumDisplay.svg#02867ce269869308b19469756adfa7bc") format("svg");
+  /* Legacy iOS */
+  font-style: normal;
+  font-weight: 400; }
+
 .p {
   font-size: 1rem; }
 

@@ -4443,16 +4443,6 @@
 		"oAP": "\/dist\/robots.txt",
 		"oF": 0
 		},
-	"\/fonts\/garamond\/font.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/fonts\/garamond\/font-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/fonts\/garamond\/garamond-mediumDisplay.eot": {
 		"cB": 0,
 		"ft": 8192,
