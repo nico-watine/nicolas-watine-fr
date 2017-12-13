@@ -4382,16 +4382,6 @@
 		"oAP": "\/dist\/humans.txt",
 		"oF": 0
 		},
-	"\/dist\/img\/banditos.jpg": {
-		"ft": 16384,
-		"iS": 363627,
-		"oA": 1,
-		"oAP": "\/dist\/img\/banditos.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/dist\/index.php": {
 		"cB": 0,
 		"ft": 8192,
