@@ -4453,16 +4453,6 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"\/img\/banditos.jpg": {
-		"ft": 16384,
-		"iS": 363627,
-		"oA": 1,
-		"oAP": "\/img\/banditos.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/js\/app-min.js": {
 		"ft": 64,
 		"ma": 0,
