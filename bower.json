@@ -1,10 +1,9 @@
 {
-  "name": "zurb-f6-boilerplate",
-  "version": "1.1.1",
+  "name": "nicolas-watine-fr",
   "author": [
-    "Nico Watine <nico@studioncreations.com> (http://nicowatine.me/)"
+    "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
   ],
-  "description": "New project boilerplate using ZURB's 'Advanced' Foundation 6 framework",
+  "description": "Repo for nicolas-watine.fr, based on zurb-f6-boilerplate repo",
   "main": "gulpfile.js",
   "license": "MIT",
   "ignore": [
