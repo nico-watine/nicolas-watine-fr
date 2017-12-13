@@ -1832,17 +1832,17 @@ h6 {
 
 @media print, screen and (min-width: 40em) {
   h1 {
-    font-size: 3rem; }
+    font-size: 4rem; }
   h2 {
-    font-size: 2.5rem; }
+    font-size: 2.8125rem; }
   h3 {
-    font-size: 1.9375rem; }
+    font-size: 2rem; }
   h4 {
-    font-size: 1.5625rem; }
+    font-size: 1.375rem; }
   h5 {
-    font-size: 1.25rem; }
+    font-size: 1rem; }
   h6 {
-    font-size: 1rem; } }
+    font-size: 0.75rem; } }
 
 a {
   line-height: inherit;
@@ -2038,9 +2038,7 @@ kbd {
     widows: 3; }
   h2,
   h3 {
-    page-break-after: avoid; }
-  .print-break-inside {
-    page-break-inside: auto; } }
+    page-break-after: avoid; } }
 
 .button {
   display: inline-block;
@@ -2191,18 +2189,6 @@ kbd {
     display: inline-block;
     float: right;
     margin-left: 1em; }
-  .button.dropdown.hollow::after {
-    border-top-color: #1779ba; }
-  .button.dropdown.hollow.primary::after {
-    border-top-color: #1779ba; }
-  .button.dropdown.hollow.secondary::after {
-    border-top-color: #767676; }
-  .button.dropdown.hollow.success::after {
-    border-top-color: #3adb76; }
-  .button.dropdown.hollow.warning::after {
-    border-top-color: #ffae00; }
-  .button.dropdown.hollow.alert::after {
-    border-top-color: #cc4b37; }
   .button.arrow-only::after {
     top: -0.1em;
     float: none;
@@ -3722,7 +3708,6 @@ html.is-reveal-open,
 html.is-reveal-open body {
   min-height: 100%;
   overflow: hidden;
-  position: fixed;
   user-select: none; }
 
 .reveal-overlay {
@@ -3754,7 +3739,8 @@ html.is-reveal-open body {
   @media print, screen and (min-width: 40em) {
     .reveal {
       min-height: 0; } }
-  .reveal .column, .reveal .columns {
+  .reveal .column, .reveal .columns,
+  .reveal .columns {
     min-width: 0; }
   .reveal > :last-child {
     margin-bottom: 0; }
