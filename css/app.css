@@ -4774,13 +4774,19 @@ a.thumbnail {
     font-size: 2.8125rem; }
   .h2.caps {
     letter-spacing: 0.03125rem; }
+  .h2.caps.bold {
+    letter-spacing: 0.075rem; }
   .h3 {
     font-size: 2.0625rem; }
   .h3.caps {
     letter-spacing: 0.0625rem; }
+  .h3.caps.bold {
+    letter-spacing: 0.075rem; }
   .h4 {
     font-size: 1.375rem; }
   .h4.caps {
+    letter-spacing: 0.0625rem; }
+  .h4.caps.bold {
     letter-spacing: 0.0625rem; }
   .h5 {
     font-size: 1rem; }

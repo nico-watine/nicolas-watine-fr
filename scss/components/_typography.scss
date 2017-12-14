@@ -51,6 +51,10 @@
 		letter-spacing: rem-calc(.5);
 	}
 
+	.h2.caps.bold {
+		letter-spacing: rem-calc(1.2);
+	}
+
 	.h3 {
 		font-size: $h3-medium;
 	}
@@ -59,11 +63,19 @@
 		letter-spacing: rem-calc(1);
 	}
 
+	.h3.caps.bold {
+		letter-spacing: rem-calc(1.2);
+	}
+
 	.h4 {
 		font-size: $h4-medium;
 	}
 
 	.h4.caps {
+		letter-spacing: rem-calc(1);
+	}
+
+	.h4.caps.bold {
 		letter-spacing: rem-calc(1);
 	}
 
