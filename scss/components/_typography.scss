@@ -39,24 +39,48 @@
 		font-size: $h1-medium;
 	}
 
+	.h1.caps {
+		letter-spacing: rem-calc(1);
+	}
+
 	.h2 {
 		font-size: $h2-medium;
+	}
+
+	.h2.caps {
+		letter-spacing: rem-calc(.5);
 	}
 
 	.h3 {
 		font-size: $h3-medium;
 	}
 
+	.h3.caps {
+		letter-spacing: rem-calc(1);
+	}
+
 	.h4 {
 		font-size: $h4-medium;
+	}
+
+	.h4.caps {
+		letter-spacing: rem-calc(1);
 	}
 
 	.h5 {
 		font-size: $h5-medium;
 	}
 
+	.h5.caps {
+		letter-spacing: rem-calc(1.2);
+	}
+
 	.h6 {
 		font-size: $h6-medium;
+	}
+
+	.h6.caps {
+		letter-spacing: rem-calc(1.2);
 	}
 }
 
