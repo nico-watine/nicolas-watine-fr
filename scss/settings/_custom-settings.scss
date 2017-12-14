@@ -54,17 +54,20 @@ $h6-medium: rem-calc(12);
 // ---------------------------------------------------------------------- //
 
 // Serif Heading sizes @small
-$h1: rem-calc(32);
-$h2: rem-calc(26);
-$h3: rem-calc(22);
-$h4: rem-calc(18);
-$h5: rem-calc(17);
-$h6: rem-calc(16);
+$h1-serif: rem-calc(32);
+$h2-serif: rem-calc(26);
+$h3-serif: rem-calc(22);
+$h4-serif: rem-calc(18);
+$h5-serif: rem-calc(17);
+$h6-serif: rem-calc(16);
 
 // Serif Heading sizes @medium+
-$h1-medium: rem-calc(64);
-$h2-medium: rem-calc(45);
-$h3-medium: rem-calc(33);
-$h4-medium: rem-calc(22);
-$h5-medium: rem-calc(16);
-$h6-medium: rem-calc(12);
+$h1-serif-medium: rem-calc(64);
+$h2-serif-medium: rem-calc(45);
+$h3-serif-medium: rem-calc(33);
+$h4-serif-medium: rem-calc(22);
+$h5-serif-medium: rem-calc(16);
+$h6-serif-medium: rem-calc(12);
+
+
+
