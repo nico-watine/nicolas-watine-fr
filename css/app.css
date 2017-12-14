@@ -4842,6 +4842,9 @@ a.thumbnail {
 .caps {
   text-transform: uppercase; }
 
+.bold {
+  font-weight: bold; }
+
 .inline-block {
   display: inline-block; }
 
