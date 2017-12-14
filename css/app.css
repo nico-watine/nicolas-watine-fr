@@ -4808,16 +4808,27 @@ a.thumbnail {
     font-size: 1.375rem; }
   .h1.serif {
     font-size: 5.375rem; }
+  .h1.serif.caps {
+    letter-spacing: -0.0625rem; }
   .h2.serif {
     font-size: 3.75rem; }
+  .h2.serif.caps {
+    letter-spacing: -0.03125rem; }
   .h3.serif {
     font-size: 2.6875rem; }
   .h4.serif {
     font-size: 1.875rem; }
   .h5.serif {
     font-size: 1.375rem; }
+  .h5.serif.caps {
+    letter-spacing: 0.03125rem; }
   .h6.serif {
-    font-size: 1rem; } }
+    font-size: 1rem; }
+  .h6.serif.caps {
+    letter-spacing: 0.03125rem; } }
+
+.caps {
+  text-transform: uppercase; }
 
 .inline-block {
   display: inline-block; }

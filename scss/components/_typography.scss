@@ -110,8 +110,16 @@
 		font-size: $h1-serif-medium;
 	}
 
+	.h1.serif.caps {
+		letter-spacing: rem-calc(-1);
+	}
+
 	.h2.serif {
 		font-size: $h2-serif-medium;
+	}
+
+	.h2.serif.caps {
+		letter-spacing: rem-calc(-.5);
 	}
 
 	.h3.serif {
@@ -126,7 +134,25 @@
 		font-size: $h5-serif-medium;
 	}
 
+	.h5.serif.caps {
+		letter-spacing: rem-calc(.5);
+	}
+
 	.h6.serif {
 		font-size: $h6-serif-medium;
 	}
+
+	.h6.serif.caps {
+		letter-spacing: rem-calc(.5);
+	}
 }
+
+
+// --------------------------------------
+// |            CAPS classes            |
+// --------------------------------------
+
+.caps {
+	text-transform: uppercase;
+}
+
