@@ -4744,6 +4744,12 @@ a.thumbnail {
   font-style: normal;
   font-weight: 400; }
 
+.caps {
+  text-transform: uppercase; }
+
+.bold {
+  font-weight: bold; }
+
 .p {
   font-size: 1rem; }
 
@@ -4844,12 +4850,6 @@ a.thumbnail {
     font-size: 1rem; }
   .h6.serif.caps {
     letter-spacing: 0.03125rem; } }
-
-.caps {
-  text-transform: uppercase; }
-
-.bold {
-  font-weight: bold; }
 
 .inline-block {
   display: inline-block; }
