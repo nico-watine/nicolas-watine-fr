@@ -4779,6 +4779,9 @@ a.thumbnail {
   .h6 {
     font-size: 0.75rem; } }
 
+.serif {
+  font-family: 'Garamond-MedDisp', Georgia, Times, "Times New Roman", serif; }
+
 .inline-block {
   display: inline-block; }
 

@@ -1,6 +1,11 @@
 @import "../_settings.scss";
 @import "typography/_fonts.scss";
 
+// -------------------------------------------------------
+// |            Default sans-serif typography            |
+// -------------------------------------------------------
+
+
 .p {
 	font-size: $p;
 }
@@ -54,4 +59,20 @@
 		font-size: $h6-medium;
 	}
 }
+
+// ---------------------------------------------------------------------- //
+
+
+// ------------------------------------------
+// |            Serif Typography            |
+// ------------------------------------------
+
+
+.serif {
+	font-family: 'Garamond-MedDisp', Georgia, Times, "Times New Roman", serif;
+}
+
+
+
+
 
