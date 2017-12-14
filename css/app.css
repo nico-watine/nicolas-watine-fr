@@ -4782,6 +4782,41 @@ a.thumbnail {
 .serif {
   font-family: 'Garamond-MedDisp', Georgia, Times, "Times New Roman", serif; }
 
+.p.serif {
+  font-size: 1rem; }
+
+.h1.serif {
+  font-size: 2rem; }
+
+.h2.serif {
+  font-size: 1.625rem; }
+
+.h3.serif {
+  font-size: 1.375rem; }
+
+.h4.serif {
+  font-size: 1.125rem; }
+
+.h5.serif {
+  font-size: 1.0625rem; }
+
+.h6.serif {
+  font-size: 1rem; }
+
+@media print, screen and (min-width: 40em) {
+  .h1.serif {
+    font-size: 4rem; }
+  .h2.serif {
+    font-size: 2.8125rem; }
+  .h3.serif {
+    font-size: 2.0625rem; }
+  .h4.serif {
+    font-size: 1.375rem; }
+  .h5.serif {
+    font-size: 1rem; }
+  .h6.serif {
+    font-size: 0.75rem; } }
+
 .inline-block {
   display: inline-block; }
 

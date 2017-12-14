@@ -73,6 +73,56 @@
 }
 
 
+.p.serif {
+	font-size: $p;
+}
 
+.h1.serif {
+	font-size: $h1;
+}
 
+.h2.serif {
+	font-size: $h2;
+}
 
+.h3.serif {
+	font-size: $h3;
+}
+
+.h4.serif {
+	font-size: $h4;
+}
+
+.h5.serif {
+	font-size: $h5;
+}
+
+.h6.serif {
+	font-size: $h6;
+}
+
+@include breakpoint(medium) {
+	.h1.serif {
+		font-size: $h1-medium;
+	}
+
+	.h2.serif {
+		font-size: $h2-medium;
+	}
+
+	.h3.serif {
+		font-size: $h3-medium;
+	}
+
+	.h4.serif {
+		font-size: $h4-medium;
+	}
+
+	.h5.serif {
+		font-size: $h5-medium;
+	}
+
+	.h6.serif {
+		font-size: $h6-medium;
+	}
+}
