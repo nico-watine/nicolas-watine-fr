@@ -74,55 +74,59 @@
 
 
 .p.serif {
-	font-size: $p;
+	font-size: $p-serif;
 }
 
 .h1.serif {
-	font-size: $h1;
+	font-size: $h1-serif;
 }
 
 .h2.serif {
-	font-size: $h2;
+	font-size: $h2-serif;
 }
 
 .h3.serif {
-	font-size: $h3;
+	font-size: $h3-serif;
 }
 
 .h4.serif {
-	font-size: $h4;
+	font-size: $h4-serif;
 }
 
 .h5.serif {
-	font-size: $h5;
+	font-size: $h5-serif;
 }
 
 .h6.serif {
-	font-size: $h6;
+	font-size: $h6-serif;
 }
 
 @include breakpoint(medium) {
+	.p.serif {
+		font-size: $p-serif-medium;
+	}
+
 	.h1.serif {
-		font-size: $h1-medium;
+		font-size: $h1-serif-medium;
 	}
 
 	.h2.serif {
-		font-size: $h2-medium;
+		font-size: $h2-serif-medium;
 	}
 
 	.h3.serif {
-		font-size: $h3-medium;
+		font-size: $h3-serif-medium;
 	}
 
 	.h4.serif {
-		font-size: $h4-medium;
+		font-size: $h4-serif-medium;
 	}
 
 	.h5.serif {
-		font-size: $h5-medium;
+		font-size: $h5-serif-medium;
 	}
 
 	.h6.serif {
-		font-size: $h6-medium;
+		font-size: $h6-serif-medium;
 	}
 }

@@ -4804,6 +4804,8 @@ a.thumbnail {
   font-size: 1rem; }
 
 @media print, screen and (min-width: 40em) {
+  .p.serif {
+    font-size: 1rem; }
   .h1.serif {
     font-size: 4rem; }
   .h2.serif {
