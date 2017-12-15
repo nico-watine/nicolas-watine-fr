@@ -134,75 +134,93 @@
 }
 
 
+p.serif,
 .p.serif {
 	font-size: $p-serif;
 }
 
+h1.serif,
 .h1.serif {
 	font-size: $h1-serif;
 }
 
+h2.serif,
 .h2.serif {
 	font-size: $h2-serif;
 }
 
+h3.serif,
 .h3.serif {
 	font-size: $h3-serif;
 }
 
+h4.serif,
 .h4.serif {
 	font-size: $h4-serif;
 }
 
+h5.serif,
 .h5.serif {
 	font-size: $h5-serif;
 }
 
+h6.serif,
 .h6.serif {
 	font-size: $h6-serif;
 }
 
 @include breakpoint(medium) {
+	p.serif,
 	.p.serif {
 		font-size: $p-serif-medium;
 	}
 
+	h1.serif,
 	.h1.serif {
 		font-size: $h1-serif-medium;
 	}
 
+	h1.serif.caps,
 	.h1.serif.caps {
 		letter-spacing: rem-calc(-1);
 	}
 
+	h2.serif,
 	.h2.serif {
 		font-size: $h2-serif-medium;
 	}
 
+	h2.serif.caps,
 	.h2.serif.caps {
 		letter-spacing: rem-calc(-.5);
 	}
 
+	h3.serif,
 	.h3.serif {
 		font-size: $h3-serif-medium;
 	}
 
+	h4.serif,
 	.h4.serif {
 		font-size: $h4-serif-medium;
 	}
 
+	h5.serif,
 	.h5.serif {
 		font-size: $h5-serif-medium;
 	}
 
+	h5.serif.caps,
 	.h5.serif.caps {
 		letter-spacing: rem-calc(.5);
 	}
 
+	h6.serif,
 	.h6.serif {
 		font-size: $h6-serif-medium;
 	}
 
+	h6.serif.caps,
 	.h6.serif.caps {
 		letter-spacing: rem-calc(.5);
 	}
