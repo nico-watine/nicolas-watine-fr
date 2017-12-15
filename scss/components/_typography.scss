@@ -64,10 +64,12 @@
 		font-size: $h2-medium;
 	}
 
+	h2.caps,
 	.h2.caps {
 		letter-spacing: rem-calc(.5);
 	}
 
+	h2.caps.bold,
 	.h2.caps.bold {
 		letter-spacing: rem-calc(1.2);
 	}
@@ -76,10 +78,12 @@
 		font-size: $h3-medium;
 	}
 
+	h3.caps,
 	.h3.caps {
 		letter-spacing: rem-calc(1);
 	}
 
+	h3.caps.bold,
 	.h3.caps.bold {
 		letter-spacing: rem-calc(1.2);
 	}
@@ -88,10 +92,12 @@
 		font-size: $h4-medium;
 	}
 
+	h4.caps,
 	.h4.caps {
 		letter-spacing: rem-calc(1);
 	}
 
+	h4.caps.bold,
 	.h4.caps.bold {
 		letter-spacing: rem-calc(1);
 	}
@@ -100,6 +106,7 @@
 		font-size: $h5-medium;
 	}
 
+	h5.caps,
 	.h5.caps {
 		letter-spacing: rem-calc(1.2);
 	}
@@ -108,6 +115,7 @@
 		font-size: $h6-medium;
 	}
 
+	h6.caps,
 	.h6.caps {
 		letter-spacing: rem-calc(1.2);
 	}

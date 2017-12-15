@@ -4778,28 +4778,36 @@ a.thumbnail {
     letter-spacing: 0.0625rem; }
   .h2 {
     font-size: 2.8125rem; }
+  h2.caps,
   .h2.caps {
     letter-spacing: 0.03125rem; }
+  h2.caps.bold,
   .h2.caps.bold {
     letter-spacing: 0.075rem; }
   .h3 {
     font-size: 2.0625rem; }
+  h3.caps,
   .h3.caps {
     letter-spacing: 0.0625rem; }
+  h3.caps.bold,
   .h3.caps.bold {
     letter-spacing: 0.075rem; }
   .h4 {
     font-size: 1.375rem; }
+  h4.caps,
   .h4.caps {
     letter-spacing: 0.0625rem; }
+  h4.caps.bold,
   .h4.caps.bold {
     letter-spacing: 0.0625rem; }
   .h5 {
     font-size: 1rem; }
+  h5.caps,
   .h5.caps {
     letter-spacing: 0.075rem; }
   .h6 {
     font-size: 0.75rem; }
+  h6.caps,
   .h6.caps {
     letter-spacing: 0.075rem; } }
 
