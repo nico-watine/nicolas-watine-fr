@@ -4803,6 +4803,9 @@ a.thumbnail {
   .h6.caps {
     letter-spacing: 0.075rem; } }
 
+.serif {
+  line-height: 1.1; }
+
 p.serif,
 .p.serif {
   font-size: 1rem; }
