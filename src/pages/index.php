@@ -8,7 +8,7 @@ og-image:
 body-id: index
 body-class: index
 ---
-<section id="sarton" class="bannerSection" style="position: relative;">
+<section id="sarton" class="bannerSection relative">
 	<div class="scrimContent flex text-center absolute">
 		<div class="prose absolute">
 			<h2 style="color: #fff;" class="serif">Jardins et Manoir de Sarton</h2>
