@@ -1,5 +1,17 @@
 @import '../../_settings.scss';
 
 .index#index {
-	
+	.bannerSection#sarton {
+		.content {
+			width: 100%;
+			height: 100%;
+			justify-content: center;
+			flex-direction: column;
+
+			.prose {
+				z-index: 10;
+				width: 100%;
+			}
+		}
+	}
 }

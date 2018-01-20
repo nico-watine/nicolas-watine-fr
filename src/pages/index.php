@@ -8,7 +8,12 @@ og-image:
 body-id: index
 body-class: index
 ---
-<section class="sarton">
+<section id="sarton" class="bannerSection" style="position: relative;">
+	<div class="content flex text-center absolute">
+		<div class="prose absolute">
+			<h2 style="color: #fff;" class="serif">Jardins et Manoir de Sarton</h2>
+		</div>
+	</div>
 	<div class="row expanded collapse">
 		<div class="medium-4 columns">
 			<img src="/img/sarton/sarton-2.jpg" alt="">
