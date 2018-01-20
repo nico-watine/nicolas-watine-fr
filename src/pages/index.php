@@ -16,19 +16,19 @@ body-class: index
 	</div>
 	<div class="row expanded collapse">
 		<div class="oneFifth">
-			<img src="/img/sarton/sarton-2.jpg" alt="">
+			<img src="/img/dessins/sanguine/duck-3.jpg" alt="">
 		</div>
 		<div class="oneFifth">
-			<img src="/img/sarton/sarton-8.jpg" alt="">
+			<img src="/img/dessins/sanguine-charcoal-chalk/portrait-1.jpg" alt="">
 		</div>
 		<div class="oneFifth">
-			<img src="/img/sarton/sarton-4.jpg" alt="">	
+			<img src="/img/dessins/sanguine/nude-2.jpg" alt="">	
 		</div>
 		<div class="oneFifth">
-			<img src="/img/sarton/sarton-4.jpg" alt="">	
+			<img src="/img/dessins/black-color-pencil/portrait-1.jpg" alt="">
 		</div>
 		<div class="oneFifth">
-			<img src="/img/sarton/sarton-4.jpg" alt="">	
+			<img src="/img/dessins/sanguine-charcoal-chalk/portrait-5.jpg" alt="">	
 		</div>
 	</div>
 </section>
