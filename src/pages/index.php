@@ -8,5 +8,5 @@ og-image:
 body-id: index
 body-class:
 ---
-<h1>Lorem ipsum dolor sit amet</h1>
-<h1 class="serif">Lorem ipsum dolor sit amet</h1>
+<h1>h1 - A Visual Type Scale</h1>
+<h1 class="serif">h1 - A Visual Type Scale</h1>
