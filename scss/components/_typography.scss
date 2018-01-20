@@ -56,68 +56,24 @@
 		font-size: $h1-medium;
 	}
 
-	.h1.caps {
-		letter-spacing: rem-calc(1);
-	}
-
 	.h2 {
 		font-size: $h2-medium;
-	}
-
-	h2.caps,
-	.h2.caps {
-		letter-spacing: rem-calc(.5);
-	}
-
-	h2.caps.bold,
-	.h2.caps.bold {
-		letter-spacing: rem-calc(1.2);
 	}
 
 	.h3 {
 		font-size: $h3-medium;
 	}
 
-	h3.caps,
-	.h3.caps {
-		letter-spacing: rem-calc(1);
-	}
-
-	h3.caps.bold,
-	.h3.caps.bold {
-		letter-spacing: rem-calc(1.2);
-	}
-
 	.h4 {
 		font-size: $h4-medium;
-	}
-
-	h4.caps,
-	.h4.caps {
-		letter-spacing: rem-calc(1);
-	}
-
-	h4.caps.bold,
-	.h4.caps.bold {
-		letter-spacing: rem-calc(1);
 	}
 
 	.h5 {
 		font-size: $h5-medium;
 	}
 
-	h5.caps,
-	.h5.caps {
-		letter-spacing: rem-calc(1.2);
-	}
-
 	.h6 {
 		font-size: $h6-medium;
-	}
-
-	h6.caps,
-	.h6.caps {
-		letter-spacing: rem-calc(1.2);
 	}
 }
 
@@ -128,9 +84,12 @@
 // |            Serif Typography            |
 // ------------------------------------------
 
-.serif {
-	line-height: 1.1;
-}
+// ---------------------------------------------------------------------- //
+// MAYBE for <h>s, come back to this ::
+// .serif {
+// 	line-height: 1.1; 
+// }
+// ---------------------------------------------------------------------- //
 
 p.serif,
 .p.serif {
@@ -178,19 +137,9 @@ h6.serif,
 		font-size: $h1-serif-medium;
 	}
 
-	h1.serif.caps,
-	.h1.serif.caps {
-		letter-spacing: rem-calc(-1);
-	}
-
 	h2.serif,
 	.h2.serif {
 		font-size: $h2-serif-medium;
-	}
-
-	h2.serif.caps,
-	.h2.serif.caps {
-		letter-spacing: rem-calc(-.5);
 	}
 
 	h3.serif,
@@ -208,19 +157,9 @@ h6.serif,
 		font-size: $h5-serif-medium;
 	}
 
-	h5.serif.caps,
-	.h5.serif.caps {
-		letter-spacing: rem-calc(.5);
-	}
-
 	h6.serif,
 	.h6.serif {
 		font-size: $h6-serif-medium;
-	}
-
-	h6.serif.caps,
-	.h6.serif.caps {
-		letter-spacing: rem-calc(.5);
 	}
 }
 

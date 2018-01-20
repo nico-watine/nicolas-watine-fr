@@ -1833,13 +1833,13 @@ h6 {
 
 @media print, screen and (min-width: 40em) {
   h1 {
-    font-size: 4rem; }
+    font-size: 6rem; }
   h2 {
-    font-size: 2.8125rem; }
+    font-size: 3.6875rem; }
   h3 {
-    font-size: 2rem; }
+    font-size: 2.3125rem; }
   h4 {
-    font-size: 1.375rem; }
+    font-size: 1.4375rem; }
   h5 {
     font-size: 1rem; }
   h6 {
@@ -4765,50 +4765,21 @@ a.thumbnail {
 
 @media print, screen and (min-width: 40em) {
   .h1 {
-    font-size: 4rem; }
-  .h1.caps {
-    letter-spacing: 0.0625rem; }
+    font-size: 6rem; }
   .h2 {
-    font-size: 2.8125rem; }
-  h2.caps,
-  .h2.caps {
-    letter-spacing: 0.03125rem; }
-  h2.caps.bold,
-  .h2.caps.bold {
-    letter-spacing: 0.075rem; }
+    font-size: 3.6875rem; }
   .h3 {
-    font-size: 2.0625rem; }
-  h3.caps,
-  .h3.caps {
-    letter-spacing: 0.0625rem; }
-  h3.caps.bold,
-  .h3.caps.bold {
-    letter-spacing: 0.075rem; }
+    font-size: 2.3125rem; }
   .h4 {
-    font-size: 1.375rem; }
-  h4.caps,
-  .h4.caps {
-    letter-spacing: 0.0625rem; }
-  h4.caps.bold,
-  .h4.caps.bold {
-    letter-spacing: 0.0625rem; }
+    font-size: 1.4375rem; }
   .h5 {
     font-size: 1rem; }
-  h5.caps,
-  .h5.caps {
-    letter-spacing: 0.075rem; }
   .h6 {
-    font-size: 0.75rem; }
-  h6.caps,
-  .h6.caps {
-    letter-spacing: 0.075rem; } }
-
-.serif {
-  line-height: 1.1; }
+    font-size: 0.75rem; } }
 
 p.serif,
 .p.serif {
-  font-size: 1rem; }
+  font-size: 1.125rem; }
 
 h1.serif,
 .h1.serif {
@@ -4837,37 +4808,25 @@ h6.serif,
 @media print, screen and (min-width: 40em) {
   p.serif,
   .p.serif {
-    font-size: 1.375rem; }
+    font-size: 1.125rem; }
   h1.serif,
   .h1.serif {
-    font-size: 5.375rem; }
-  h1.serif.caps,
-  .h1.serif.caps {
-    letter-spacing: -0.0625rem; }
+    font-size: 6.875rem; }
   h2.serif,
   .h2.serif {
-    font-size: 3.75rem; }
-  h2.serif.caps,
-  .h2.serif.caps {
-    letter-spacing: -0.03125rem; }
+    font-size: 4.25rem; }
   h3.serif,
   .h3.serif {
-    font-size: 2.6875rem; }
+    font-size: 2.625rem; }
   h4.serif,
   .h4.serif {
-    font-size: 1.875rem; }
+    font-size: 1.625rem; }
   h5.serif,
   .h5.serif {
-    font-size: 1.375rem; }
-  h5.serif.caps,
-  .h5.serif.caps {
-    letter-spacing: 0.03125rem; }
+    font-size: 1.125rem; }
   h6.serif,
   .h6.serif {
-    font-size: 1rem; }
-  h6.serif.caps,
-  .h6.serif.caps {
-    letter-spacing: 0.03125rem; } }
+    font-size: 0.875rem; } }
 
 .inline-block {
   display: inline-block; }
