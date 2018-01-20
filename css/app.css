@@ -4725,7 +4725,8 @@ a.thumbnail {
   animation-delay: 700ms !important; }
 
 .caps {
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  letter-spacing: 0.075rem; }
 
 .bold {
   font-weight: bold; }
