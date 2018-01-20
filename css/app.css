@@ -4840,6 +4840,9 @@ header.header {
 .bannerSection#sarton .scrimContent {
   background: rgba(88, 106, 113, 0.7); }
 
+.bannerSection#sarton img {
+  width: 100%; }
+
 .bannerSection#dessins .scrimContent {
   background: rgba(175, 126, 112, 0.5); }
 
