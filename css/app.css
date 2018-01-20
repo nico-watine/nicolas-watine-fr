@@ -4808,7 +4808,7 @@ a.thumbnail {
 
 p.serif,
 .p.serif {
-  font-size: 1rem; }
+  font-size: 1.125rem; }
 
 h1.serif,
 .h1.serif {
@@ -4837,7 +4837,7 @@ h6.serif,
 @media print, screen and (min-width: 40em) {
   p.serif,
   .p.serif {
-    font-size: 1.375rem; }
+    font-size: 1.125rem; }
   h1.serif,
   .h1.serif {
     font-size: 5.375rem; }
