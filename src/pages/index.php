@@ -14,21 +14,21 @@ body-class: index
 			<h2 style="color: #fff;" class="serif">Galeries des Dessins</h2>
 		</div>
 	</div>
-	<div class="row expanded collapse">
+	<div class="row expanded collapse flex">
 		<div class="oneFifth">
 			<img src="/img/dessins/sanguine/duck-3.jpg" alt="">
 		</div>
-		<div class="oneFifth">
-			<img src="/img/dessins/sanguine-charcoal-chalk/portrait-1.jpg" alt="">
+		<div class="oneFifth relative">
+			<img style="height: 100%;" class="absolute" src="/img/dessins/sanguine-charcoal-chalk/portrait-1.jpg" alt="">
 		</div>
-		<div class="oneFifth">
-			<img src="/img/dessins/sanguine/nude-2.jpg" alt="">	
+		<div class="oneFifth relative">
+			<img style="height: 100%;" class="absolute" src="/img/dessins/sanguine/nude-2.jpg" alt="">	
 		</div>
-		<div class="oneFifth">
-			<img src="/img/dessins/black-color-pencil/portrait-1.jpg" alt="">
+		<div class="oneFifth relative">
+			<img style="height: 100%;" class="absolute" src="/img/dessins/black-color-pencil/portrait-1.jpg" alt="">
 		</div>
-		<div class="oneFifth">
-			<img src="/img/dessins/sanguine-charcoal-chalk/portrait-5.jpg" alt="">	
+		<div class="oneFifth relative">
+			<img style="height: 100%;" class="absolute" src="/img/dessins/sanguine-charcoal-chalk/portrait-5.jpg" alt="">	
 		</div>
 	</div>
 </section>
