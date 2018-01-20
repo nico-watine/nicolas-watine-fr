@@ -4843,6 +4843,14 @@ header.header {
 .bannerSection#dessins .scrimContent {
   background: rgba(175, 126, 112, 0.5); }
 
+.bannerSection#dessins .oneFifth {
+  width: 20%;
+  float: left;
+  padding-right: 0;
+  padding-left: 0; }
+  .bannerSection#dessins .oneFifth:last-child:not(:first-child) {
+    float: right; }
+
 .inline-block {
   display: inline-block; }
 

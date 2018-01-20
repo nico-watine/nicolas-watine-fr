@@ -5,4 +5,8 @@
 	.scrimContent {
 		background: rgba(175,126,112,.50); // pale rust scrim
 	}
+	
+	.oneFifth {
+		@include grid-column(1 of 5, 0);
+	}
 }

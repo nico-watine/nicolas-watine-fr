@@ -15,13 +15,19 @@ body-class: index
 		</div>
 	</div>
 	<div class="row expanded collapse">
-		<div class="medium-4 columns">
+		<div class="oneFifth">
 			<img src="/img/sarton/sarton-2.jpg" alt="">
 		</div>
-		<div class="medium-4 columns">
+		<div class="oneFifth">
 			<img src="/img/sarton/sarton-8.jpg" alt="">
 		</div>
-		<div class="medium-4 columns">
+		<div class="oneFifth">
+			<img src="/img/sarton/sarton-4.jpg" alt="">	
+		</div>
+		<div class="oneFifth">
+			<img src="/img/sarton/sarton-4.jpg" alt="">	
+		</div>
+		<div class="oneFifth">
 			<img src="/img/sarton/sarton-4.jpg" alt="">	
 		</div>
 	</div>
