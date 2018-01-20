@@ -4382,6 +4382,16 @@
 		"oAP": "\/dist\/humans.txt",
 		"oF": 0
 		},
+	"\/dist\/img\/header\/watineDetail.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/header\/watineDetail.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/dist\/index.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -4442,6 +4452,16 @@
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
+		},
+	"\/img\/header\/watineDetail.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/header\/watineDetail.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/js\/app-min.js": {
 		"ft": 64,
