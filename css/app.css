@@ -4818,6 +4818,7 @@ h6.serif,
     font-size: 0.875rem; } }
 
 header.header {
+  padding: 4.375rem 0;
   background: #fff url("/img/header/watineDetail.svg") left top/cover no-repeat; }
 
 .mainNav a {
