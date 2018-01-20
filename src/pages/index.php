@@ -32,7 +32,9 @@ body-class: index
 		</div>
 	</div>
 </section>
+
 <br>
+
 <section id="sarton" class="bannerSection relative">
 	<div class="scrimContent flex text-center absolute">
 		<div class="prose absolute">
