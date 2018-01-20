@@ -1,7 +1,7 @@
 @import '../../_settings.scss';
 
 .index#index {
-	.bannerSection#sarton {
+	.bannerSection {
 		.scrimContent {
 			width: 100%;
 			height: 100%;
@@ -14,5 +14,19 @@
 				width: 100%;
 			}
 		}
+	}
+}
+
+// SARTON scrim:
+.bannerSection#sarton {
+	.scrimContent {
+		background: rgba(88,106,113,.70);
+	}
+}
+
+// DESSINS scrim:
+.bannerSection#dessins {
+	.scrimContent {
+		background: rgba(88,106,113,.70);
 	}
 }

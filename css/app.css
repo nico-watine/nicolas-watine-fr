@@ -4828,15 +4828,21 @@ header.header {
   .mainNav a:hover {
     text-decoration: underline; }
 
-.index#index .bannerSection#sarton .scrimContent {
+.index#index .bannerSection .scrimContent {
   width: 100%;
   height: 100%;
   justify-content: center;
   flex-direction: column;
   background: rgba(88, 106, 113, 0.7); }
-  .index#index .bannerSection#sarton .scrimContent .prose {
+  .index#index .bannerSection .scrimContent .prose {
     z-index: 10;
     width: 100%; }
+
+.bannerSection#sarton .scrimContent {
+  background: rgba(88, 106, 113, 0.7); }
+
+.bannerSection#dessins .scrimContent {
+  background: rgba(88, 106, 113, 0.7); }
 
 .inline-block {
   display: inline-block; }
