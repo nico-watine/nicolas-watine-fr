@@ -4765,11 +4765,11 @@ a.thumbnail {
 
 @media print, screen and (min-width: 40em) {
   .h1 {
-    font-size: 4rem; }
+    font-size: 6rem; }
   .h1.caps {
     letter-spacing: 0.0625rem; }
   .h2 {
-    font-size: 2.8125rem; }
+    font-size: 3.6875rem; }
   h2.caps,
   .h2.caps {
     letter-spacing: 0.03125rem; }
@@ -4777,7 +4777,7 @@ a.thumbnail {
   .h2.caps.bold {
     letter-spacing: 0.075rem; }
   .h3 {
-    font-size: 2.0625rem; }
+    font-size: 2.3125rem; }
   h3.caps,
   .h3.caps {
     letter-spacing: 0.0625rem; }
@@ -4785,7 +4785,7 @@ a.thumbnail {
   .h3.caps.bold {
     letter-spacing: 0.075rem; }
   .h4 {
-    font-size: 1.375rem; }
+    font-size: 1.4375rem; }
   h4.caps,
   .h4.caps {
     letter-spacing: 0.0625rem; }
