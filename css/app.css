@@ -4725,7 +4725,8 @@ a.thumbnail {
   animation-delay: 700ms !important; }
 
 .caps {
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  letter-spacing: 0.075rem; }
 
 .bold {
   font-weight: bold; }
@@ -4815,6 +4816,17 @@ h6.serif,
   h6.serif,
   .h6.serif {
     font-size: 0.875rem; } }
+
+header.header {
+  padding: 4.375rem 0;
+  background: #fff url("/img/header/watineDetail.svg") left top/cover no-repeat; }
+  header.header h1 {
+    line-height: 1; }
+
+.mainNav a {
+  color: #0a0a0a; }
+  .mainNav a:hover {
+    text-decoration: underline; }
 
 .boxShadow-1 {
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
