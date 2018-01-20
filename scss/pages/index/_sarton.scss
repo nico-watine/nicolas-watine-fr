@@ -1,32 +1,8 @@
 @import '../../_settings.scss';
 
-.index#index {
-	.bannerSection {
-		.scrimContent {
-			width: 100%;
-			height: 100%;
-			justify-content: center;
-			flex-direction: column;
-			background: rgba(88,106,113,.70);
 
-			.prose {
-				z-index: 10;
-				width: 100%;
-			}
-		}
-	}
-}
-
-// SARTON scrim:
 .bannerSection#sarton {
 	.scrimContent {
-		background: rgba(88,106,113,.70);
-	}
-}
-
-// DESSINS scrim:
-.bannerSection#dessins {
-	.scrimContent {
-		background: rgba(88,106,113,.70);
+		background: rgba(88,106,113,.70); // dark blue-gray scrim
 	}
 }
