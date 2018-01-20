@@ -4820,6 +4820,8 @@ h6.serif,
 header.header {
   padding: 4.375rem 0;
   background: #fff url("/img/header/watineDetail.svg") left top/cover no-repeat; }
+  header.header h1 {
+    line-height: 1; }
 
 .mainNav a {
   color: #0a0a0a; }

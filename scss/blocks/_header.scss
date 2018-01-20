@@ -3,4 +3,8 @@
 header.header {
 	padding: rem-calc(70) 0;
 	background: #fff url("/img/header/watineDetail.svg") left top/cover no-repeat;
+
+	h1 {
+		line-height: 1;
+	}
 }
