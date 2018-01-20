@@ -4816,6 +4816,9 @@ h6.serif,
   .h6.serif {
     font-size: 0.875rem; } }
 
+header.header {
+  background: #fff url("/img/header/watineDetail.svg") left top/cover no-repeat; }
+
 .boxShadow-1 {
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
 

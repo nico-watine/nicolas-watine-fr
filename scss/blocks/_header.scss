@@ -1,2 +1,5 @@
-@import "../_settings.scss";
+@import '../_settings.scss';
 
+header.header {
+	background: #fff url("/img/header/watineDetail.svg") left top/cover no-repeat;
+}
