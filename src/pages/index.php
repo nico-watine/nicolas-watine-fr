@@ -8,6 +8,33 @@ og-image:
 body-id: index
 body-class: index
 ---
+<section id="dessins" class="bannerSection relative">
+	<div class="scrimContent flex text-center absolute">
+		<div class="prose absolute">
+			<h2 style="color: #fff;" class="serif">Galeries des Dessins</h2>
+		</div>
+	</div>
+	<div class="row expanded collapse flex">
+		<div class="oneFifth">
+			<img src="/img/dessins/sanguine/duck-3.jpg" alt="">
+		</div>
+		<div class="oneFifth relative">
+			<img class="absolute" src="/img/dessins/sanguine-charcoal-chalk/portrait-1.jpg" alt="">
+		</div>
+		<div class="oneFifth relative">
+			<img class="absolute" src="/img/dessins/sanguine/nude-2.jpg" alt="">	
+		</div>
+		<div class="oneFifth relative">
+			<img class="absolute" src="/img/dessins/black-color-pencil/portrait-1.jpg" alt="">
+		</div>
+		<div class="oneFifth relative">
+			<img class="absolute" src="/img/dessins/sanguine-charcoal-chalk/portrait-5.jpg" alt="">	
+		</div>
+	</div>
+</section>
+
+<br>
+
 <section id="sarton" class="bannerSection relative">
 	<div class="scrimContent flex text-center absolute">
 		<div class="prose absolute">
