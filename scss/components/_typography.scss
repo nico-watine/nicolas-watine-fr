@@ -1,6 +1,28 @@
 @import "../_settings.scss";
 @import "typography/_fonts.scss";
 
+// --------------------------------------
+// |            CAPS classes            |
+// --------------------------------------
+
+.caps {
+	text-transform: uppercase;
+}
+
+// --------------------------------------
+// |            BOLD classes            |
+// --------------------------------------
+
+.bold {
+	font-weight: bold;
+}
+
+
+// -------------------------------------------------------
+// |            Default sans-serif typography            |
+// -------------------------------------------------------
+
+
 .p {
 	font-size: $p;
 }
@@ -54,4 +76,92 @@
 		font-size: $h6-medium;
 	}
 }
+
+// ---------------------------------------------------------------------- //
+
+
+// ------------------------------------------
+// |            Serif Typography            |
+// ------------------------------------------
+
+// ---------------------------------------------------------------------- //
+// MAYBE for <h>s, come back to this ::
+// .serif {
+// 	line-height: 1.1; 
+// }
+// ---------------------------------------------------------------------- //
+
+p.serif,
+.p.serif {
+	font-size: $p-serif;
+}
+
+h1.serif,
+.h1.serif {
+	font-size: $h1-serif;
+}
+
+h2.serif,
+.h2.serif {
+	font-size: $h2-serif;
+}
+
+h3.serif,
+.h3.serif {
+	font-size: $h3-serif;
+}
+
+h4.serif,
+.h4.serif {
+	font-size: $h4-serif;
+}
+
+h5.serif,
+.h5.serif {
+	font-size: $h5-serif;
+}
+
+h6.serif,
+.h6.serif {
+	font-size: $h6-serif;
+}
+
+@include breakpoint(medium) {
+	p.serif,
+	.p.serif {
+		font-size: $p-serif-medium;
+	}
+
+	h1.serif,
+	.h1.serif {
+		font-size: $h1-serif-medium;
+	}
+
+	h2.serif,
+	.h2.serif {
+		font-size: $h2-serif-medium;
+	}
+
+	h3.serif,
+	.h3.serif {
+		font-size: $h3-serif-medium;
+	}
+
+	h4.serif,
+	.h4.serif {
+		font-size: $h4-serif-medium;
+	}
+
+	h5.serif,
+	.h5.serif {
+		font-size: $h5-serif-medium;
+	}
+
+	h6.serif,
+	.h6.serif {
+		font-size: $h6-serif-medium;
+	}
+}
+
+
 
