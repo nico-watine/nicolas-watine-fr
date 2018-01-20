@@ -4850,6 +4850,8 @@ header.header {
   padding-left: 0; }
   .bannerSection#dessins .oneFifth:last-child:not(:first-child) {
     float: right; }
+  .bannerSection#dessins .oneFifth img.absolute {
+    height: 100%; }
 
 .inline-block {
   display: inline-block; }

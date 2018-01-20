@@ -19,16 +19,16 @@ body-class: index
 			<img src="/img/dessins/sanguine/duck-3.jpg" alt="">
 		</div>
 		<div class="oneFifth relative">
-			<img style="height: 100%;" class="absolute" src="/img/dessins/sanguine-charcoal-chalk/portrait-1.jpg" alt="">
+			<img class="absolute" src="/img/dessins/sanguine-charcoal-chalk/portrait-1.jpg" alt="">
 		</div>
 		<div class="oneFifth relative">
-			<img style="height: 100%;" class="absolute" src="/img/dessins/sanguine/nude-2.jpg" alt="">	
+			<img class="absolute" src="/img/dessins/sanguine/nude-2.jpg" alt="">	
 		</div>
 		<div class="oneFifth relative">
-			<img style="height: 100%;" class="absolute" src="/img/dessins/black-color-pencil/portrait-1.jpg" alt="">
+			<img class="absolute" src="/img/dessins/black-color-pencil/portrait-1.jpg" alt="">
 		</div>
 		<div class="oneFifth relative">
-			<img style="height: 100%;" class="absolute" src="/img/dessins/sanguine-charcoal-chalk/portrait-5.jpg" alt="">	
+			<img class="absolute" src="/img/dessins/sanguine-charcoal-chalk/portrait-5.jpg" alt="">	
 		</div>
 	</div>
 </section>
