@@ -6,5 +6,5 @@ og-title:
 og-description:
 og-image:
 body-id: index
-body-class:
+body-class: index
 ---
