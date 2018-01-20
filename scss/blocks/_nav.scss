@@ -2,9 +2,10 @@
 
 .mainNav {
 	a {
+		color: $black;
+		
 		&:hover {
 			text-decoration: underline;
-			color: $black;
 		}
 	}
 }
