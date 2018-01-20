@@ -873,7 +873,7 @@ template {
   display: none; }
 
 .foundation-mq {
-  font-family: "small=0em&medium=40em&large=64em&xlarge=75em&xxlarge=90em"; }
+  font-family: "small=0em&medium=40em&large=64em&xlarge=75em"; }
 
 html {
   box-sizing: border-box;
@@ -940,7 +940,7 @@ pre {
   display: none !important; }
 
 .row {
-  max-width: 75rem;
+  max-width: 90rem;
   margin-right: auto;
   margin-left: auto; }
   .row::before, .row::after {
@@ -981,9 +981,6 @@ pre {
   .row.gutter-large > .column, .row.gutter-large > .columns {
     padding-right: 0.9375rem;
     padding-left: 0.9375rem; }
-  .row.gutter-xlarge > .column, .row.gutter-xlarge > .columns {
-    padding-right: 1.25rem;
-    padding-left: 1.25rem; }
 
 .column, .columns {
   width: 100%;
@@ -998,10 +995,6 @@ pre {
     .column, .columns {
       padding-right: 0.9375rem;
       padding-left: 0.9375rem; } }
-  @media screen and (min-width: 75em) {
-    .column, .columns {
-      padding-right: 1.25rem;
-      padding-left: 1.25rem; } }
   .column:last-child:not(:first-child), .columns:last-child:not(:first-child) {
     float: right; }
   .column.end:last-child:last-child, .end.columns:last-child:last-child {
@@ -1727,11 +1720,6 @@ pre {
       margin-bottom: 1.875rem; }
       .column-block > :last-child {
         margin-bottom: 0; } }
-  @media screen and (min-width: 75em) {
-    .column-block {
-      margin-bottom: 2.5rem; }
-      .column-block > :last-child {
-        margin-bottom: 0; } }
 
 div,
 dl,
@@ -1857,7 +1845,7 @@ a {
 
 hr {
   clear: both;
-  max-width: 75rem;
+  max-width: 90rem;
   height: 0;
   margin: 1.25rem auto;
   border-top: 0;
@@ -3748,7 +3736,7 @@ html.is-reveal-open body {
   @media print, screen and (min-width: 40em) {
     .reveal {
       width: 600px;
-      max-width: 75rem; } }
+      max-width: 90rem; } }
   @media print, screen and (min-width: 40em) {
     .reveal .reveal {
       right: auto;
@@ -3759,15 +3747,15 @@ html.is-reveal-open body {
   @media print, screen and (min-width: 40em) {
     .reveal.tiny {
       width: 30%;
-      max-width: 75rem; } }
+      max-width: 90rem; } }
   @media print, screen and (min-width: 40em) {
     .reveal.small {
       width: 50%;
-      max-width: 75rem; } }
+      max-width: 90rem; } }
   @media print, screen and (min-width: 40em) {
     .reveal.large {
       width: 90%;
-      max-width: 75rem; } }
+      max-width: 90rem; } }
   .reveal.full {
     top: 0;
     left: 0;
