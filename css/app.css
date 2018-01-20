@@ -4731,6 +4731,9 @@ a.thumbnail {
 .bold {
   font-weight: bold; }
 
+.white {
+  color: #fff; }
+
 .p {
   font-size: 1rem; }
 
