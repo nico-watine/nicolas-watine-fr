@@ -11,7 +11,8 @@ body-class: index
 <section id="dessins" class="bannerSection relative">
 	<div class="scrimContent flex text-center absolute">
 		<div class="prose absolute">
-			<h2 style="color: #fff;" class="serif">Galeries des Dessins</h2>
+			<h2 style="color: #fff; line-height: 1;" class="margin-0 serif">Galeries des Dessins</h2>
+			<a href="" style="color: #fff;" class="h4 caps">Voir</a>
 		</div>
 	</div>
 	<div class="row expanded collapse flex">
