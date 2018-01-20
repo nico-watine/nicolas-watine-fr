@@ -1,15 +1,19 @@
-@import "../../_settings.scss";
+@import '../../_settings.scss';
 
-@font-face {
-	font-family: 'Garamond-MedDisp';
-	src: url('/fonts/garamond/garamond-mediumDisplay.eot'); /* IE9 Compat Modes */
-	src: url('/fonts/garamond/garamond-mediumDisplay.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-		 url('/fonts/garamond/garamond-mediumDisplay.woff2') format('woff2'),
-		 url('/fonts/garamond/garamond-mediumDisplay.woff') format('woff'), /* Modern Browsers */
-		 url('/fonts/garamond/garamond-mediumDisplay.ttf')  format('truetype'), /* Safari, Android, iOS */
-		 url('/fonts/garamond/garamond-mediumDisplay.otf') format('opentype'),
-		 url('/fonts/garamond/garamond-mediumDisplay.svg#02867ce269869308b19469756adfa7bc') format('svg'); /* Legacy iOS */
 
-	font-style: normal;
-	font-weight: 400;
-}
+// -----------------------------------------
+// |            Typekit @import            |
+// -----------------------------------------
+@import url('https://use.typekit.net/agd4krm.css');
+
+
+// Custom target class ::
+// .serif
+
+
+// ---------------------------------------------------------------------- //
+// Demo CSS Usage ::
+// font-family: "garamond-premier-pro-display",serif;
+// font-style: normal;
+// font-weight: 500;
+// ---------------------------------------------------------------------- //
