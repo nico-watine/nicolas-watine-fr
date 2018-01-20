@@ -9,7 +9,7 @@ body-id: index
 body-class: index
 ---
 <section id="sarton" class="bannerSection" style="position: relative;">
-	<div class="content flex text-center absolute">
+	<div class="scrimContent flex text-center absolute">
 		<div class="prose absolute">
 			<h2 style="color: #fff;" class="serif">Jardins et Manoir de Sarton</h2>
 		</div>

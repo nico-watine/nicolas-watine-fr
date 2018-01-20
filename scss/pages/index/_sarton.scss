@@ -2,11 +2,12 @@
 
 .index#index {
 	.bannerSection#sarton {
-		.content {
+		.scrimContent {
 			width: 100%;
 			height: 100%;
 			justify-content: center;
 			flex-direction: column;
+			background: rgba(88,106,113,.70);
 
 			.prose {
 				z-index: 10;
