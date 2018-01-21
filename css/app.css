@@ -4839,7 +4839,6 @@ header.header {
   .biographyMonologue .blurBackground {
     background: inherit;
     width: 100%;
-    height: 350px;
     overflow: hidden; }
   .biographyMonologue .blurBackground::before {
     content: "";
