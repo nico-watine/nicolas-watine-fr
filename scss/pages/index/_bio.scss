@@ -1,10 +1,7 @@
 @import "../../_settings.scss";
 
 .biographyMonologue {
-	background-image: url("/img/nicolas-watine-atelier.jpg");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-size: cover;
+	background: $white url("/img/nicolas-watine-atelier.jpg") center/cover no-repeat fixed;
 
 	.prose {
 		background: inherit;

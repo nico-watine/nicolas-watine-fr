@@ -4835,10 +4835,7 @@ header.header {
     text-decoration: underline; }
 
 .biographyMonologue {
-  background-image: url("/img/nicolas-watine-atelier.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover; }
+  background: #fefefe url("/img/nicolas-watine-atelier.jpg") center/cover no-repeat fixed; }
   .biographyMonologue .prose {
     background: inherit;
     width: 100%;
