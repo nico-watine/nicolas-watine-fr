@@ -22,9 +22,15 @@
 		filter: blur(2px);
 	}
 
-	.prose {
+	.scrimContent {
 		background: rgba(88,106,113,.10);
 		height: 100%;
+	}
+
+	.prose {
+		max-width: rem-calc(690);
+		width: 80%;
+		margin: 0 auto;
 
 		.serif {
 			line-height: 1.2;
