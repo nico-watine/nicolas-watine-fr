@@ -11,8 +11,8 @@ body-class: index
 <section id="dessins" class="bannerSection relative">
 	<div class="scrimContent flex text-center absolute">
 		<div class="prose absolute">
-			<h2 style="color: #fff; line-height: 1;" class="margin-0 serif">Galeries des Dessins</h2>
-			<a href="" style="color: #fff;" class="h4 caps">Voir</a>
+			<h2 class="white line-height-1 margin-0 serif">Galeries des Dessins</h2>
+			<a href="" class="white h4 caps">Voir</a>
 		</div>
 	</div>
 	<div class="row expanded collapse flex">
@@ -39,8 +39,8 @@ body-class: index
 <section id="sarton" class="bannerSection relative">
 	<div class="scrimContent flex text-center absolute">
 		<div class="prose absolute">
-			<h2 style="color: #fff; line-height: 1;" class="margin-0 serif">Jardins et Manoir de Sarton</h2>
-			<a href="" style="color: #fff;" class="h4 caps">Visite</a>
+			<h2 class="white line-height-1 margin-0 serif">Jardins et Manoir de Sarton</h2>
+			<a href="" class="white h4 caps">Visite</a>
 		</div>
 	</div>
 	<div class="row expanded collapse">
