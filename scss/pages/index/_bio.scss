@@ -2,8 +2,8 @@
 
 .biographyMonologue {
 	background: $white url("/img/nicolas-watine-atelier.jpg") center/cover no-repeat fixed;
-	height: rem-calc(460);
-	margin-bottom: 50px;
+	height: 480px;
+	margin-bottom: 30px;
 
 	.blurBackground {
 		background: inherit;
@@ -26,14 +26,13 @@
 
 	.scrimContent {
 		background: rgba(88,106,113,.10);
-		height: 100%;
 	}
 
 	.prose {
 		max-width: rem-calc(690);
 		width: 80%;
-		height: 460px;
 		margin: 0 auto;
+		height: 480px;
 
 		.serif {
 			line-height: 1.2;
