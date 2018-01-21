@@ -60,8 +60,12 @@ body-class: index
 
 <section class="biographyMonologue">
 	<div class="scrimContent">
-		<div class="prose absolute">
-			<p class="h3 serif">For many years, I painted objects I could touch, objects close to me.</p>
+		<div class="row">
+			<div class="large-10 large-push-2 columns">
+				<div class="prose">
+					<p class="h3 serif">For many years, I painted objects I could touch, objects close to me.</p>
+				</div>
+			</div>
 		</div>
 	</div>
 </section>
