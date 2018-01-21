@@ -59,12 +59,10 @@ body-class: index
 <br>
 
 <section class="biographyMonologue">
-	<div class="scrimContent absolute">
-		<div class="row relative">
+	<div class="blurBackground absolute">
+		<div class="prose row relative">
 			<div class="columns">
-				<div class="prose">
-					<p class="h3 serif">For many years, I painted objects I could touch, objects close to me.</p>
-				</div>
+				<p class="h3 serif">For many years, I painted objects I could touch, objects close to me.</p>
 			</div>
 		</div>
 	</div>
