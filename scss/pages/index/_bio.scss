@@ -1,7 +1,9 @@
 @import "../../_settings.scss";
 
 .biographyMonologue {
-	background: $white url("/img/nicolas-watine-atelier.jpg") center/cover no-repeat;
+	background: $white url("/img/nicolas-watine-atelier.jpg") center/cover no-repeat fixed;
+	height: rem-calc(460);
+	margin-bottom: 50px;
 
 	.blurBackground {
 		background: inherit;
@@ -30,6 +32,7 @@
 	.prose {
 		max-width: rem-calc(690);
 		width: 80%;
+		height: 460px;
 		margin: 0 auto;
 
 		.serif {

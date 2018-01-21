@@ -4835,7 +4835,9 @@ header.header {
     text-decoration: underline; }
 
 .biographyMonologue {
-  background: #fefefe url("/img/nicolas-watine-atelier.jpg") center/cover no-repeat; }
+  background: #fefefe url("/img/nicolas-watine-atelier.jpg") center/cover no-repeat fixed;
+  height: 28.75rem;
+  margin-bottom: 50px; }
   .biographyMonologue .blurBackground {
     background: inherit;
     width: 100%;
@@ -4857,6 +4859,7 @@ header.header {
   .biographyMonologue .prose {
     max-width: 43.125rem;
     width: 80%;
+    height: 460px;
     margin: 0 auto; }
     .biographyMonologue .prose .serif {
       line-height: 1.2; }
