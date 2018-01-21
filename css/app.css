@@ -4854,6 +4854,8 @@ header.header {
   .biographyMonologue .prose {
     background: rgba(88, 106, 113, 0.1);
     height: 100%; }
+    .biographyMonologue .prose .serif {
+      line-height: 1.2; }
 
 .index#index .bannerSection .scrimContent {
   width: 100%;
