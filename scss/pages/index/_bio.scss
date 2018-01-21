@@ -3,7 +3,7 @@
 .biographyMonologue {
 	background: $white url("/img/nicolas-watine-atelier.jpg") center/cover no-repeat fixed;
 
-	.prose {
+	.scrimContent {
 		background: inherit;
 		width: 100%;
 		height: 350px;
@@ -11,7 +11,7 @@
 		overflow: hidden;
 	}
 
-	.prose::before {
+	.scrimContent::before {
 		content: "";
 		background: inherit;
 		height: 110%;
