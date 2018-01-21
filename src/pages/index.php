@@ -55,3 +55,10 @@ body-class: index
 		</div>
 	</div>
 </section>
+
+<br>
+
+<section class="biographyMonologue">
+	<div class="prose"></div>
+</section>
+
