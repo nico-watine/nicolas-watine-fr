@@ -11,7 +11,7 @@ body-class: artGallery
 <div class="sideBar" style="width: 360px; float: left; background: #70848c;">
 	<h1 class="serif white">Venises</h1>
 </div>
-<div class="artCard-section" style="background: #F0F2F2; padding-left: 360px;">
+<div class="artworkGrid">
 	<div class="row">
 		<br>
 		<br>
