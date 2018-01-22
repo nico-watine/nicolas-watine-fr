@@ -27,24 +27,24 @@ body-class: artGallery
 			</div>
 		</div>
 		<div class="large-4 columns">
-			<div class="artCard padding-XY boxShadow-1" style="background: #fff; margin-bottom: 50px;">
-				<div class="artCard-image" style="position: relative; padding-bottom: 100%; margin-bottom: 15px;">
-					<img class="absolute-center" style="max-height: 100%;" src="/img/beta/3.jpg" alt="">
+			<div class="artCard padding-XY">
+				<div class="artCard-image">
+					<img class="absolute-center" src="/img/beta/3.jpg" alt="">
 				</div>
 				<div class="artCard-prose">
-					<h4 class="title">Pieux rouges à Venise</h4>
-					<p class="dimensions">65 x 54 cm</p>
+					<h4 class="title">Volets verts à Venise</h4>
+					<p class="dimensions">41 x 33 cm</p>
 				</div>
 			</div>
 		</div>
 		<div class="large-4 columns">
-			<div class="artCard padding-XY boxShadow-1" style="background: #fff; margin-bottom: 50px;">
-				<div class="artCard-image" style="position: relative; padding-bottom: 100%; margin-bottom: 15px;">
-					<img class="absolute-center" style="max-height: 100%;" src="/img/beta/5.jpg" alt="">
+			<div class="artCard padding-XY">
+				<div class="artCard-image">
+					<img class="absolute-center" src="/img/beta/5.jpg" alt="">
 				</div>
 				<div class="artCard-prose">
-					<h4 class="title">Pieux rouges à Venise</h4>
-					<p class="dimensions">65 x 54 cm</p>
+					<h4 class="title">Grand Venise gris</h4>
+					<p class="dimensions">116 x 89 cm</p>
 				</div>
 			</div>
 		</div>
