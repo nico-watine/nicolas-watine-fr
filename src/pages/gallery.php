@@ -16,7 +16,7 @@ body-class: artGallery
 		<br>
 		<br>
 		<div class="large-4 columns">
-			<div class="artCard padding-XY">
+			<div class="artCard">
 				<div class="artCard-image">
 					<img class="absolute-center" src="/img/beta/1.jpg" alt="">
 				</div>
@@ -27,7 +27,7 @@ body-class: artGallery
 			</div>
 		</div>
 		<div class="large-4 columns">
-			<div class="artCard padding-XY">
+			<div class="artCard">
 				<div class="artCard-image">
 					<img class="absolute-center" src="/img/beta/3.jpg" alt="">
 				</div>
@@ -38,7 +38,7 @@ body-class: artGallery
 			</div>
 		</div>
 		<div class="large-4 columns">
-			<div class="artCard padding-XY">
+			<div class="artCard">
 				<div class="artCard-image">
 					<img class="absolute-center" src="/img/beta/5.jpg" alt="">
 				</div>
