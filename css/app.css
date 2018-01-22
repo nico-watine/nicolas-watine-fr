@@ -4871,6 +4871,12 @@ header.header {
 .flex {
   display: flex; }
 
+.completeCenter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
 .relative {
   position: relative; }
 
