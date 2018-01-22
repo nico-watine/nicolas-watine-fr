@@ -16,34 +16,35 @@ body-class: artGallery
 		<br>
 		<br>
 		<div class="large-4 columns">
-			<div class="artCard boxShadow-1 padding-XY" style="background: #fff; margin-bottom: 50px;">
+			<div class="artCard padding-XY boxShadow-1" style="background: #fff; margin-bottom: 50px;">
 				<div class="artCard-image" style="position: relative; padding-bottom: 100%; margin-bottom: 15px;">
 					<img class="absolute-center" style="max-height: 100%;" src="/img/beta/1.jpg" alt="">
 				</div>
 				<div class="artCard-prose">
-					
+					<h4 class="title">Pieux rouges à Venise</h4>
+					<p class="dimensions">65 x 54 cm</p>
 				</div>
 			</div>
 		</div>
 		<div class="large-4 columns">
-			<div class="artCard boxShadow-1 padding-XY" style="background: #fff; margin-bottom: 50px;">
+			<div class="artCard padding-XY boxShadow-1" style="background: #fff; margin-bottom: 50px;">
 				<div class="artCard-image" style="position: relative; padding-bottom: 100%; margin-bottom: 15px;">
-					<img class="vertical-center" style="max-height: 100%;" src="/img/beta/3.jpg" alt="">
+					<img class="absolute-center" style="max-height: 100%;" src="/img/beta/3.jpg" alt="">
 				</div>
 				<div class="artCard-prose">
-					
+					<h4 class="title">Pieux rouges à Venise</h4>
+					<p class="dimensions">65 x 54 cm</p>
 				</div>
 			</div>
 		</div>
 		<div class="large-4 columns">
-			<div class="artCard boxShadow-1 padding-XY" style="background: #fff; margin-bottom: 50px;">
+			<div class="artCard padding-XY boxShadow-1" style="background: #fff; margin-bottom: 50px;">
 				<div class="artCard-image" style="position: relative; padding-bottom: 100%; margin-bottom: 15px;">
-					<div class="absolute text-center" style="width: 100%; height: 100%;">
-						<img style="max-height: 100%;" src="/img/beta/5.jpg" alt="">
-					</div>
+					<img class="absolute-center" style="max-height: 100%;" src="/img/beta/5.jpg" alt="">
 				</div>
 				<div class="artCard-prose">
-					
+					<h4 class="title">Pieux rouges à Venise</h4>
+					<p class="dimensions">65 x 54 cm</p>
 				</div>
 			</div>
 		</div>
