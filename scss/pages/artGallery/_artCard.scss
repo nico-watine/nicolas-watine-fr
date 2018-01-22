@@ -1,16 +1,17 @@
 @import "../../_settings.scss";
 
 .artCard {
-	box-shadow: 0 2px 1px 0 rgba(0,0,0,.20), 0 1px 1px 0 rgba(0,0,0,.14), 0 1px 3px 0 rgba(0,0,0,.12);
+	box-shadow: 0 rem-calc(2) rem-calc(1) 0 rgba(0,0,0,.20), 0 rem-calc(1) rem-calc(1) 0 rgba(0,0,0,.14), 0 rem-calc(1) rem-calc(3) 0 rgba(0,0,0,.12);
 	background: #fff;
-	margin-bottom: 50px;
-	border-radius: 3px;
+	margin-bottom: rem-calc(50);
+	border-radius: rem-calc(3);
+	padding: rem-calc(15);
 }
 
 .artCard-image {
 	position: relative;
 	padding-bottom: 100%;
-	margin-bottom: 15px;
+	margin-bottom: rem-calc(15);
 
 	img {
 		max-height: 100%;
