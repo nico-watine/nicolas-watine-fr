@@ -4883,6 +4883,11 @@ header.header {
 .absolute {
   position: absolute; }
 
+.vertical-center {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%); }
+
 .padding-0 {
   padding: 0; }
 

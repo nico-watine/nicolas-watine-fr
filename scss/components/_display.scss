@@ -40,3 +40,8 @@
 .absolute {
 	position: absolute;
 }
+
+
+.vertical-center {
+	@include vertical-center;
+}
