@@ -12,9 +12,9 @@ body-class: artGallery
 	<h1 class="serif white">Venises</h1>
 </div>
 <div class="artworkGrid">
+	<br>
+	<br>
 	<div class="row">
-		<br>
-		<br>
 		<div class="large-4 columns">
 			<div class="artCard">
 				<div class="artCard-image">
