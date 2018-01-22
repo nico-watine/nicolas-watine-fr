@@ -4879,6 +4879,10 @@ header.header {
 .artCard-prose .title {
   margin: 0; }
 
+.artworkGrid {
+  background: #f0f2f2;
+  padding-left: 360px; }
+
 .inline-block {
   display: inline-block; }
 
