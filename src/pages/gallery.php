@@ -16,9 +16,9 @@ body-class: artGallery
 		<br>
 		<br>
 		<div class="large-4 columns">
-			<div class="artCard padding-XY boxShadow-1" style="background: #fff; margin-bottom: 50px;">
-				<div class="artCard-image" style="position: relative; padding-bottom: 100%; margin-bottom: 15px;">
-					<img class="absolute-center" style="max-height: 100%;" src="/img/beta/1.jpg" alt="">
+			<div class="artCard padding-XY">
+				<div class="artCard-image">
+					<img class="absolute-center" src="/img/beta/1.jpg" alt="">
 				</div>
 				<div class="artCard-prose">
 					<h4 class="title">Pieux rouges à Venise</h4>

@@ -4862,6 +4862,21 @@ header.header {
   .bannerSection#dessins .oneFifth img.absolute {
     height: 100%; }
 
+.artCard {
+  box-shadow: 0 2px 1px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12);
+  background: #fff;
+  margin-bottom: 50px; }
+
+.artCard-image {
+  position: relative;
+  padding-bottom: 100%;
+  margin-bottom: 15px; }
+  .artCard-image img {
+    max-height: 100%; }
+
+.artCard-prose .title {
+  margin: 0; }
+
 .inline-block {
   display: inline-block; }
 
