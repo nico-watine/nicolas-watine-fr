@@ -48,8 +48,7 @@ body-class: artGallery
 				</div>
 			</div>
 		</div>
-	</div>
-	<div class="row">
+		<!-- 2nd row :: -->
 		<div class="large-4 columns">
 			<div class="artCard">
 				<div class="artCard-image">
