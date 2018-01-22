@@ -13,18 +13,20 @@ body-class: artGallery
 </div>
 <div class="artCard-section" style="background: #F0F2F2; padding-left: 360px;">
 	<div class="row">
+		<br>
+		<br>
 		<div class="large-4 columns">
-			<div class="artCard boxShadow-1" style="height: 300px; background: #fff;">
+			<div class="artCard boxShadow-1" style="height: 300px; background: #fff; margin-bottom: 50px;">
 				&nbsp;
 			</div>
 		</div>
 		<div class="large-4 columns">
-			<div class="artCard boxShadow-1" style="height: 300px; background: #fff;">
+			<div class="artCard boxShadow-1" style="height: 300px; background: #fff; margin-bottom: 50px;">
 				&nbsp;
 			</div>
 		</div>
 		<div class="large-4 columns">
-			<div class="artCard boxShadow-1" style="height: 300px; background: #fff;">
+			<div class="artCard boxShadow-1" style="height: 300px; background: #fff; margin-bottom: 50px;">
 				&nbsp;
 			</div>
 		</div>
