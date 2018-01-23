@@ -4790,15 +4790,15 @@ h3.serif,
 
 h4.serif,
 .h4.serif {
-  font-size: 1.125rem; }
+  font-size: 1.625rem; }
 
 h5.serif,
 .h5.serif {
-  font-size: 1.0625rem; }
+  font-size: 1.125rem; }
 
 h6.serif,
 .h6.serif {
-  font-size: 1rem; }
+  font-size: 0.875rem; }
 
 @media print, screen and (min-width: 40em) {
   p.serif,
