@@ -14,9 +14,9 @@ body-class: artGallery
 <div class="artworkGrid">
 	<br>
 	<br>
-	<div class="row">
+	<div class="row" data-equalizer>
 		<div class="medium-6 large-4 columns">
-			<div class="artCard">
+			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
 					<img class="absolute-center" src="/img/beta/1.jpg" alt="">
 				</div>
@@ -27,7 +27,7 @@ body-class: artGallery
 			</div>
 		</div>
 		<div class="medium-6 large-4 columns">
-			<div class="artCard">
+			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
 					<img class="absolute-center" src="/img/beta/3.jpg" alt="">
 				</div>
@@ -38,7 +38,7 @@ body-class: artGallery
 			</div>
 		</div>
 		<div class="medium-6 large-4 columns">
-			<div class="artCard">
+			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
 					<img class="absolute-center" src="/img/beta/5.jpg" alt="">
 				</div>
@@ -50,7 +50,7 @@ body-class: artGallery
 		</div>
 		<!-- 2nd row :: -->
 		<div class="medium-6 large-4 columns">
-			<div class="artCard">
+			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
 					<img class="absolute-center" src="/img/beta/1.jpg" alt="">
 				</div>
@@ -61,7 +61,7 @@ body-class: artGallery
 			</div>
 		</div>
 		<div class="medium-6 large-4 columns">
-			<div class="artCard">
+			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
 					<img class="absolute-center" src="/img/beta/3.jpg" alt="">
 				</div>
@@ -72,7 +72,7 @@ body-class: artGallery
 			</div>
 		</div>
 		<div class="medium-6 large-4 columns">
-			<div class="artCard">
+			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
 					<img class="absolute-center" src="/img/beta/5.jpg" alt="">
 				</div>
