@@ -8,13 +8,13 @@ og-image:
 body-id: gallery
 body-class: artGallery
 ---
-<div class="sideBar">
-	<h1 class="serif white">Venises</h1>
+<div class="sideBar padding-XY">
+	<h1 class="galleryTitle serif white">Sanguine, Charcoal &amp; Chalk</h1>
 </div>
 <div class="artworkGrid">
 	<br>
 	<br>
-	<div class="row" data-equalizer data-equalize-by-row="true">
+	<div class="row" data-equalizer data-equalize-on="medium" data-equalize-by-row="true">
 		<div class="medium-6 large-4 columns">
 			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">

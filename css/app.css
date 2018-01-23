@@ -4863,16 +4863,26 @@ header.header {
     height: 100%; }
 
 .sideBar {
-  width: 360px;
-  float: left;
   background: #70848c; }
+  @media print, screen and (min-width: 40em) {
+    .sideBar {
+      width: 15rem;
+      float: left; }
+      .sideBar .galleryTitle {
+        font-size: 3rem; } }
+  @media screen and (min-width: 64.0625em) {
+    .sideBar {
+      width: 22.5rem; }
+      .sideBar .galleryTitle {
+        font-size: 4.25rem; } }
 
 .artCard {
   box-shadow: 0 0.125rem 0.0625rem 0 rgba(0, 0, 0, 0.2), 0 0.0625rem 0.0625rem 0 rgba(0, 0, 0, 0.14), 0 0.0625rem 0.1875rem 0 rgba(0, 0, 0, 0.12);
   background: #fff;
-  margin-bottom: 3.125rem;
   border-radius: 0.1875rem;
-  padding: 0.9375rem; }
+  padding: 0.9375rem;
+  margin: 0 auto 50px;
+  max-width: 26.25rem; }
 
 .artCard-image {
   position: relative;
@@ -4885,8 +4895,13 @@ header.header {
   margin: 0; }
 
 .artworkGrid {
-  background: #f0f2f2;
-  padding-left: 360px; }
+  background: #f0f2f2; }
+  @media print, screen and (min-width: 40em) {
+    .artworkGrid {
+      padding-left: 15rem; } }
+  @media screen and (min-width: 64.0625em) {
+    .artworkGrid {
+      padding-left: 22.5rem; } }
 
 .inline-block {
   display: inline-block; }
