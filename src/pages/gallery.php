@@ -14,14 +14,14 @@ body-class: artGallery
 <div class="artworkGrid">
 	<br>
 	<br>
-	<div class="row" data-equalizer>
+	<div class="row" data-equalizer data-equalize-by-row="true">
 		<div class="medium-6 large-4 columns">
 			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
 					<img class="absolute-center" src="/img/beta/1.jpg" alt="">
 				</div>
 				<div class="artCard-prose">
-					<h4 class="title">Pieux rouges à Venise</h4>
+					<h4 class="title">Pieux rouges à Venise Pieux rouges à Venise Pieux rouges à Venise</h4>
 					<p class="dimensions">65 x 54 cm</p>
 				</div>
 			</div>
