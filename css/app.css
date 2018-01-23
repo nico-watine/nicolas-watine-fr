@@ -4870,7 +4870,7 @@ header.header {
       float: left; }
       .sideBar .galleryTitle {
         font-size: 3rem; } }
-  @media print, screen and (min-width: 64em) {
+  @media screen and (min-width: 64.0625em) {
     .sideBar {
       width: 22.5rem; }
       .sideBar .galleryTitle {
@@ -4899,7 +4899,7 @@ header.header {
   @media print, screen and (min-width: 40em) {
     .artworkGrid {
       padding-left: 15rem; } }
-  @media print, screen and (min-width: 64em) {
+  @media screen and (min-width: 64.0625em) {
     .artworkGrid {
       padding-left: 22.5rem; } }
 

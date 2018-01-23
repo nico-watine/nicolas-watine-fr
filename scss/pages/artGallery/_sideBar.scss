@@ -12,7 +12,7 @@
 		}
 	}
 
-	@include breakpoint(large) {
+	@include breakpoint(1025) {
 		width: rem-calc(360);
 
 		.galleryTitle {

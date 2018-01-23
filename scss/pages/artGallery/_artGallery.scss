@@ -10,7 +10,7 @@
 		padding-left: rem-calc(240);
 	}
 
-	@include breakpoint(large) {
+	@include breakpoint(1025) {
 		padding-left: rem-calc(360);
 	}
 }
