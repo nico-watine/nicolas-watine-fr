@@ -10,6 +10,13 @@ body-class: artGallery
 ---
 <div class="sideBar padding-XY">
 	<h1 class="galleryTitle serif white">Sanguine, Charcoal &amp; Chalk</h1>
+	<nav class="sideNav">
+		<ul class="menu vertical">
+			<li class="h4 caps"><a href="">Natures Mortes</a></li>
+			<li class="h4 caps"><a href="">Paysages</a></li>
+			<li class="h4 caps"><a href="">Marines</a></li>
+		</ul>
+	</nav>
 </div>
 <div class="artworkGrid">
 	<br>

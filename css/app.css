@@ -4876,6 +4876,12 @@ header.header {
       .sideBar .galleryTitle {
         font-size: 4.25rem; } }
 
+.sideNav .menu li a {
+  display: inline-block;
+  color: #fff; }
+  .sideNav .menu li a:hover {
+    text-decoration: underline; }
+
 .artCard {
   box-shadow: 0 0.125rem 0.0625rem 0 rgba(0, 0, 0, 0.2), 0 0.0625rem 0.0625rem 0 rgba(0, 0, 0, 0.14), 0 0.0625rem 0.1875rem 0 rgba(0, 0, 0, 0.12);
   background: #fff;

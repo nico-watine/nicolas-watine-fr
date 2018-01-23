@@ -20,3 +20,14 @@
 		}
 	}
 }
+
+.sideNav {
+	.menu li a {
+		display: inline-block;
+		color: #fff;
+
+		&:hover {
+			text-decoration: underline;
+		}	
+	}
+}
