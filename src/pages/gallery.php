@@ -11,7 +11,7 @@ body-class: artGallery
 <div class="sideBar padding-XY">
 	<h1 class="galleryTitle serif white padding-X">Sanguine, Charcoal &amp; Chalk</h1>
 </div>
-<nav class="galleryNav padding-Y" style="position: sticky; position: -webkit-sticky; top: 0; background: #70848c; z-index: 50;">
+<nav class="galleryNav padding-Y">
 	<ul class="menu">
 		<li class="h4 caps"><a href="">Natures Mortes</a></li>
 		<li class="h4 caps"><a href="">Paysages</a></li>
