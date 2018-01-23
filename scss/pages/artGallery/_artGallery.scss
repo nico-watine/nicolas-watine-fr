@@ -7,6 +7,10 @@
 	background: #f0f2f2;
 
 	@include breakpoint(medium) {
+		padding-left: 240px;
+	}
+
+	@include breakpoint(large) {
 		padding-left: 360px;
 	}
 }

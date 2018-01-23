@@ -4866,8 +4866,15 @@ header.header {
   background: #70848c; }
   @media print, screen and (min-width: 40em) {
     .sideBar {
-      width: 360px;
-      float: left; } }
+      width: 240px;
+      float: left; }
+      .sideBar .galleryTitle {
+        font-size: 3rem; } }
+  @media print, screen and (min-width: 64em) {
+    .sideBar {
+      width: 360px; }
+      .sideBar .galleryTitle {
+        font-size: 4.25rem; } }
 
 .artCard {
   box-shadow: 0 0.125rem 0.0625rem 0 rgba(0, 0, 0, 0.2), 0 0.0625rem 0.0625rem 0 rgba(0, 0, 0, 0.14), 0 0.0625rem 0.1875rem 0 rgba(0, 0, 0, 0.12);
@@ -4890,6 +4897,9 @@ header.header {
 .artworkGrid {
   background: #f0f2f2; }
   @media print, screen and (min-width: 40em) {
+    .artworkGrid {
+      padding-left: 240px; } }
+  @media print, screen and (min-width: 64em) {
     .artworkGrid {
       padding-left: 360px; } }
 

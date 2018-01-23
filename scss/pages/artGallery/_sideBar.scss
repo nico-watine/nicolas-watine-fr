@@ -4,7 +4,19 @@
 	background: #70848c;
 
 	@include breakpoint(medium) {
-		width: 360px;
+		width: 240px;
 		float: left;
+
+		.galleryTitle {
+			font-size: $h2-serif;
+		}
+	}
+
+	@include breakpoint(large) {
+		width: 360px;
+
+		.galleryTitle {
+			font-size: $h1-serif;
+		}
 	}
 }
