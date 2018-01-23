@@ -4,7 +4,7 @@
 	background: #70848c;
 
 	@include breakpoint(medium) {
-		width: 240px;
+		width: rem-calc(240);
 		float: left;
 
 		.galleryTitle {
@@ -13,7 +13,7 @@
 	}
 
 	@include breakpoint(large) {
-		width: 360px;
+		width: rem-calc(360);
 
 		.galleryTitle {
 			font-size: $h1-serif;
