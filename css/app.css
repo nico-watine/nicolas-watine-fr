@@ -4866,18 +4866,28 @@ header.header {
   background: #70848c; }
   @media print, screen and (min-width: 40em) {
     .sideBar .galleryTitle {
-      font-size: 3rem; } }
+      font-size: 4.25rem; } }
   @media screen and (min-width: 64.0625em) {
     .sideBar {
       width: 22.5rem;
-      float: left; }
-      .sideBar .galleryTitle {
-        font-size: 4.25rem; } }
+      float: left; } }
+
+.sideNav .menu > li {
+  display: block; }
 
 .sideNav .menu li a {
-  color: #fff; }
+  color: #fff;
+  display: inline-block; }
   .sideNav .menu li a:hover {
     text-decoration: underline; }
+
+@media screen and (min-width: 30em) {
+  .sideNav .menu > li {
+    display: table-cell; } }
+
+@media screen and (min-width: 64.0625em) {
+  .sideNav .menu > li {
+    display: block; } }
 
 .artCard {
   box-shadow: 0 0.125rem 0.0625rem 0 rgba(0, 0, 0, 0.2), 0 0.0625rem 0.0625rem 0 rgba(0, 0, 0, 0.14), 0 0.0625rem 0.1875rem 0 rgba(0, 0, 0, 0.12);

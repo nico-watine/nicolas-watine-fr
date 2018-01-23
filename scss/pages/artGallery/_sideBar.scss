@@ -5,26 +5,39 @@
 
 	@include breakpoint(medium) {
 		.galleryTitle {
-			font-size: $h2-serif;
+			font-size: $h1-serif;
 		}
 	}
 
 	@include breakpoint(1025) {
 		width: rem-calc(360);
 		float: left;
-
-		.galleryTitle {
-			font-size: $h1-serif;
-		}
 	}
 }
 
 .sideNav {
+	.menu {
+		@include menu-direction(vertical);
+	}
+
 	.menu li a {
 		color: #fff;
+		display: inline-block;
 
 		&:hover {
 			text-decoration: underline;
+		}
+	}
+
+		@include breakpoint(480) {
+		.menu {
+			@include menu-direction(horizontal);
+		}
+	}
+
+	@include breakpoint(1025) {
+		.menu {
+			@include menu-direction(vertical);
 		}
 	}
 }
