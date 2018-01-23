@@ -8,24 +8,18 @@ og-image:
 body-id: gallery
 body-class: artGallery
 ---
-<div class="sideBar padding-XY" style="position: relative;">
-	<h1 class="galleryTitle serif white padding-X" style="position: absolute; z-index: 100;">Sanguine, Charcoal &amp; Chalk</h1>
-<!-- 	<nav class="sideNav">
+<div class="sideBar padding-XY">
+	<h1 class="galleryTitle serif white padding-X">Sanguine, Charcoal &amp; Chalk</h1>
+	<nav class="sideNav">
 		<ul class="menu">
 			<li class="h4 caps"><a href="">Natures Mortes</a></li>
 			<li class="h4 caps"><a href="">Paysages</a></li>
 			<li class="h4 caps"><a href="">Marines</a></li>
 		</ul>
-	</nav> -->
+	</nav>
 </div>
-<nav class="galleryNav padding-Y" style="position: sticky; position: -webkit-sticky; top: 0; background: #70848c; z-index: 50;">
-	<ul class="menu">
-		<li class="h4 caps"><a href="">Natures Mortes</a></li>
-		<li class="h4 caps"><a href="">Paysages</a></li>
-		<li class="h4 caps"><a href="">Marines</a></li>
-	</ul>
-</nav>
 <div class="artworkGrid">
+	<br>
 	<br>
 	<div class="row" data-equalizer data-equalize-on="medium" data-equalize-by-row="true">
 		<div class="medium-6 large-4 columns">
