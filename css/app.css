@@ -5241,12 +5241,14 @@ header.header {
       position: -webkit-sticky;
       top: 0;
       background: #70848c;
-      z-index: 50; }
+      z-index: 50;
+      box-shadow: 0 0.125rem 0.0625rem 0 rgba(0, 0, 0, 0.2), 0 0.0625rem 0.0625rem 0 rgba(0, 0, 0, 0.14), 0 0.0625rem 0.1875rem 0 rgba(0, 0, 0, 0.12); }
       .galleryNav .menu > li {
         display: table-cell; } }
   @media screen and (min-width: 75em) {
     .galleryNav {
-      border: 0; }
+      border: 0;
+      box-shadow: none; }
       .galleryNav .menu {
         padding-left: 22.5rem; } }
 
