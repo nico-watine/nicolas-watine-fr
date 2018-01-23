@@ -5,5 +5,8 @@
 
 .artworkGrid {
 	background: #f0f2f2;
-	padding-left: 360px;
+
+	@include breakpoint(medium) {
+		padding-left: 360px;
+	}
 }
