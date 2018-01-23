@@ -6,9 +6,9 @@
 .artworkGrid {
 	background: #f0f2f2;
 
-	@include breakpoint(medium) {
-		padding-left: rem-calc(240);
-	}
+	// @include breakpoint(medium) {
+		// padding-left: rem-calc(240);
+	// }
 
 	@include breakpoint(1025) {
 		padding-left: rem-calc(360);

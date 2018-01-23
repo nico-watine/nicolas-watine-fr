@@ -4865,14 +4865,12 @@ header.header {
 .sideBar {
   background: #70848c; }
   @media print, screen and (min-width: 40em) {
-    .sideBar {
-      width: 15rem;
-      float: left; }
-      .sideBar .galleryTitle {
-        font-size: 3rem; } }
+    .sideBar .galleryTitle {
+      font-size: 3rem; } }
   @media screen and (min-width: 64.0625em) {
     .sideBar {
-      width: 22.5rem; }
+      width: 22.5rem;
+      float: left; }
       .sideBar .galleryTitle {
         font-size: 4.25rem; } }
 
@@ -4902,9 +4900,6 @@ header.header {
 
 .artworkGrid {
   background: #f0f2f2; }
-  @media print, screen and (min-width: 40em) {
-    .artworkGrid {
-      padding-left: 15rem; } }
   @media screen and (min-width: 64.0625em) {
     .artworkGrid {
       padding-left: 22.5rem; } }
