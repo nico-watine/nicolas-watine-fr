@@ -5193,15 +5193,14 @@ header.header {
   .bannerSection#dessins .oneFifth img.absolute {
     height: 100%; }
 
-.sideBar {
-  background: #70848c; }
-  @media print, screen and (min-width: 40em) {
-    .sideBar .galleryTitle {
-      font-size: 4.25rem; } }
-  @media screen and (min-width: 75em) {
-    .sideBar {
-      width: 22.5rem;
-      float: left; } }
+@media print, screen and (min-width: 40em) {
+  .sideBar .galleryTitle {
+    font-size: 4.25rem; } }
+
+@media screen and (min-width: 75em) {
+  .sideBar {
+    width: 22.5rem;
+    float: left; } }
 
 .sideNav .menu > li {
   display: block; }
@@ -5238,11 +5237,12 @@ header.header {
 .artCard-prose .title {
   margin: 0; }
 
-.artworkGrid {
-  background: #f0f2f2; }
-  @media screen and (min-width: 75em) {
-    .artworkGrid {
-      padding-left: 22.5rem; } }
+.artGallery {
+  background: #70848c; }
+
+@media screen and (min-width: 75em) {
+  .artworkGrid {
+    padding-left: 22.5rem; } }
 
 .inline-block {
   display: inline-block; }

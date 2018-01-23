@@ -3,8 +3,12 @@
 @import "_sideBar.scss";
 @import "_artCard.scss";
 
+.artGallery {
+	background: #70848c;
+}
+
 .artworkGrid {
-	background: #f0f2f2;
+	// background: #f0f2f2;
 
 	@include breakpoint(xlarge) {
 		padding-left: rem-calc(360);
