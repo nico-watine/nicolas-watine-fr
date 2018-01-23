@@ -10,7 +10,11 @@
 		// padding-left: rem-calc(240);
 	// }
 
-	@include breakpoint(1025) {
+	// @include breakpoint(1025) {
+	// 	padding-left: rem-calc(360);
+	// }
+
+	@include breakpoint(xlarge) {
 		padding-left: rem-calc(360);
 	}
 }
