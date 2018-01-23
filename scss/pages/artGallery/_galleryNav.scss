@@ -23,15 +23,9 @@
 		top: 0;
 		background: #70848c;
 		z-index: 50;
-		
+
 		.menu {
 			@include menu-direction(horizontal);
-		}
-	}
-
-	@include breakpoint(xlarge) {
-		.menu {
-			@include menu-direction(vertical);
 		}
 	}
 }

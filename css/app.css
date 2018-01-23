@@ -5202,7 +5202,11 @@ header.header {
     .sideBar {
       width: 22.5rem;
       border-bottom: 0;
-      float: left; } }
+      float: left;
+      position: relative; }
+      .sideBar .galleryTitle {
+        position: absolute;
+        z-index: 100; } }
 
 .sideNav .menu > li {
   display: block; }
@@ -5239,10 +5243,6 @@ header.header {
     z-index: 50; }
     .galleryNav .menu > li {
       display: table-cell; } }
-
-@media screen and (min-width: 75em) {
-  .galleryNav .menu > li {
-    display: block; } }
 
 .artCard {
   box-shadow: 0 0.125rem 0.0625rem 0 rgba(0, 0, 0, 0.2), 0 0.0625rem 0.0625rem 0 rgba(0, 0, 0, 0.14), 0 0.0625rem 0.1875rem 0 rgba(0, 0, 0, 0.12);
