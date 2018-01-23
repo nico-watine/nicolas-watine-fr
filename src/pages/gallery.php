@@ -8,7 +8,6 @@ og-image:
 body-id: gallery
 body-class: artGallery
 ---
-<!-- <div class="colorWrap" style="background: #70848c;"> -->
 <div class="sideBar padding-XY">
 	<h1 class="galleryTitle serif white padding-X">Sanguine, Charcoal &amp; Chalk</h1>
 	<nav class="sideNav">
@@ -92,4 +91,3 @@ body-class: artGallery
 		</div>
 	</div>
 </div>
-<!-- </div> -->

@@ -1,8 +1,6 @@
 @import "../../_settings.scss";
 
 .sideBar {
-	// background: #70848c;
-
 	@include breakpoint(medium) {
 		.galleryTitle {
 			font-size: $h1-serif;
