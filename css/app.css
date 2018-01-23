@@ -5193,14 +5193,16 @@ header.header {
   .bannerSection#dessins .oneFifth img.absolute {
     height: 100%; }
 
-@media print, screen and (min-width: 40em) {
-  .sideBar .galleryTitle {
-    font-size: 4.25rem; } }
-
-@media screen and (min-width: 75em) {
-  .sideBar {
-    width: 22.5rem;
-    float: left; } }
+.sideBar {
+  border-bottom: 0.1875rem solid #fff; }
+  @media print, screen and (min-width: 40em) {
+    .sideBar .galleryTitle {
+      font-size: 4.25rem; } }
+  @media screen and (min-width: 75em) {
+    .sideBar {
+      width: 22.5rem;
+      border-bottom: 0;
+      float: left; } }
 
 .sideNav .menu > li {
   display: block; }

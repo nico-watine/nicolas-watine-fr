@@ -1,6 +1,8 @@
 @import "../../_settings.scss";
 
 .sideBar {
+	border-bottom: rem-calc(3) solid #fff;
+
 	@include breakpoint(medium) {
 		.galleryTitle {
 			font-size: $h1-serif;
@@ -9,6 +11,7 @@
 
 	@include breakpoint(xlarge) {
 		width: rem-calc(360);
+		border-bottom: 0;
 		float: left;
 	}
 }
