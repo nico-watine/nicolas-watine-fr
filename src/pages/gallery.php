@@ -9,7 +9,7 @@ body-id: gallery
 body-class: artGallery
 ---
 <div class="sideBar padding-XY">
-	<h1 class="galleryTitle serif white">Venises</h1>
+	<h1 class="galleryTitle serif white">Sanguine, Charcoal &amp; Chalk</h1>
 </div>
 <div class="artworkGrid">
 	<br>
