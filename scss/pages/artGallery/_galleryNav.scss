@@ -18,6 +18,12 @@
 	}
 
 	@include breakpoint(480) {
+		position:         sticky;
+		position: -webkit-sticky;
+		top: 0;
+		background: #70848c;
+		z-index: 50;
+		
 		.menu {
 			@include menu-direction(horizontal);
 		}

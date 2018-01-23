@@ -5231,8 +5231,14 @@ header.header {
     text-decoration: underline; }
 
 @media screen and (min-width: 30em) {
-  .galleryNav .menu > li {
-    display: table-cell; } }
+  .galleryNav {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    background: #70848c;
+    z-index: 50; }
+    .galleryNav .menu > li {
+      display: table-cell; } }
 
 @media screen and (min-width: 75em) {
   .galleryNav .menu > li {
