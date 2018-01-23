@@ -6,6 +6,7 @@
 	@include breakpoint(medium) {
 		// width: rem-calc(240);
 		// float: left;
+		text-align: center;
 
 		.galleryTitle {
 			font-size: $h2-serif;
@@ -14,6 +15,7 @@
 
 	@include breakpoint(1025) {
 		width: rem-calc(360);
+		text-align: left;
 		float: left;
 
 		.galleryTitle {
@@ -30,5 +32,11 @@
 		&:hover {
 			text-decoration: underline;
 		}	
+	}
+
+	@include breakpoint(large) {
+		.menu {
+			@include menu-direction(vertical);
+		}
 	}
 }
