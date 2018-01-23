@@ -8,8 +8,8 @@ og-image:
 body-id: gallery
 body-class: artGallery
 ---
-<div class="sideBar padding-XY" style="position: relative;">
-	<h1 class="galleryTitle serif white padding-X" style="position: absolute; z-index: 100;">Sanguine, Charcoal &amp; Chalk</h1>
+<div class="sideBar padding-XY">
+	<h1 class="galleryTitle serif white padding-X">Sanguine, Charcoal &amp; Chalk</h1>
 </div>
 <nav class="galleryNav padding-Y" style="position: sticky; position: -webkit-sticky; top: 0; background: #70848c; z-index: 50;">
 	<ul class="menu">
