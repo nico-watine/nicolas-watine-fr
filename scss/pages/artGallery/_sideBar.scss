@@ -9,24 +9,9 @@
 		}
 	}
 
-	// @include breakpoint(1025) {
-	// 	width: rem-calc(360);
-	// 	float: left;
-	// }
-
-	// @include breakpoint(large) {
-	// 	.galleryTitle {
-	// 		font-size: $h1-serif-medium;
-	// 	}
-	// }
-
 	@include breakpoint(xlarge) {
 		width: rem-calc(360);
 		float: left;
-
-		// .galleryTitle {
-		// 	font-size: $h1-serif;
-		// }
 	}
 }
 
@@ -49,12 +34,6 @@
 			@include menu-direction(horizontal);
 		}
 	}
-
-	// @include breakpoint(1025) {
-	// 	.menu {
-	// 		@include menu-direction(vertical);
-	// 	}
-	// }
 
 	@include breakpoint(xlarge) {
 		.menu {
