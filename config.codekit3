@@ -4354,6 +4354,66 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"\/img\/beta\/1.jpg": {
+		"ft": 16384,
+		"iS": 122432,
+		"oA": 1,
+		"oAP": "\/img\/beta\/1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/beta\/2.jpg": {
+		"ft": 16384,
+		"iS": 292346,
+		"oA": 1,
+		"oAP": "\/img\/beta\/2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/beta\/3.jpg": {
+		"ft": 16384,
+		"iS": 58730,
+		"oA": 1,
+		"oAP": "\/img\/beta\/3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/beta\/4.jpg": {
+		"ft": 16384,
+		"iS": 206462,
+		"oA": 1,
+		"oAP": "\/img\/beta\/4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/beta\/5.jpg": {
+		"ft": 16384,
+		"iS": 83111,
+		"oA": 1,
+		"oAP": "\/img\/beta\/5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/beta\/6.jpg": {
+		"ft": 16384,
+		"iS": 76371,
+		"oA": 1,
+		"oAP": "\/img\/beta\/6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/dessins\/black-color-pencil\/nude-1.jpg": {
 		"ft": 16384,
 		"iS": 268083,
@@ -4991,6 +5051,45 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/pages\/artGallery\/_artCard.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_artCard.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/artGallery\/_artGallery.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_artGallery.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/artGallery\/_sideBar.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_sideBar.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/pages\/index\/_dessins.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -5083,6 +5182,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/layouts\/default.html",
+		"oF": 0
+		},
+	"\/src\/pages\/gallery.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/gallery.php",
 		"oF": 0
 		},
 	"\/src\/pages\/index.php": {
