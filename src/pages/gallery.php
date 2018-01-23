@@ -18,8 +18,14 @@ body-class: artGallery
 		</ul>
 	</nav>
 </div>
+<nav class="galleryNav padding-Y" style="position: sticky; position: -webkit-sticky; top: 0;">
+	<ul class="menu">
+		<li class="h4 caps"><a href="">Natures Mortes</a></li>
+		<li class="h4 caps"><a href="">Paysages</a></li>
+		<li class="h4 caps"><a href="">Marines</a></li>
+	</ul>
+</nav>
 <div class="artworkGrid">
-	<br>
 	<br>
 	<div class="row" data-equalizer data-equalize-on="medium" data-equalize-by-row="true">
 		<div class="medium-6 large-4 columns">
