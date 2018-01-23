@@ -8,7 +8,7 @@ og-image:
 body-id: gallery
 body-class: artGallery
 ---
-<div class="sideBar">
+<div class="sideBar padding-X">
 	<h1 class="serif white">Venises</h1>
 </div>
 <div class="artworkGrid">
