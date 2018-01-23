@@ -4,6 +4,8 @@
 
 
 .galleryNav {
+	border-bottom: rem-calc(3) solid #fff;
+
 	.menu {
 		@include menu-direction(vertical);
 	}
@@ -26,6 +28,14 @@
 
 		.menu {
 			@include menu-direction(horizontal);
+		}
+	}
+
+	@include breakpoint(xlarge) {
+		border: 0;
+
+		.menu {
+			padding-left: rem-calc(360);
 		}
 	}
 }

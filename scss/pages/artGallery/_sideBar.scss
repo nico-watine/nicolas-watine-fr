@@ -1,7 +1,7 @@
 @import "../../_settings.scss";
 
 .sideBar {
-	border-bottom: rem-calc(3) solid #fff;
+	padding-top: rem-calc(15);
 
 	@include breakpoint(medium) {
 		.galleryTitle {
@@ -10,6 +10,7 @@
 	}
 
 	@include breakpoint(xlarge) {
+		padding-top: 0;
 		width: rem-calc(360);
 		border-bottom: 0;
 		float: left;
