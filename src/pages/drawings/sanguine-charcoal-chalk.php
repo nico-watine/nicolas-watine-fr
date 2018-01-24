@@ -25,36 +25,105 @@ body-class: artGallery
 		<div class="medium-6 large-4 columns">
 			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
-					<img class="absolute-center" src="/img/dessins/black-color-pencil/nude-1.jpg" alt="">
+					<img class="absolute-center" src="/img/dessins/sanguine-charcoal-chalk/portrait-1.jpg" alt="">
 				</div>
 			</div>
 		</div>
 		<div class="medium-6 large-4 columns">
 			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
-					<img class="absolute-center" src="/img/dessins/black-color-pencil/portrait-1.jpg" alt="">
+					<img class="absolute-center" src="/img/dessins/sanguine-charcoal-chalk/portrait-2.jpg" alt="">
 				</div>
 			</div>
 		</div>
 		<div class="medium-6 large-4 columns">
 			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
-					<img class="absolute-center" src="/img/dessins/black-color-pencil/portrait-2.jpg" alt="">
+					<img class="absolute-center" src="/img/dessins/sanguine-charcoal-chalk/portrait-3.jpg" alt="">
 				</div>
 			</div>
 		</div>
-		<!-- 2nd row :: -->
 		<div class="medium-6 large-4 columns">
 			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
-					<img class="absolute-center" src="/img/dessins/black-color-pencil/tree-1.jpg" alt="">
+					<img class="absolute-center" src="/img/dessins/sanguine-charcoal-chalk/portrait-4.jpg" alt="">
 				</div>
 			</div>
 		</div>
-		<div class="medium-6 large-4 columns end">
+		<div class="medium-6 large-4 columns">
 			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
-					<img class="absolute-center" src="/img/dessins/black-color-pencil/tree-2.jpg" alt="">
+					<img class="absolute-center" src="/img/dessins/sanguine-charcoal-chalk/portrait-5.jpg" alt="">
+				</div>
+			</div>
+		</div>
+		<div class="medium-6 large-4 columns">
+			<div class="artCard" data-equalizer-watch>
+				<div class="artCard-image">
+					<img class="absolute-center" src="/img/dessins/sanguine-charcoal-chalk/portrait-6.jpg" alt="">
+				</div>
+			</div>
+		</div>
+		<div class="medium-6 large-4 columns">
+			<div class="artCard" data-equalizer-watch>
+				<div class="artCard-image">
+					<img class="absolute-center" src="/img/dessins/sanguine-charcoal-chalk/portrait-7.jpg" alt="">
+				</div>
+			</div>
+		</div>
+		<div class="medium-6 large-4 columns">
+			<div class="artCard" data-equalizer-watch>
+				<div class="artCard-image">
+					<img class="absolute-center" src="/img/dessins/sanguine-charcoal-chalk/portrait-8.jpg" alt="">
+				</div>
+			</div>
+		</div>
+		<div class="medium-6 large-4 columns">
+			<div class="artCard" data-equalizer-watch>
+				<div class="artCard-image">
+					<img class="absolute-center" src="/img/dessins/sanguine-charcoal-chalk/portrait-9.jpg" alt="">
+				</div>
+			</div>
+		</div>
+		<div class="medium-6 large-4 columns">
+			<div class="artCard" data-equalizer-watch>
+				<div class="artCard-image">
+					<img class="absolute-center" src="/img/dessins/sanguine-charcoal-chalk/portrait-10.jpg" alt="">
+				</div>
+			</div>
+		</div>
+		<div class="medium-6 large-4 columns">
+			<div class="artCard" data-equalizer-watch>
+				<div class="artCard-image">
+					<img class="absolute-center" src="/img/dessins/sanguine-charcoal-chalk/portrait-11.jpg" alt="">
+				</div>
+			</div>
+		</div>
+		<div class="medium-6 large-4 columns">
+			<div class="artCard" data-equalizer-watch>
+				<div class="artCard-image">
+					<img class="absolute-center" src="/img/dessins/sanguine-charcoal-chalk/portrait-12.jpg" alt="">
+				</div>
+			</div>
+		</div>
+		<div class="medium-6 large-4 columns">
+			<div class="artCard" data-equalizer-watch>
+				<div class="artCard-image">
+					<img class="absolute-center" src="/img/dessins/sanguine-charcoal-chalk/portrait-13.jpg" alt="">
+				</div>
+			</div>
+		</div>
+		<div class="medium-6 large-4 columns">
+			<div class="artCard" data-equalizer-watch>
+				<div class="artCard-image">
+					<img class="absolute-center" src="/img/dessins/sanguine-charcoal-chalk/portrait-14.jpg" alt="">
+				</div>
+			</div>
+		</div>
+		<div class="medium-6 large-4 columns">
+			<div class="artCard" data-equalizer-watch>
+				<div class="artCard-image">
+					<img class="absolute-center" src="/img/dessins/sanguine-charcoal-chalk/portrait-15.jpg" alt="">
 				</div>
 			</div>
 		</div>
