@@ -29,7 +29,7 @@ body-class: artGallery
 				</div>
 				<div class="artCard-prose">
 					<h4 class="title">Pieux rouges à Venise Pieux rouges à Venise Pieux rouges à Venise</h4>
-					<p class="dimensions">65 x 54 cm</p>
+					<!-- <p class="dimensions">65 x 54 cm</p> -->
 				</div>
 			</div>
 		</div>
@@ -40,7 +40,7 @@ body-class: artGallery
 				</div>
 				<div class="artCard-prose">
 					<h4 class="title">Volets verts à Venise</h4>
-					<p class="dimensions">41 x 33 cm</p>
+					<!-- <p class="dimensions">41 x 33 cm</p> -->
 				</div>
 			</div>
 		</div>
@@ -51,7 +51,7 @@ body-class: artGallery
 				</div>
 				<div class="artCard-prose">
 					<h4 class="title">Grand Venise gris</h4>
-					<p class="dimensions">116 x 89 cm</p>
+					<!-- <p class="dimensions">116 x 89 cm</p> -->
 				</div>
 			</div>
 		</div>
@@ -63,7 +63,7 @@ body-class: artGallery
 				</div>
 				<div class="artCard-prose">
 					<h4 class="title">Volets verts à Venise</h4>
-					<p class="dimensions">41 x 33 cm</p>
+					<!-- <p class="dimensions">41 x 33 cm</p> -->
 				</div>
 			</div>
 		</div>
@@ -74,7 +74,7 @@ body-class: artGallery
 				</div>
 				<div class="artCard-prose">
 					<h4 class="title">Grand Venise gris</h4>
-					<p class="dimensions">116 x 89 cm</p>
+					<!-- <p class="dimensions">116 x 89 cm</p> -->
 				</div>
 			</div>
 		</div>
@@ -85,7 +85,7 @@ body-class: artGallery
 				</div>
 				<div class="artCard-prose">
 					<h4 class="title">Pieux rouges à Venise</h4>
-					<p class="dimensions">65 x 54 cm</p>
+					<!-- <p class="dimensions">65 x 54 cm</p> -->
 				</div>
 			</div>
 		</div>
