@@ -25,21 +25,21 @@ body-class: artGallery
 		<div class="medium-6 large-4 columns">
 			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
-					<img class="absolute-center" src="/img/dessins/sanguine/english/duck-1.jpg" alt="">
+					<img class="absolute-center" src="/img/dessins/black-color-pencil/nude-1.jpg" alt="">
 				</div>
 			</div>
 		</div>
 		<div class="medium-6 large-4 columns">
 			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
-					<img class="absolute-center" src="/img/dessins/sanguine/english/duck-2.jpg" alt="">
+					<img class="absolute-center" src="/img/dessins/black-color-pencil/portrait-1.jpg" alt="">
 				</div>
 			</div>
 		</div>
 		<div class="medium-6 large-4 columns">
 			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
-					<img class="absolute-center" src="/img/dessins/sanguine/english/duck-3.jpg" alt="">
+					<img class="absolute-center" src="/img/dessins/black-color-pencil/portrait-2.jpg" alt="">
 				</div>
 			</div>
 		</div>
@@ -47,21 +47,14 @@ body-class: artGallery
 		<div class="medium-6 large-4 columns">
 			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
-					<img class="absolute-center" src="/img/dessins/sanguine/english/nude-1.jpg" alt="">
+					<img class="absolute-center" src="/img/dessins/black-color-pencil/tree-1.jpg" alt="">
 				</div>
 			</div>
 		</div>
-		<div class="medium-6 large-4 columns">
+		<div class="medium-6 large-4 columns end">
 			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
-					<img class="absolute-center" src="/img/dessins/sanguine/english/nude-2.jpg" alt="">
-				</div>
-			</div>
-		</div>
-		<div class="medium-6 large-4 columns">
-			<div class="artCard" data-equalizer-watch>
-				<div class="artCard-image">
-					<img class="absolute-center" src="/img/dessins/sanguine/english/rabbit-1.jpg" alt="">
+					<img class="absolute-center" src="/img/dessins/black-color-pencil/tree-2.jpg" alt="">
 				</div>
 			</div>
 		</div>
