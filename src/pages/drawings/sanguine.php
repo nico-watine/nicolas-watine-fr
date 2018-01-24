@@ -25,33 +25,33 @@ body-class: artGallery
 		<div class="medium-6 large-4 columns">
 			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
-					<img class="absolute-center" src="/img/beta/1.jpg" alt="">
+					<img class="absolute-center" src="/img/dessins/sanguine/english/duck-1.jpg" alt="">
 				</div>
 				<div class="artCard-prose">
 					<h4 class="title">Pieux rouges à Venise Pieux rouges à Venise Pieux rouges à Venise</h4>
-					<!-- <p class="dimensions">65 x 54 cm</p> -->
+					<!--  <p class="dimensions">65 x 54 cm</p> -->
 				</div>
 			</div>
 		</div>
 		<div class="medium-6 large-4 columns">
 			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
-					<img class="absolute-center" src="/img/beta/3.jpg" alt="">
+					<img class="absolute-center" src="/img/dessins/sanguine/english/duck-2.jpg" alt="">
 				</div>
 				<div class="artCard-prose">
 					<h4 class="title">Volets verts à Venise</h4>
-					<!-- <p class="dimensions">41 x 33 cm</p> -->
+					<!--  <p class="dimensions">41 x 33 cm</p> -->
 				</div>
 			</div>
 		</div>
 		<div class="medium-6 large-4 columns">
 			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
-					<img class="absolute-center" src="/img/beta/5.jpg" alt="">
+					<img class="absolute-center" src="/img/dessins/sanguine/english/duck-3.jpg" alt="">
 				</div>
 				<div class="artCard-prose">
 					<h4 class="title">Grand Venise gris</h4>
-					<!-- <p class="dimensions">116 x 89 cm</p> -->
+					<!--  <p class="dimensions">116 x 89 cm</p> -->
 				</div>
 			</div>
 		</div>
@@ -59,33 +59,33 @@ body-class: artGallery
 		<div class="medium-6 large-4 columns">
 			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
-					<img class="absolute-center" src="/img/beta/3.jpg" alt="">
+					<img class="absolute-center" src="/img/dessins/sanguine/english/nude-1.jpg" alt="">
 				</div>
 				<div class="artCard-prose">
 					<h4 class="title">Volets verts à Venise</h4>
-					<!-- <p class="dimensions">41 x 33 cm</p> -->
+					<!--  <p class="dimensions">41 x 33 cm</p> -->
 				</div>
 			</div>
 		</div>
 		<div class="medium-6 large-4 columns">
 			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
-					<img class="absolute-center" src="/img/beta/5.jpg" alt="">
+					<img class="absolute-center" src="/img/dessins/sanguine/english/nude-2.jpg" alt="">
 				</div>
 				<div class="artCard-prose">
 					<h4 class="title">Grand Venise gris</h4>
-					<!-- <p class="dimensions">116 x 89 cm</p> -->
+					<!--  <p class="dimensions">116 x 89 cm</p> -->
 				</div>
 			</div>
 		</div>
 		<div class="medium-6 large-4 columns">
 			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
-					<img class="absolute-center" src="/img/beta/1.jpg" alt="">
+					<img class="absolute-center" src="/img/dessins/sanguine/english/rabbit-1.jpg" alt="">
 				</div>
 				<div class="artCard-prose">
 					<h4 class="title">Pieux rouges à Venise</h4>
-					<!-- <p class="dimensions">65 x 54 cm</p> -->
+					<!--  <p class="dimensions">65 x 54 cm</p> -->
 				</div>
 			</div>
 		</div>
