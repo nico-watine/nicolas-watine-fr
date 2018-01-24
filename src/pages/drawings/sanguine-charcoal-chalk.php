@@ -13,9 +13,9 @@ body-class: artGallery
 </div>
 <nav class="galleryNav padding-Y">
 	<ul class="menu large-text-center">
-		<li class="h4 caps"><a href="">Sanguine</a></li>
-		<li class="h4 caps"><a href="#">Black or Color Pencil</a></li>
-		<li class="h4 caps"><a href="">Sanguine, Charcoal &amp; Chalk</a></li>
+		<li class="h4 caps"><a href="/drawings/sanguine">Sanguine</a></li>
+		<li class="h4 caps"><a href="/drawings/black-or-color-pencil">Black or Color Pencil</a></li>
+		<li class="h4 caps"><a href="/drawings/sanguine-charcoal-chalk">Sanguine, Charcoal &amp; Chalk</a></li>
 	</ul>
 </nav>
 <div class="artworkGrid">
