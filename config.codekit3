@@ -5626,6 +5626,32 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/pages\/artGallery\/drawings\/_drawings.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/artGallery\/css\/_drawings.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/artGallery\/drawings\/_sanguine.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/artGallery\/css\/_sanguine.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/pages\/index\/_dessins.scss": {
 		"aP": 0,
 		"bl": 0,
