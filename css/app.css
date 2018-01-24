@@ -5277,24 +5277,6 @@ header.header {
   .artworkGrid {
     padding-left: 22.5rem; } }
 
-.artCard {
-  box-shadow: 0 0.125rem 0.0625rem 0 rgba(0, 0, 0, 0.2), 0 0.0625rem 0.0625rem 0 rgba(0, 0, 0, 0.14), 0 0.0625rem 0.1875rem 0 rgba(0, 0, 0, 0.12);
-  background: #fff;
-  border-radius: 0.1875rem;
-  padding: 0.9375rem;
-  margin: 0 auto 50px;
-  max-width: 26.25rem; }
-
-.artCard-image {
-  position: relative;
-  padding-bottom: 100%;
-  margin-bottom: 0.9375rem; }
-  .artCard-image img {
-    max-height: 100%; }
-
-.artCard-prose .title {
-  margin: 0; }
-
 .inline-block {
   display: inline-block; }
 

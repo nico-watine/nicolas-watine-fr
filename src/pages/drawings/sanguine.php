@@ -12,7 +12,7 @@ body-class: artGallery
 	<h1 class="galleryTitle serif white padding-X margin-0">Sanguine</h1>
 </div>
 <nav class="galleryNav padding-Y">
-	<ul class="menu">
+	<ul class="menu large-text-center">
 		<li class="h4 caps"><a href="#">Sanguine</a></li>
 		<li class="h4 caps"><a href="">Black or Color Pencil</a></li>
 		<li class="h4 caps"><a href="">Sanguine, Charcoal &amp; Chalk</a></li>
