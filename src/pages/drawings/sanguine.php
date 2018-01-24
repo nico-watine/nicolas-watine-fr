@@ -43,7 +43,6 @@ body-class: artGallery
 				</div>
 			</div>
 		</div>
-		<!-- 2nd row :: -->
 		<div class="medium-6 large-4 columns">
 			<div class="artCard" data-equalizer-watch>
 				<div class="artCard-image">
