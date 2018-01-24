@@ -8,16 +8,16 @@ og-image:
 body-id: gallery
 body-class: artGallery
 ---
-<div class="sideBar padding-XY">
-	<h1 class="galleryTitle serif white padding-X">Sanguine, Charcoal &amp; Chalk</h1>
-	<nav class="sideNav">
-		<ul class="menu">
-			<li class="h4 caps"><a href="">Natures Mortes</a></li>
-			<li class="h4 caps"><a href="">Paysages</a></li>
-			<li class="h4 caps"><a href="">Marines</a></li>
-		</ul>
-	</nav>
+<div class="sideBar">
+	<h1 class="galleryTitle serif white padding-X margin-0">Sanguine, Charcoal &amp; Chalk</h1>
 </div>
+<nav class="galleryNav padding-Y">
+	<ul class="menu">
+		<li class="h4 caps"><a href="">Natures Mortes</a></li>
+		<li class="h4 caps"><a href="">Paysages</a></li>
+		<li class="h4 caps"><a href="">Marines</a></li>
+	</ul>
+</nav>
 <div class="artworkGrid">
 	<br>
 	<br>
