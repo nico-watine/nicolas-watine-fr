@@ -9,13 +9,13 @@ body-id: gallery
 body-class: artGallery
 ---
 <div class="sideBar">
-	<h1 class="galleryTitle serif white padding-X margin-0">Sanguine, Charcoal &amp; Chalk</h1>
+	<h1 class="galleryTitle serif white padding-X margin-0">Sanguine</h1>
 </div>
 <nav class="galleryNav padding-Y">
 	<ul class="menu">
-		<li class="h4 caps"><a href="">Natures Mortes</a></li>
-		<li class="h4 caps"><a href="">Paysages</a></li>
-		<li class="h4 caps"><a href="">Marines</a></li>
+		<li class="h4 caps"><a href="#">Sanguine</a></li>
+		<li class="h4 caps"><a href="">Black or Color Pencil</a></li>
+		<li class="h4 caps"><a href="">Sanguine, Charcoal &amp; Chalk</a></li>
 	</ul>
 </nav>
 <div class="artworkGrid">
