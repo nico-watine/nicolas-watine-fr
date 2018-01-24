@@ -5,7 +5,7 @@ description:
 og-title:
 og-description:
 og-image:
-body-id: gallery
+body-id: sanguine
 body-class: artGallery
 ---
 <div class="sideBar">
