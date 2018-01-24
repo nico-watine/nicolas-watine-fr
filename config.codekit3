@@ -4614,61 +4614,61 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/dessins\/sanguine\/duck-1.jpg": {
+	"\/img\/dessins\/sanguine\/english\/duck-1.jpg": {
 		"ft": 16384,
 		"iS": 73756,
 		"oA": 1,
-		"oAP": "\/img\/dessins\/sanguine\/duck-1.jpg",
+		"oAP": "\/img\/dessins\/sanguine\/english\/duck-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/dessins\/sanguine\/duck-2.jpg": {
+	"\/img\/dessins\/sanguine\/english\/duck-2.jpg": {
 		"ft": 16384,
 		"iS": 32028,
 		"oA": 1,
-		"oAP": "\/img\/dessins\/sanguine\/duck-2.jpg",
+		"oAP": "\/img\/dessins\/sanguine\/english\/duck-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/dessins\/sanguine\/duck-3.jpg": {
+	"\/img\/dessins\/sanguine\/english\/duck-3.jpg": {
 		"ft": 16384,
 		"iS": 48754,
 		"oA": 1,
-		"oAP": "\/img\/dessins\/sanguine\/duck-3.jpg",
+		"oAP": "\/img\/dessins\/sanguine\/english\/duck-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/dessins\/sanguine\/nude-1.jpg": {
+	"\/img\/dessins\/sanguine\/english\/nude-1.jpg": {
 		"ft": 16384,
 		"iS": 281893,
 		"oA": 1,
-		"oAP": "\/img\/dessins\/sanguine\/nude-1.jpg",
+		"oAP": "\/img\/dessins\/sanguine\/english\/nude-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/dessins\/sanguine\/nude-2.jpg": {
+	"\/img\/dessins\/sanguine\/english\/nude-2.jpg": {
 		"ft": 16384,
 		"iS": 335208,
 		"oA": 1,
-		"oAP": "\/img\/dessins\/sanguine\/nude-2.jpg",
+		"oAP": "\/img\/dessins\/sanguine\/english\/nude-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/dessins\/sanguine\/rabbit-1.jpg": {
+	"\/img\/dessins\/sanguine\/english\/rabbit-1.jpg": {
 		"ft": 16384,
 		"iS": 71895,
 		"oA": 1,
-		"oAP": "\/img\/dessins\/sanguine\/rabbit-1.jpg",
+		"oAP": "\/img\/dessins\/sanguine\/english\/rabbit-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -5103,6 +5103,32 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/pages\/artGallery\/drawings\/_drawings.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/artGallery\/css\/_drawings.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/artGallery\/drawings\/_sanguine.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/artGallery\/css\/_sanguine.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/pages\/index\/_dessins.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -5195,6 +5221,20 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/layouts\/default.html",
+		"oF": 0
+		},
+	"\/src\/pages\/drawings\/sanguine.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/drawings\/sanguine.php",
+		"oF": 0
+		},
+	"\/src\/pages\/gallery.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/gallery.php",
 		"oF": 0
 		},
 	"\/src\/pages\/index.php": {
