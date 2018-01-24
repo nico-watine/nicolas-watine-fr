@@ -5666,6 +5666,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/pages\/artGallery\/drawings\/_sanguine-charcoal-chalk.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/artGallery\/css\/_sanguine-charcoal-chalk.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/pages\/artGallery\/drawings\/_sanguine.scss": {
 		"aP": 0,
 		"bl": 0,
