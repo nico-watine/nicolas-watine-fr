@@ -4382,6 +4382,13 @@
 		"oAP": "\/dist\/drawings\/black-or-color-pencil.php",
 		"oF": 0
 		},
+	"\/dist\/drawings\/sanguine-charcoal-chalk.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/drawings\/sanguine-charcoal-chalk.php",
+		"oF": 0
+		},
 	"\/dist\/drawings\/sanguine.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -5771,6 +5778,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/pages\/drawings\/black-or-color-pencil.php",
+		"oF": 0
+		},
+	"\/src\/pages\/drawings\/sanguine-charcoal-chalk.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/drawings\/sanguine-charcoal-chalk.php",
 		"oF": 0
 		},
 	"\/src\/pages\/drawings\/sanguine.php": {
