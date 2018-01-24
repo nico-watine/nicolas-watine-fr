@@ -1,0 +1,43 @@
+@import "../../_settings.scss";
+
+
+
+
+.galleryNav {
+	border-bottom: rem-calc(3) solid #fff;
+
+	.menu {
+		@include menu-direction(vertical);
+	}
+
+	.menu li a {
+		color: #fff;
+		display: inline-block;
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+
+	@include breakpoint(480) {
+		position:         sticky;
+		position: -webkit-sticky;
+		top: 0;
+		background: #70848c;
+		z-index: 50;
+		box-shadow: 0 rem-calc(2) rem-calc(1) 0 rgba(0,0,0,.20), 0 rem-calc(1) rem-calc(1) 0 rgba(0,0,0,.14), 0 rem-calc(1) rem-calc(3) 0 rgba(0,0,0,.12);
+
+		.menu {
+			@include menu-direction(horizontal);
+		}
+	}
+
+	@include breakpoint(xlarge) {
+		border: 0;
+		box-shadow: none;
+		
+		.menu {
+			padding-left: rem-calc(360);
+		}
+	}
+}

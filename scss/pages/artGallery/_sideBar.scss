@@ -1,0 +1,51 @@
+@import "../../_settings.scss";
+
+.sideBar {
+	padding-top: rem-calc(15);
+
+	@include breakpoint(medium) {
+		.galleryTitle {
+			font-size: $h1-serif;
+		}
+	}
+
+	@include breakpoint(xlarge) {
+		padding-top: 0;
+		width: rem-calc(360);
+		border-bottom: 0;
+		float: left;
+		position: relative;
+
+		.galleryTitle {
+			position: absolute;
+			z-index: 100;
+		}
+	}
+}
+
+.sideNav {
+	.menu {
+		@include menu-direction(vertical);
+	}
+
+	.menu li a {
+		color: #fff;
+		display: inline-block;
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+
+	@include breakpoint(480) {
+		.menu {
+			@include menu-direction(horizontal);
+		}
+	}
+
+	@include breakpoint(xlarge) {
+		.menu {
+			@include menu-direction(vertical);
+		}
+	}
+}
