@@ -5159,6 +5159,8 @@ header.header {
   background: #fff url("/img/header/watineDetail.svg") left top/cover no-repeat; }
   header.header h1 {
     line-height: 1; }
+    header.header h1 a {
+      color: #0a0a0a; }
 
 .mainNav a {
   color: #0a0a0a; }
