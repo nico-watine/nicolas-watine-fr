@@ -87,6 +87,26 @@
 		"oAP": "\/_ignores\/htaccess\/force-https.txt",
 		"oF": 0
 		},
+	"\/_ignores\/index\/_bio.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_ignores\/css\/_bio.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/_ignores\/index\/obsolete-index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/index\/obsolete-index.php",
+		"oF": 0
+		},
 	"\/_ignores\/nicolas-watine-fr.sublime-project": {
 		"cB": 0,
 		"ft": 8192,
@@ -4365,6 +4385,16 @@
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
+	"\/dist\/css\/app-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/css\/app-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -5790,7 +5820,7 @@
 	"\/src\/pages\/index.php": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/src\/pages\/index.php",
 		"oF": 0
 		},
