@@ -1,3 +1,10 @@
 @import "../../_settings.scss";
 
 
+.index#index {
+	.drawings {
+		.oneFifth {
+			@include grid-column(1 of 5, 0);
+		}
+	}
+}

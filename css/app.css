@@ -5179,6 +5179,14 @@ header.header {
 .bannerSection#sarton img {
   width: 100%; }
 
+.index#index .drawings .oneFifth {
+  width: 20%;
+  float: left;
+  padding-right: 0;
+  padding-left: 0; }
+  .index#index .drawings .oneFifth:last-child:not(:first-child) {
+    float: right; }
+
 .sideBar {
   padding-top: 0.9375rem; }
   @media print, screen and (min-width: 40em) {
