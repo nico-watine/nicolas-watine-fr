@@ -8,7 +8,26 @@ og-image:
 body-id: index
 body-class: index
 ---
-
+<section class="drawings">
+	<div class="row expanded collapse">
+		<div class="oneFifth">
+			<img src="/img/dessins/sanguine/duck-3.jpg" alt="">
+		</div>
+		<div class="oneFifth relative">
+			<img class="absolute" src="/img/dessins/sanguine-charcoal-chalk/portrait-1.jpg" alt="">
+		</div>
+		<div class="oneFifth relative">
+			<img class="absolute" src="/img/dessins/sanguine/nude-2.jpg" alt="">	
+		</div>
+		<div class="oneFifth relative">
+			<img class="absolute" src="/img/dessins/black-color-pencil/portrait-1.jpg" alt="">
+		</div>
+		<div class="oneFifth relative">
+			<img class="absolute" src="/img/dessins/sanguine-charcoal-chalk/portrait-5.jpg" alt="">	
+		</div>
+	</div>
+</section>
+<br>
 <section class="biographyMonologue padding-Y">
 	<div class="row">
 		<div class="columns">
