@@ -4834,6 +4834,35 @@ header.header {
   .mainNav a:hover {
     text-decoration: underline; }
 
+.biographyMonologue {
+  background: #fefefe url("/img/nicolas-watine-atelier.jpg") center/cover no-repeat fixed;
+  height: 480px;
+  margin-bottom: 30px; }
+  .biographyMonologue .blurBackground {
+    background: inherit;
+    width: 100%;
+    overflow: hidden; }
+  .biographyMonologue .blurBackground::before {
+    content: "";
+    background: inherit;
+    height: 110%;
+    position: absolute;
+    left: -25px;
+    right: 0;
+    top: -25px;
+    bottom: 0;
+    box-shadow: inset 0 0 0 3000px rgba(255, 255, 255, 0.6);
+    filter: blur(2px); }
+  .biographyMonologue .scrimContent {
+    background: rgba(88, 106, 113, 0.1); }
+  .biographyMonologue .prose {
+    max-width: 43.125rem;
+    width: 80%;
+    margin: 0 auto;
+    height: 480px; }
+    .biographyMonologue .prose .serif {
+      line-height: 1.2; }
+
 .index#index .bannerSection .scrimContent {
   width: 100%;
   height: 100%;

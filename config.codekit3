@@ -4684,6 +4684,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/img\/nicolas-watine-atelier.jpg": {
+		"ft": 16384,
+		"iS": 92149,
+		"oA": 1,
+		"oAP": "\/img\/nicolas-watine-atelier.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/sarton\/sarton-1.jpg": {
 		"ft": 16384,
 		"iS": 237330,
@@ -5051,7 +5061,11 @@
 		"oS": 0,
 		"uL": 1
 		},
+<<<<<<< HEAD
+	"\/scss\/pages\/index\/_bio.scss": {
+=======
 	"\/scss\/pages\/artGallery\/_artCard.scss": {
+>>>>>>> feature/index/_base
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -5059,6 +5073,9 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
+<<<<<<< HEAD
+		"oAP": "\/scss\/pages\/css\/_bio.css",
+=======
 		"oAP": "\/scss\/pages\/css\/_artCard.css",
 		"oF": 0,
 		"oS": 0,
@@ -5086,6 +5103,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/pages\/css\/_sideBar.css",
+>>>>>>> feature/index/_base
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
