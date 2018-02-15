@@ -8,7 +8,7 @@ og-image:
 body-id: index
 body-class: index
 ---
-<section id="dessins" class="bannerSection relative">
+<section id="drawings" class="bannerSection relative">
 	<div class="scrimContent flex text-center absolute">
 		<div class="prose absolute">
 			<h2 class="white line-height-1 margin-0 serif">Galeries des Dessins</h2>

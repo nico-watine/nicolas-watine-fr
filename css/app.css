@@ -5188,17 +5188,17 @@ header.header {
 .bannerSection#sarton img {
   width: 100%; }
 
-.bannerSection#dessins .scrimContent {
+.bannerSection#drawings .scrimContent {
   background: rgba(175, 126, 112, 0.5); }
 
-.bannerSection#dessins .oneFifth {
+.bannerSection#drawings .oneFifth {
   width: 20%;
   float: left;
   padding-right: 0;
   padding-left: 0; }
-  .bannerSection#dessins .oneFifth:last-child:not(:first-child) {
+  .bannerSection#drawings .oneFifth:last-child:not(:first-child) {
     float: right; }
-  .bannerSection#dessins .oneFifth img.absolute {
+  .bannerSection#drawings .oneFifth img.absolute {
     height: 100%; }
 
 .sideBar {
