@@ -1,2 +1,10 @@
 @import "../../_settings.scss";
 
+.index#index {
+	.biographyMonologue {
+		background: linear-gradient(
+		rgba(88,106,113,.60),
+		rgba(88,106,113,.60)
+		), url("/img/nicolas-watine-atelier.jpg") center/cover no-repeat;
+	}
+}

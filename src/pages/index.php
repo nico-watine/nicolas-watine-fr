@@ -8,7 +8,7 @@ og-image:
 body-id: index
 body-class: index
 ---
-<section class="biographyMonologue">
+<section class="biographyMonologue" style="padding: 60px 0;">
 	<div class="row">
 		<div class="columns">
 			<div class="prose" style="max-width: 690px; margin: 0 auto;">
