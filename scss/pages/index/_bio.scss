@@ -1,41 +1,15 @@
 @import "../../_settings.scss";
 
-.biographyMonologue {
-	background: $white url("/img/nicolas-watine-atelier.jpg") center/cover no-repeat fixed;
-	height: 480px;
-	margin-bottom: 30px;
+.index#index {
+	.biographyMonologue {
+		background: linear-gradient(
+		rgba(88,106,113,.65),
+		rgba(88,106,113,.65)
+		), url("/img/nicolas-watine-atelier.jpg") left/cover no-repeat;
 
-	.blurBackground {
-		background: inherit;
-		width: 100%;
-		overflow: hidden;
-	}
-
-	.blurBackground::before {
-		content: "";
-		background: inherit;
-		height: 110%;
-		position: absolute;
-		left: -25px;
-		right: 0;
-		top: -25px;
-		bottom: 0;
-		box-shadow: inset 0 0 0 3000px rgba(255,255,255,.6);
-		filter: blur(2px);
-	}
-
-	.scrimContent {
-		background: rgba(88,106,113,.10);
-	}
-
-	.prose {
-		max-width: rem-calc(690);
-		width: 80%;
-		margin: 0 auto;
-		height: 480px;
-
-		.serif {
-			line-height: 1.2;
+		.prose {
+			max-width: rem-calc(690);
+			margin: 0 auto;
 		}
 	}
 }
