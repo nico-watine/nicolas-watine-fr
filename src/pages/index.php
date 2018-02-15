@@ -33,6 +33,7 @@ body-class: index
 		</div>
 	</div>
 </section>
+<br>
 <section class="biographyMonologue padding-Y">
 	<div class="row">
 		<div class="columns">
