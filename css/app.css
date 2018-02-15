@@ -2031,7 +2031,7 @@ h5 {
   margin-bottom: 0.5rem; }
 
 h6 {
-  font-size: 0.75rem;
+  font-size: 0.875rem;
   line-height: 1.4;
   margin-top: 0;
   margin-bottom: 0.5rem; }
@@ -2048,7 +2048,7 @@ h6 {
   h5 {
     font-size: 1rem; }
   h6 {
-    font-size: 0.75rem; } }
+    font-size: 0.875rem; } }
 
 a {
   line-height: inherit;
@@ -5087,7 +5087,7 @@ a.thumbnail {
   font-size: 1rem; }
 
 .h6 {
-  font-size: 0.75rem; }
+  font-size: 0.875rem; }
 
 @media print, screen and (min-width: 40em) {
   .h1 {
@@ -5101,7 +5101,7 @@ a.thumbnail {
   .h5 {
     font-size: 1rem; }
   .h6 {
-    font-size: 0.75rem; } }
+    font-size: 0.875rem; } }
 
 p.serif,
 .p.serif {
@@ -5129,7 +5129,7 @@ h5.serif,
 
 h6.serif,
 .h6.serif {
-  font-size: 0.875rem; }
+  font-size: 1rem; }
 
 @media print, screen and (min-width: 40em) {
   p.serif,
@@ -5152,7 +5152,7 @@ h6.serif,
     font-size: 1.125rem; }
   h6.serif,
   .h6.serif {
-    font-size: 0.875rem; } }
+    font-size: 1rem; } }
 
 header.header {
   padding: 4.375rem 0;
