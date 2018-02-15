@@ -5169,6 +5169,9 @@ header.header {
 
 .index#index .biographyMonologue {
   background: linear-gradient(rgba(88, 106, 113, 0.65), rgba(88, 106, 113, 0.65)), url("/img/nicolas-watine-atelier.jpg") left/cover no-repeat; }
+  .index#index .biographyMonologue .prose {
+    max-width: 43.125rem;
+    margin: 0 auto; }
 
 .index#index .bannerSection .scrimContent {
   width: 100%;
