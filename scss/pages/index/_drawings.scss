@@ -4,5 +4,9 @@
 .index#index {
 	.drawings {
 		background: $white url("/img/index/sections/drawings/drawings-banner-background.jpg") center/cover no-repeat;
+
+		.sectionContent {
+			height: rem-calc(350);
+		}
 	}
 }

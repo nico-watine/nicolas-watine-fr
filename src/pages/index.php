@@ -9,7 +9,7 @@ body-id: index
 body-class: index
 ---
 <section class="drawings">
-	<div class="row flex" style="height: 350px;">
+	<div class="sectionContent row flex">
 		<div class="columns text-center completeCenter">
 			<h2 class="white serif margin-0 line-height-1">Drawings &amp; Sketches</h2>
 			<a href="" class="h4 white caps">View</a>
