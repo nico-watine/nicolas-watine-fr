@@ -9,8 +9,13 @@ body-id: index
 body-class: index
 ---
 <section class="drawings">
-	<div class="row expanded collapse" style="height: 350px; overflow: hidden;">
-		<div class="scrim" style="background: rgba(175,126,112,0.50); width: 100%; height: 350px; position: absolute;"></div>
+	<div class="row expanded collapse" style="position: relative; height: 350px; overflow: hidden;">
+		<div class="scrimContent flex text-center absolute" style="width: 100%; height: 100%; justify-content: center; flex-direction: column; background: rgba(175,126,112,0.50);">
+			<div class="prose absolute" style="width: 100%;">
+				<h2 class="white line-height-1 margin-0 serif">Galeries des Dessins</h2>
+				<a href="" class="white h4 caps">Voir</a>
+			</div>
+		</div>
 		<div class="oneFifth">
 			<img src="/img/drawings/sanguine/english/duck-3.jpg" alt="">
 		</div>
