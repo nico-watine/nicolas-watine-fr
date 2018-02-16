@@ -9,7 +9,7 @@ body-id: index
 body-class: index
 ---
 <section class="drawings">
-	<div class="row expanded collapse">
+	<div class="row expanded collapse" style="height: 350px; overflow: hidden;">
 		<div class="oneFifth">
 			<img src="/img/drawings/sanguine/english/duck-3.jpg" alt="">
 		</div>
