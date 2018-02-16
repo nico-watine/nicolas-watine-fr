@@ -8,6 +8,15 @@ og-image:
 body-id: index
 body-class: index
 ---
+<section class="drawings">
+	<div class="sectionContent row flex">
+		<div class="columns text-center completeCenter">
+			<h2 class="white serif margin-0 line-height-1">Drawings &amp; Sketches</h2>
+			<a href="" class="h4 white caps">View</a>
+		</div>
+	</div>
+</section>
+<br>
 <section class="biographyMonologue padding-Y">
 	<div class="row">
 		<div class="columns">
