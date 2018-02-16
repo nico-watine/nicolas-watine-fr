@@ -3,11 +3,13 @@
 
 .index#index {
 	.drawings {
-		background: $white url("/img/index/sections/drawings/drawings-banner-background.jpg") center/cover no-repeat;
+		background: linear-gradient(
+		rgba(175,126,112,.50),
+		rgba(175,126,112,.50)
+		), url("/img/index/sections/drawings/drawings-banner-background.jpg") center/cover no-repeat;
 
 		.sectionContent {
 			height: rem-calc(350);
-			background: rgba(175,126,112,.50);
 		}
 	}
 }
