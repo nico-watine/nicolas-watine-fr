@@ -10,6 +10,7 @@ body-class: index
 ---
 <section class="drawings">
 	<div class="row expanded collapse" style="height: 350px; overflow: hidden;">
+		<div class="scrim" style="background: rgba(175,126,112,0.50); width: 100%; height: 350px; position: absolute;"></div>
 		<div class="oneFifth">
 			<img src="/img/drawings/sanguine/english/duck-3.jpg" alt="">
 		</div>
