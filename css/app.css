@@ -5182,7 +5182,8 @@ header.header {
 .index#index .drawings {
   background: #fefefe url("/img/index/sections/drawings/drawings-banner-background.jpg") center/cover no-repeat; }
   .index#index .drawings .sectionContent {
-    height: 21.875rem; }
+    height: 21.875rem;
+    background: rgba(175, 126, 112, 0.5); }
 
 .sideBar {
   padding-top: 0.9375rem; }
