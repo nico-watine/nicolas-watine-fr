@@ -33,15 +33,18 @@ body-class: index
 </section>
 <br>
 <section class="sarton">
-	<div class="row collapse">
-		<div class="show-for-large large-4 columns">
-			<img src="/img/sarton/sarton-7.jpg" alt="">
-		</div>
-		<div class="medium-6 large-4 columns">
-			<img src="/img/sarton/sarton-8.jpg" alt="">
-		</div>
-		<div class="medium-6 large-4 columns">
-			<img src="/img/sarton/sarton-4.jpg" alt="">
+	<div class="row collapse relative">
+		<h2 class="serif text-center white">Sarton Manor &amp; Gardens</h2>
+		<div class="row collapse absolute" style="top: 0; z-index: -10;">
+			<div class="show-for-large large-4 columns">
+				<img src="/img/sarton/sarton-7.jpg" alt="">
+			</div>
+			<div class="medium-6 large-4 columns">
+				<img src="/img/sarton/sarton-8.jpg" alt="">
+			</div>
+			<div class="medium-6 large-4 columns">
+				<img src="/img/sarton/sarton-4.jpg" alt="">
+			</div>
 		</div>
 	</div>
 </section>
