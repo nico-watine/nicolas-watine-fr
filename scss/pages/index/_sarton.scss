@@ -2,9 +2,20 @@
 
 .index#index {
 	.sarton {
+		.prose {
+			background: rgba(0,0,0,.50);
+
+			@include breakpoint(large) {
+				margin-top: rem-calc(60);
+			}
+
+			@include breakpoint(xlarge) {
+				margin-top: rem-calc(100);
+			}
+		}
+
 		img {
 			width: 100%;
 		}
 	}
 }
-

@@ -34,7 +34,7 @@ body-class: index
 <br>
 <section class="sarton">
 	<div class="row collapse relative text-center">
-		<div class="prose inline-block padding-XY" style="margin-top: 100px; margin-top: 60px; background: rgba(0,0,0,0.50);">
+		<div class="prose inline-block padding-XY">
 			<h2 class="serif text-center white line-height-1 margin-0">Sarton Manor &amp; Gardens</h2>
 			<a href="" class="h4 white caps">Visit</a>
 		</div>
