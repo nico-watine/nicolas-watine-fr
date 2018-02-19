@@ -5173,10 +5173,7 @@ header.header {
     max-width: 43.125rem;
     margin: 0 auto; }
 
-.bannerSection#sarton .scrimContent {
-  background: rgba(88, 106, 113, 0.7); }
-
-.bannerSection#sarton img {
+.index#index .sarton img {
   width: 100%; }
 
 .index#index .drawings {

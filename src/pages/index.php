@@ -33,14 +33,14 @@ body-class: index
 </section>
 <br>
 <section class="sarton">
-	<div class="row expanded collapse">
-		<div class="medium-4 columns">
+	<div class="row collapse">
+		<div class="show-for-large large-4 columns">
 			<img src="/img/sarton/sarton-7.jpg" alt="">
 		</div>
-		<div class="medium-4 columns">
+		<div class="medium-6 large-4 columns">
 			<img src="/img/sarton/sarton-8.jpg" alt="">
 		</div>
-		<div class="medium-4 columns">
+		<div class="medium-6 large-4 columns">
 			<img src="/img/sarton/sarton-4.jpg" alt="">
 		</div>
 	</div>
