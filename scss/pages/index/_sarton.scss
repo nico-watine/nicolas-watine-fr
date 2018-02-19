@@ -27,8 +27,9 @@
 			}
 		}
 
-		img {
-			width: 100%;
+		.imgRow {
+			top: 0;
+			z-index: -10;
 		}
 	}
 }

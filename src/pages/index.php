@@ -38,7 +38,7 @@ body-class: index
 			<h2 class="serif text-center white line-height-1 margin-0">Sarton Manor &amp; Gardens</h2>
 			<a href="" class="h4 white caps">Visit</a>
 		</div>
-		<div class="show-for-large row collapse absolute" style="top: 0; z-index: -10;">
+		<div class="show-for-large row imgRow collapse absolute">
 			<div class="large-4 columns">
 				<img src="/img/sarton/sarton-7.jpg" alt="">
 			</div>
