@@ -5176,6 +5176,14 @@ header.header {
 .index#index .sarton {
   background: #fff url("/img/sarton/sarton-8.jpg") center/cover no-repeat;
   height: 21.875rem; }
+  @media print, screen and (min-width: 40em) {
+    .index#index .sarton {
+      background: #fefefe url("/img/sarton/sarton-medium.jpg") center/cover no-repeat; } }
+  @media print, screen and (min-width: 64em) {
+    .index#index .sarton {
+      background: none;
+      height: auto;
+      display: block; } }
   .index#index .sarton .prose {
     background: rgba(0, 0, 0, 0.5); }
     @media print, screen and (min-width: 64em) {
