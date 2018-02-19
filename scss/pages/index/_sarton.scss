@@ -1,12 +1,35 @@
 @import "../../_settings.scss";
 
+.index#index {
+	.sarton {
+		background: #fff url("/img/sarton/sarton-8.jpg") center/cover no-repeat;
+		height: rem-calc(350);
 
-.bannerSection#sarton {
-	.scrimContent {
-		background: rgba(88,106,113,.70); // dark blue-gray scrim
-	}
+		@include breakpoint(medium) {
+			background: $white url("/img/sarton/sarton-medium.jpg") center/cover no-repeat;
+		}
 
-	img {
-		width: 100%;
+		@include breakpoint(large) {
+			background: none;
+			height: auto;
+			display: block;
+		}
+
+		.prose {
+			background: rgba(0,0,0,.50);
+
+			@include breakpoint(large) {
+				margin-top: rem-calc(60);
+			}
+
+			@include breakpoint(xlarge) {
+				margin-top: rem-calc(100);
+			}
+		}
+
+		.imgRow {
+			top: 0;
+			z-index: -10;
+		}
 	}
 }
