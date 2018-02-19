@@ -5173,17 +5173,19 @@ header.header {
     max-width: 43.125rem;
     margin: 0 auto; }
 
-.index#index .sarton .prose {
-  background: rgba(0, 0, 0, 0.5); }
-  @media print, screen and (min-width: 64em) {
-    .index#index .sarton .prose {
-      margin-top: 3.75rem; } }
-  @media screen and (min-width: 75em) {
-    .index#index .sarton .prose {
-      margin-top: 6.25rem; } }
-
-.index#index .sarton img {
-  width: 100%; }
+.index#index .sarton {
+  background: #fff url("/img/sarton/sarton-8.jpg") center/cover no-repeat;
+  height: 21.875rem; }
+  .index#index .sarton .prose {
+    background: rgba(0, 0, 0, 0.5); }
+    @media print, screen and (min-width: 64em) {
+      .index#index .sarton .prose {
+        margin-top: 3.75rem; } }
+    @media screen and (min-width: 75em) {
+      .index#index .sarton .prose {
+        margin-top: 6.25rem; } }
+  .index#index .sarton img {
+    width: 100%; }
 
 .index#index .drawings {
   background: linear-gradient(rgba(175, 126, 112, 0.5), rgba(175, 126, 112, 0.5)), url("/img/index/sections/drawings/drawings-banner-background.jpg") center/cover no-repeat; }
