@@ -31,3 +31,23 @@ body-class: index
 		</div>
 	</div>
 </section>
+<br>
+<section class="sarton flex">
+	<div class="row collapse relative text-center completeCenter">
+		<div class="prose inline-block padding-XY">
+			<h2 class="serif text-center white line-height-1 margin-0">Sarton Manor &amp; Gardens</h2>
+			<a href="" class="h4 white caps">Visit</a>
+		</div>
+		<div class="show-for-large row imgRow collapse absolute">
+			<div class="large-4 columns">
+				<img src="/img/sarton/sarton-7.jpg" alt="">
+			</div>
+			<div class="large-4 columns">
+				<img src="/img/sarton/sarton-8.jpg" alt="">
+			</div>
+			<div class="large-4 columns">
+				<img src="/img/sarton/sarton-4.jpg" alt="">
+			</div>
+		</div>
+	</div>
+</section>
