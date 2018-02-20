@@ -7,6 +7,17 @@
 		rgba(79,110,122,.80)
 		), url("/img/assets/linen.jpg") center/auto repeat;
 
+		.prose {
+			a {
+				color: $black;
+				border-bottom: 4px solid #70848c;
+
+				&:hover {
+					border-bottom-color: transparent;
+				}
+			}
+		}
+
 		.cornerDetail {
 			h4 {
 				position: absolute;
@@ -14,7 +25,7 @@
 				bottom: 12px;
 				z-index: 10;
 			}
-			
+
 			span {
 				line-height: 0;
 				color: #fff;
