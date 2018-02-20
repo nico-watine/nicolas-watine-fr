@@ -48,3 +48,11 @@
 		}
 	}
 }
+
+.categoryRow#seascapes {
+	@include breakpoint(600) {
+		.prose {
+			display: inline-block;
+		}
+	}
+}
