@@ -4385,6 +4385,16 @@
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
+	"\/dist\/css\/app-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/css\/app-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -4429,6 +4439,16 @@
 		"oA": 2,
 		"oAP": "\/dist\/humans.txt",
 		"oF": 0
+		},
+	"\/dist\/img\/assets\/linen.jpg": {
+		"ft": 16384,
+		"iS": 84122,
+		"oA": 1,
+		"oAP": "\/dist\/img\/assets\/linen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/drawings\/black-color-pencil\/nude-1.jpg": {
 		"ft": 16384,
@@ -5780,6 +5800,16 @@
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
+		},
+	"\/img\/assets\/linen.jpg": {
+		"ft": 16384,
+		"iS": 84122,
+		"oA": 1,
+		"oAP": "\/img\/assets\/linen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/drawings\/black-color-pencil\/nude-1.jpg": {
 		"ft": 16384,
@@ -7474,6 +7504,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/pages\/css\/_drawings.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_galleryLinks.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_galleryLinks.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

@@ -8,6 +8,13 @@ og-image:
 body-id: index
 body-class: index
 ---
+<section class="galleryLinks" style="padding-top: 50px;">
+	<div class="row">
+		<div class="medium-11 columns end" style="margin-bottom: 50px; height: 200px; background: #F0F2F2; box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px 0 rgba(0,0,0,0.30);">
+			
+		</div>
+	</div>
+</section>
 <section class="drawings">
 	<div class="sectionContent row flex">
 		<div class="columns text-center completeCenter">

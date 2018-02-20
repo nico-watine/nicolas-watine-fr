@@ -1,0 +1,10 @@
+@import "../../_settings.scss";
+
+.index#index {
+	.galleryLinks {
+		background: linear-gradient(
+		rgba(79,110,122,.80),
+		rgba(79,110,122,.80)
+		), url("/img/assets/linen.jpg") center/auto repeat;
+	}
+}
