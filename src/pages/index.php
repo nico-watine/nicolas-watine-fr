@@ -16,9 +16,9 @@ body-class: index
 					<img src="/img/paintings/seascapes/seascapes-32.jpg" style="height: 300px; margin-right: 20px;" alt="">
 					<img src="/img/paintings/seascapes/seascapes-45.jpg" style="height: 300px; margin-right: 20px;" alt="">
 				</div>
-				<div class="cornerDetail" style="position: absolute; bottom: 0; right: 0;">
+				<div class="cornerDetail" style="position: absolute; bottom: 0; right: 0; padding-right: 20px; padding-bottom: 12px;">
 					<h4 class="caps line-height-1 margin-0"><strong>Gallery</strong></h4>
-					<span class="serif"></span>
+					<span class="serif" style="color: #fff; position: absolute; bottom: 8px; right: 6px;"></span>
 				</div>
 			</div>
 		</div>

@@ -5173,9 +5173,7 @@ header.header {
     line-height: 0; }
     .index#index .galleryLinks span:after {
       content: "nW";
-      font-size: 140px;
-      line-height: 0;
-      margin: 0; }
+      font-size: 140px; }
 
 .index#index .biographyMonologue {
   background: linear-gradient(rgba(88, 106, 113, 0.65), rgba(88, 106, 113, 0.65)), url("/img/nicolas-watine-atelier.jpg") left/cover no-repeat; }
