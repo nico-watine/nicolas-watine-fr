@@ -6,5 +6,16 @@
 		rgba(79,110,122,.80),
 		rgba(79,110,122,.80)
 		), url("/img/assets/linen.jpg") center/auto repeat;
+
+		span {
+			line-height: 0;
+			
+			&:after {
+				content: "nW";
+				font-size: 140px;
+				line-height: 0;
+				margin: 0;
+			}
+		}
 	}
 }
