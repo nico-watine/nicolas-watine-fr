@@ -51,6 +51,7 @@
 
 .categoryRow#seascapes {
 	@include breakpoint(600) {
+		.images,
 		.prose {
 			display: inline-block;
 		}

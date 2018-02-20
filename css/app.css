@@ -5195,6 +5195,7 @@ header.header {
       font-size: 140px; }
 
 @media screen and (min-width: 37.5em) {
+  .categoryRow#seascapes .images,
   .categoryRow#seascapes .prose {
     display: inline-block; } }
 

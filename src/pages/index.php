@@ -12,12 +12,12 @@ body-class: index
 	<div class="row medium-collapse">
 		<div class="medium-11 columns end">
 			<div class="categoryRow" id="seascapes">
-				<div class="images inline-block">
-					<img src="/img/paintings/seascapes/seascapes-32.jpg" style="height: 300px; margin-right: 20px;" alt="">
+				<div class="images text-center">
+					<img src="/img/paintings/seascapes/seascapes-32.jpg" style="max-height: 300px;" alt="">
 					<img class="show-for-medium" src="/img/paintings/seascapes/seascapes-45.jpg" style="height: 300px; margin-right: 20px;" alt="">
 				</div>
-				<div class="prose">
-					<h2 class="serif"><a href="">Seascapes</a></h2>
+				<div class="prose padding-Y">
+					<h2 class="serif text-center"><a href="">Seascapes</a></h2>
 				</div>
 				<div class="cornerDetail">
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
