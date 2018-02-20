@@ -5169,9 +5169,18 @@ header.header {
 
 .index#index .galleryLinks {
   background: linear-gradient(rgba(79, 110, 122, 0.8), rgba(79, 110, 122, 0.8)), url("/img/assets/linen.jpg") center/auto repeat; }
-  .index#index .galleryLinks span {
-    line-height: 0; }
-    .index#index .galleryLinks span:after {
+  .index#index .galleryLinks .cornerDetail h4 {
+    position: absolute;
+    right: 24px;
+    bottom: 12px;
+    z-index: 10; }
+  .index#index .galleryLinks .cornerDetail span {
+    line-height: 0;
+    color: #fff;
+    position: absolute;
+    bottom: 8px;
+    right: 6px; }
+    .index#index .galleryLinks .cornerDetail span:after {
       content: "nW";
       font-size: 140px; }
 
