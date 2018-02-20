@@ -16,6 +16,9 @@ body-class: index
 					<img src="/img/paintings/seascapes/seascapes-32.jpg" style="height: 300px; margin-right: 20px;" alt="">
 					<img src="/img/paintings/seascapes/seascapes-45.jpg" style="height: 300px; margin-right: 20px;" alt="">
 				</div>
+				<div class="prose inline-block">
+					<h2 class="serif line-height-1" style="border-bottom: 4px solid #70848C;">Seascapes</h2>
+				</div>
 				<div class="cornerDetail">
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
 					<span class="serif white"></span>
