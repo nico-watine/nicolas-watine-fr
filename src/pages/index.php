@@ -12,7 +12,9 @@ body-class: index
 	<div class="row collapse">
 		<div class="medium-11 columns end" style="margin-bottom: 50px; height: 300px; background: #F0F2F2; box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px 0 rgba(0,0,0,0.30);">
 			<img src="/img/paintings/seascapes/seascapes-32.jpg" style="height: 300px; margin-right: 20px;" alt="">
-			<img src="/img/paintings/seascapes/seascapes-45.jpg" style="height: 300px;" alt="">
+			<img src="/img/paintings/seascapes/seascapes-45.jpg" style="height: 300px; margin-right: 20px;" alt="">
+			<h2 class="serif inline-block line-height-1" style="border-bottom: 4px solid #70848C;">Seascapes</h2>
+			<h4 class="caps inline-block padding-XY margin-0"><strong>Gallery</strong></h4>
 		</div>
 	</div>
 </section>
