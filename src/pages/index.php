@@ -19,9 +19,9 @@ body-class: index
 				<div class="prose padding-Y">
 					<h2 class="serif text-center"><a href="">Seascapes</a></h2>
 				</div>
-				<div class="cornerDetail">
+				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
-					<span class="serif white"></span>
+					<span class="show-for-medium serif white"></span>
 				</div>
 			</div>
 		</div>

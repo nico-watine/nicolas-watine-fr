@@ -5180,10 +5180,13 @@ header.header {
     .index#index .galleryLinks .prose a:hover {
       border-bottom-color: transparent; }
   .index#index .galleryLinks .cornerDetail h4 {
-    position: absolute;
-    right: 24px;
-    bottom: 12px;
-    z-index: 10; }
+    padding-bottom: 12px; }
+    @media screen and (min-width: 37.5em) {
+      .index#index .galleryLinks .cornerDetail h4 {
+        position: absolute;
+        right: 24px;
+        bottom: 12px;
+        z-index: 10; } }
   .index#index .galleryLinks .cornerDetail span {
     line-height: 0;
     color: #fff;
