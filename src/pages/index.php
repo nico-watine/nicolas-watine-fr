@@ -10,7 +10,7 @@ body-class: index
 ---
 <section class="galleryLinks" style="padding-top: 50px;">
 	<div class="row collapse">
-		<div class="medium-11 columns end categoryRow">
+		<div class="medium-11 columns end categoryRow" id="seascapes">
 			<div class="relative">
 				<div class="images inline-block">
 					<img src="/img/paintings/seascapes/seascapes-32.jpg" style="height: 300px; margin-right: 20px;" alt="">
