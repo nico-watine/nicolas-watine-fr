@@ -1,0 +1,82 @@
+@import "../../_settings.scss";
+
+.index#index {
+	.galleryLinks {
+		background: linear-gradient(
+		rgba(79,110,122,.80),
+		rgba(79,110,122,.80)
+		), url("/img/assets/linen.jpg") center/auto repeat;
+
+		.categoryRow {
+			position: relative;
+			margin-bottom: 50px;
+			background: #f0f2f2;
+			box-shadow: 0 4px 5px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12), 0 2px 4px 0 rgba(0,0,0,.30);
+		}
+
+		.images {
+			margin-bottom: 12px;
+			background: #fff;
+
+			@include breakpoint(600) {
+				margin: 0;
+				background: transparent;
+				display: inline-block;
+			}
+		}
+
+		.prose {
+			a {
+				color: $black;
+				border-bottom: 4px solid #70848c;
+
+				&:hover {
+					border-bottom-color: transparent;
+				}
+			}
+		}
+
+		.cornerDetail {
+			h4 {
+				padding-bottom: 16px;
+
+				@include breakpoint(600) {
+					position: absolute;
+					right: 24px;
+					bottom: 12px;
+					z-index: 10;
+				}
+			}
+
+			span {
+				display: none;
+				visibility: hidden;
+
+				@include breakpoint(600) {
+					display: block;
+					visibility: visible;
+				}
+
+				line-height: 0;
+				color: #fff;
+				position: absolute;
+				bottom: 8px;
+				right: 6px;
+
+				&:after {
+					content: "nW";
+					font-size: 140px;
+				}
+			}
+		}
+	}
+}
+
+.categoryRow#seascapes {
+	@include breakpoint(600) {
+		.images,
+		.prose {
+			display: inline-block;
+		}
+	}
+}
