@@ -105,22 +105,28 @@ body-class: index
 	</div>
 </section>
 <br>
-<section class="sarton flex">
-	<div class="row collapse relative text-center completeCenter">
-		<div class="prose inline-block padding-XY">
-			<h2 class="serif text-center white line-height-1 margin-0">Sarton Manor &amp; Gardens</h2>
-			<a href="" class="h4 white caps">Visit</a>
-		</div>
-		<div class="show-for-large row imgRow collapse absolute">
-			<div class="large-4 columns">
-				<img src="/img/sarton/sarton-7.jpg" alt="">
+<section id="sarton">
+	<div class="row collapse">
+		<div class="aspectRatio">
+			<div class="proseWrap">
+				<div class="prose padding-XY">
+					<h2 class="serif text-center white line-height-1 margin-0">Sarton Manor &amp; Gardens</h2>
+					<a href="" class="h4 white caps">Visit</a>
+				</div>
+				<img class="show-for-medium spacer" src="/img/assets/spacer.png">
 			</div>
-			<div class="large-4 columns">
-				<img src="/img/sarton/sarton-8.jpg" alt="">
-			</div>
-			<div class="large-4 columns">
-				<img src="/img/sarton/sarton-4.jpg" alt="">
+			<div class="row imgRow collapse absolute show-for-medium">
+				<div class="show-for-large large-4 columns">
+					<img src="/img/sarton/sarton-7.jpg" alt="">
+				</div>
+				<div class="medium-6 large-4 columns text-center medium-text-right">
+					<img src="/img/sarton/sarton-8.jpg" alt="">
+				</div>
+				<div class="medium-6 large-4 columns text-left">
+					<img src="/img/sarton/sarton-4.jpg" alt="">
+				</div>
 			</div>
 		</div>
 	</div>
 </section>
+<br>
