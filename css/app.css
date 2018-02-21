@@ -5248,6 +5248,9 @@ header.header {
 .index#index #sarton .aspectRatio {
   position: relative;
   padding-top: 37.5%; }
+  @media print, screen and (min-width: 64em) {
+    .index#index #sarton .aspectRatio {
+      padding-top: 25%; } }
 
 .index#index #sarton .proseWrap {
   z-index: 10;

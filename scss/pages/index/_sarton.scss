@@ -37,7 +37,10 @@
 		.aspectRatio {
 			position: relative;
 			padding-top: 37.5%;
-			// padding-top: 25%; (large+)
+
+			@include breakpoint(large) {
+				padding-top: 25%;
+			}
 		}
 
 		.proseWrap {
