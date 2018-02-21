@@ -30,8 +30,9 @@ body-class: index
 		<div class="columns">
 			<div class="categoryRow" id="venice" style="position: relative;">
 				<img style="max-height: 320px; margin-right: 20px;" src="/img/paintings/venice/canvas/venice-canvas-3.jpg" alt="">
-				<div class="prose" style="display: inline-block;">
-					<h2 class="serif text-center"><a href="">Venice</a></h2>
+				<div class="prose" style="position: absolute; text-align: center; width: 100%; top: 0; padding: 0 545px 0 400px;">
+					<h2 class="serif text-center" style="display: inline-block;"><a href="">Venice</a></h2>
+					<img src="/img/assets/spacer.png" style="height: 320px; width: 0;" alt="">
 				</div>
 				<div class="cornerDetail">
 					<h4 class="caps margin-0" style="padding-right: 545px;"><strong>Gallery</strong></h4>
