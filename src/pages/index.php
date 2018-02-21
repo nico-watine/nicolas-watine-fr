@@ -16,7 +16,7 @@ body-class: index
 					<img src="/img/paintings/seascapes/seascapes-32.jpg" style="max-height: 300px;" alt="">
 					<img class="show-for-medium" src="/img/paintings/seascapes/seascapes-45.jpg" style="height: 300px; margin-right: 20px;" alt="">
 				</div>
-				<div class="prose padding-Y">
+				<div class="prose">
 					<h2 class="serif text-center"><a href="">Seascapes</a></h2>
 				</div>
 				<div class="cornerDetail text-center">

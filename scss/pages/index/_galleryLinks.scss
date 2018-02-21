@@ -14,6 +14,14 @@
 			box-shadow: 0 4px 5px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12), 0 2px 4px 0 rgba(0,0,0,.30);
 		}
 
+		.images {
+			margin-bottom: 12px;
+
+			@include breakpoint(600) {
+				margin: 0;
+			}
+		}
+
 		.prose {
 			a {
 				color: $black;
@@ -27,7 +35,7 @@
 
 		.cornerDetail {
 			h4 {
-				padding-bottom: 12px;
+				padding-bottom: 16px;
 
 				@include breakpoint(600) {
 					position: absolute;
