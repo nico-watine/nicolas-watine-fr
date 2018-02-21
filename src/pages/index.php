@@ -68,6 +68,10 @@ body-class: index
 					<img src="/img/paintings/landscapes/landscapes-4.jpg" style="margin-right: 20px; height: 100%;" alt="">
 					<img src="/img/paintings/landscapes/landscapes-1.jpg" style="height: 100%;" alt="">
 				</div>
+				<div class="cornerDetail text-center">
+					<h4 class="caps margin-0" style="left: 24px; right: initial;"><strong>Gallery</strong></h4>
+					<span class="serif white" style="left: 6px; right: initial;"></span>
+				</div>
 			</div>
 		</div>
 	</div>
