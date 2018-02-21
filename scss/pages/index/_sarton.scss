@@ -6,38 +6,6 @@
 		height: rem-calc(350);
 
 		@include breakpoint(medium) {
-			background: $white url("/img/sarton/sarton-medium.jpg") center/cover no-repeat;
-		}
-
-		@include breakpoint(large) {
-			background: none;
-			height: auto;
-			display: block;
-		}
-
-		.prose {
-			background: rgba(0,0,0,.50);
-
-			@include breakpoint(large) {
-				margin-top: rem-calc(60);
-			}
-
-			@include breakpoint(xlarge) {
-				margin-top: rem-calc(100);
-			}
-		}
-
-		.imgRow {
-			top: 0;
-			z-index: -10;
-		}
-	}
-
-	#sarton {
-		background: #fff url("/img/sarton/sarton-8.jpg") center/cover no-repeat;
-		height: rem-calc(350);
-
-		@include breakpoint(medium) {
 			height: auto;
 			background: transparent;
 		}

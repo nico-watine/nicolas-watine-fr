@@ -105,7 +105,7 @@ body-class: index
 	</div>
 </section>
 <br>
-<section id="sarton">
+<section class="sarton">
 	<div class="row collapse">
 		<div class="aspectRatio">
 			<div class="proseWrap">
