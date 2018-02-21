@@ -107,7 +107,13 @@ body-class: index
 <br>
 <section id="sarton">
 	<div class="row collapse" style="background: red;">
-		<div class="aspectRatio" style="position: relative; padding-top: 25%;">
+		<div class="aspectRatio" style="text-align: center; position: relative; padding-top: 25%;">
+			<div class="proseWrap" style="z-index: 10; text-align: center; position: absolute; top: 0; width: 100%; height: 100%;">
+				<div class="prose" style="display: inline-block; background: rgba(0,0,0,.50);">
+					<h2 class="serif text-center white line-height-1 margin-0">Sarton Manor &amp; Gardens</h2>
+					<a href="" class="h4 white caps">Visit</a>
+				</div>
+			</div>
 			<div class="row collapse" style="position: absolute; top: 0;">
 				<div class="medium-4 columns">
 					<img src="/img/sarton/sarton-7.jpg" alt="">
