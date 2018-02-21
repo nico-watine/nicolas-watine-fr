@@ -130,3 +130,7 @@ body-class: index
 	</div>
 </section>
 <br>
+<br>
+<section class="featuredExhibitions">
+	<h2 class="serif text-center">Featured Exhibitions</h2>
+</section>
