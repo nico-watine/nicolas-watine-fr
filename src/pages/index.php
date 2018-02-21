@@ -133,4 +133,20 @@ body-class: index
 <br>
 <section class="featuredExhibitions">
 	<h2 class="serif text-center">Featured Exhibitions</h2>
+	<div class="exhibitionList white" style="padding: 30px 0;">
+		<div class="france">
+			<h3 class="caps text-center"><strong>In France</strong></h3>
+			<div class="row">
+				<div class="large-3 columns">
+					<div class="listing">
+						<p class="lead">Gallery Motte</p>
+						<p>Lille</p>
+					</div>
+				</div>
+				<div class="large-3 columns"></div>
+				<div class="large-3 columns"></div>
+				<div class="large-3 columns"></div>
+			</div>
+		</div>
+	</div>
 </section>
