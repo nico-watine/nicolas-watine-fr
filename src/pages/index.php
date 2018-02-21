@@ -130,4 +130,3 @@ body-class: index
 	</div>
 </section>
 <br>
-<br>
