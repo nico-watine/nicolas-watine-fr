@@ -115,14 +115,14 @@ body-class: index
 				</div>
 				<img src="/img/assets/spacer.png" style="height: 100%; width: 0;" alt="">
 			</div>
-			<div class="row collapse" style="position: absolute; top: 0;">
-				<div class="medium-4 columns">
+			<div class="row collapse" style="width: 100%; position: absolute; top: 0;">
+				<div class="show-for-large large-4 columns">
 					<img src="/img/sarton/sarton-7.jpg" alt="">
 				</div>
-				<div class="medium-4 columns">
+				<div class="medium-6 large-4 columns text-right">
 					<img src="/img/sarton/sarton-8.jpg" alt="">
 				</div>
-				<div class="medium-4 columns">
+				<div class="medium-6 large-4 columns text-left">
 					<img src="/img/sarton/sarton-4.jpg" alt="">
 				</div>
 			</div>
