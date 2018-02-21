@@ -143,9 +143,24 @@ body-class: index
 						<p>Lille</p>
 					</div>
 				</div>
-				<div class="large-3 columns"></div>
-				<div class="large-3 columns"></div>
-				<div class="large-3 columns"></div>
+				<div class="large-3 columns">
+					<div class="listing">
+						<p class="lead">Gallery Vendôme, rue de la Paix</p>
+						<p>Paris</p>
+					</div>
+				</div>
+				<div class="large-3 columns">
+					<div class="listing">
+						<p class="lead">Galerie l’Ermitage</p>
+						<p>Le Touquet</p>
+					</div>
+				</div>
+				<div class="large-3 columns">
+					<div class="listing">
+						<p class="lead">Gallery Renaudot</p>
+						<p>Semur en Auxois</p>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
