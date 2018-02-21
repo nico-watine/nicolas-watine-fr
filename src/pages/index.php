@@ -33,7 +33,11 @@ body-class: index
 				<div class="prose" style="display: inline-block;">
 					<h2 class="serif text-center"><a href="">Venice</a></h2>
 				</div>
-				<div class="images" style="position: absolute; right: 0;">
+				<div class="cornerDetail">
+					<h4 class="caps margin-0" style="padding-right: 545px;"><strong>Gallery</strong></h4>
+					<span class="serif white" style="padding-right: 545px;"></span>
+				</div>
+				<div class="images" style="position: absolute; right: 0; top: 0;">
 					<img style="max-height: 320px; margin-right: 20px;" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt="">
 					<img style="max-height: 320px;" src="/img/paintings/venice/canvas/venice-canvas-7.jpg" alt="">
 				</div>
