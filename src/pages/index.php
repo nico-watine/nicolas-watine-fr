@@ -26,6 +26,20 @@ body-class: index
 			</div>
 		</div>
 	</div>
+	<div class="row">
+		<div class="columns">
+			<div class="categoryRow" id="venice" style="position: relative;">
+				<img style="max-height: 320px; margin-right: 20px;" src="/img/paintings/venice/canvas/venice-canvas-3.jpg" alt="">
+				<div class="prose" style="display: inline-block;">
+					<h2 class="serif text-center"><a href="">Venice</a></h2>
+				</div>
+				<div class="images" style="position: absolute; right: 0;">
+					<img style="max-height: 320px; margin-right: 20px;" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt="">
+					<img style="max-height: 320px;" src="/img/paintings/venice/canvas/venice-canvas-7.jpg" alt="">
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
 <section class="drawings">
 	<div class="sectionContent row flex">
