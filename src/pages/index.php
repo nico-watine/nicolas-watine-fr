@@ -113,6 +113,7 @@ body-class: index
 					<h2 class="serif text-center white line-height-1 margin-0">Sarton Manor &amp; Gardens</h2>
 					<a href="" class="h4 white caps">Visit</a>
 				</div>
+				<img src="/img/assets/spacer.png" style="height: 100%; width: 0;" alt="">
 			</div>
 			<div class="row collapse" style="position: absolute; top: 0;">
 				<div class="medium-4 columns">
