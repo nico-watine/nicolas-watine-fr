@@ -106,20 +106,20 @@ body-class: index
 </section>
 <br>
 <section id="sarton">
-	<div class="row collapse" style="background: red;">
+	<div class="row collapse">
 		<div class="aspectRatio">
 			<div class="proseWrap">
-				<div class="prose">
+				<div class="prose padding-XY">
 					<h2 class="serif text-center white line-height-1 margin-0">Sarton Manor &amp; Gardens</h2>
 					<a href="" class="h4 white caps">Visit</a>
 				</div>
-				<img class="spacer" src="/img/assets/spacer.png">
+				<img class="show-for-medium spacer" src="/img/assets/spacer.png">
 			</div>
-			<div class="row imgRow collapse absolute">
+			<div class="row imgRow collapse absolute show-for-medium">
 				<div class="show-for-large large-4 columns">
 					<img src="/img/sarton/sarton-7.jpg" alt="">
 				</div>
-				<div class="medium-6 large-4 columns text-right">
+				<div class="medium-6 large-4 columns text-center medium-text-right">
 					<img src="/img/sarton/sarton-8.jpg" alt="">
 				</div>
 				<div class="medium-6 large-4 columns text-left">
