@@ -137,35 +137,35 @@ body-class: index
 		<div class="france">
 			<h3 class="caps text-center"><strong>In France</strong></h3>
 			<div class="row small-up-2 medium-up-3 large-up-4">
-				<div class="column listing">
+				<div class="column column-block listing">
 					<p class="lead">Gallery Motte</p>
 					<p>Lille</p>
 				</div>
-				<div class="column listing">
+				<div class="column column-block listing">
 					<p class="lead">Gallery Vendôme, rue de la Paix</p>
 					<p>Paris</p>
 				</div>
-				<div class="column listing">
+				<div class="column column-block listing">
 					<p class="lead">Galerie l’Ermitage</p>
 					<p>Le Touquet</p>
 				</div>
-				<div class="column listing">
+				<div class="column column-block listing">
 					<p class="lead">Gallery Renaudot</p>
 					<p>Semur en Auxois</p>
 				</div>
-				<div class="column listing">
+				<div class="column column-block listing">
 					<p class="lead">Gallery Motte</p>
 					<p>Lille</p>
 				</div>
-				<div class="column listing">
+				<div class="column column-block listing">
 					<p class="lead">Gallery Vendôme, rue de la Paix</p>
 					<p>Paris</p>
 				</div>
-				<div class="column listing">
+				<div class="column column-block listing">
 					<p class="lead">Galerie l’Ermitage</p>
 					<p>Le Touquet</p>
 				</div>
-				<div class="column listing">
+				<div class="column column-block listing">
 					<p class="lead">Gallery Renaudot</p>
 					<p>Semur en Auxois</p>
 				</div>
