@@ -1,2 +1,10 @@
 @import "../../_settings.scss";
 
+.index#index {
+	.featuredExhibitions {
+		background: linear-gradient(
+		rgba(82,94,99,.80),
+		rgba(82,94,99,.80)
+		), url("/img/featured-exhibitions/featuredExhibitions-background.png") center/cover no-repeat;
+	}
+}

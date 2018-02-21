@@ -5222,6 +5222,9 @@ header.header {
     max-width: 43.125rem;
     margin: 0 auto; }
 
+.index#index .featuredExhibitions {
+  background: linear-gradient(rgba(82, 94, 99, 0.8), rgba(82, 94, 99, 0.8)), url("/img/featured-exhibitions/featuredExhibitions-background.png") center/cover no-repeat; }
+
 .index#index .sarton {
   background: #fff url("/img/sarton/sarton-8.jpg") center/cover no-repeat;
   height: 21.875rem; }
