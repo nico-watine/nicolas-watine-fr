@@ -20,6 +20,8 @@
 
 			@include breakpoint(600) {
 				margin: 0;
+				background: transparent;
+				display: inline-block;
 			}
 		}
 
