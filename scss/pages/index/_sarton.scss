@@ -83,6 +83,13 @@
 
 		.imgRow {
 			top: 0;
+			width: 100%;
+
+			@include breakpoint(medium) {
+				img {
+					width: 100%;
+				}
+			}
 		}
 	}
 }
