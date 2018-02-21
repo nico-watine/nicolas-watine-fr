@@ -16,6 +16,7 @@
 
 		.images {
 			margin-bottom: 12px;
+			background: #fff;
 
 			@include breakpoint(600) {
 				margin: 0;
@@ -46,6 +47,14 @@
 			}
 
 			span {
+				display: none;
+				visibility: hidden;
+
+				@include breakpoint(600) {
+					display: block;
+					visibility: visible;
+				}
+
 				line-height: 0;
 				color: #fff;
 				position: absolute;

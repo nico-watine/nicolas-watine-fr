@@ -21,7 +21,7 @@ body-class: index
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
-					<span class="show-for-medium serif white"></span>
+					<span class="serif white"></span>
 				</div>
 			</div>
 		</div>
