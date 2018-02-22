@@ -5298,11 +5298,8 @@ header.header {
     margin-right: 60px; }
   .categoryRow#venice .cornerDetail h4,
   .categoryRow#venice .cornerDetail span {
-    right: initial; }
-  .categoryRow#venice .cornerDetail h4 {
-    left: 424px; }
-  .categoryRow#venice .cornerDetail span {
-    left: 406px; } }
+    right: 0;
+    padding-right: 545px; } }
 
 .index#index .biographyMonologue {
   background: linear-gradient(rgba(88, 106, 113, 0.65), rgba(88, 106, 113, 0.65)), url("/img/nicolas-watine-atelier.jpg") left/cover no-repeat; }
