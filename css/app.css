@@ -5398,6 +5398,9 @@ header.header {
   background: #fff; }
   .categoryRow#stillLife .imgGroup-1 img.primary {
     max-height: 320px; }
+  .categoryRow#stillLife .imgGroup-1 img.secondary {
+    display: none;
+    visibility: hidden; }
 
 .categoryRow#stillLife .cornerDetail span {
   display: none;
@@ -5413,7 +5416,7 @@ header.header {
   .categoryRow#stillLife .imgGroup-1 {
     display: inline-block;
     margin: 0 20px 0 0; }
-    .categoryRow#stillLife .imgGroup-1 img.primary {
+    .categoryRow#stillLife .imgGroup-1 img {
       height: 300px; }
   .categoryRow#stillLife .prose {
     display: inline-block; }
@@ -5426,6 +5429,31 @@ header.header {
     position: absolute;
     right: 6px;
     bottom: 8px; } }
+
+@media screen and (min-width: 46.875em) {
+  .categoryRow#stillLife .imgGroup-1 {
+    margin-right: 80px; } }
+
+@media screen and (min-width: 50em) {
+  .categoryRow#stillLife .imgGroup-1 img.primary {
+    display: none;
+    visibility: hidden; }
+  .categoryRow#stillLife .imgGroup-1 img.secondary {
+    display: inline-block;
+    visibility: visible; } }
+
+@media screen and (min-width: 60em) {
+  .categoryRow#stillLife .imgGroup-1 {
+    margin-right: 20px; }
+    .categoryRow#stillLife .imgGroup-1 img.primary {
+      display: inline-block;
+      visibility: visible; }
+  .categoryRow#stillLife .prose h2 {
+    padding-right: 20px; } }
+
+@media screen and (min-width: 75em) {
+  .categoryRow#stillLife .imgGroup-1 {
+    margin-right: 100px; } }
 
 .index#index .biographyMonologue {
   background: linear-gradient(rgba(88, 106, 113, 0.65), rgba(88, 106, 113, 0.65)), url("/img/nicolas-watine-atelier.jpg") left/cover no-repeat; }

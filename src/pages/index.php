@@ -49,11 +49,11 @@ body-class: index
 		</div>
 	</div>
 	<div class="row">
-		<div class="large-11 columns large-push-1">
+		<div class="xlarge-11 columns xlarge-push-1">
 			<div class="categoryRow" id="stillLife">
 				<div class="imgGroup-1 text-center">
 					<img class="primary" src="/img/paintings/still-life/still-life-21.jpg" alt="">
-					<!-- <img src="/img/paintings/still-life/still-life-4.jpg" style="margin-right: 20px; max-height: 300px;" alt=""> -->
+					<img class="secondary" src="/img/paintings/still-life/still-life-4.jpg" alt="">
 				</div>
 				<div class="prose">
 					<h2 class="serif text-center"><a href="">Still Life</a></h2>
