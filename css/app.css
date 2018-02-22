@@ -5228,12 +5228,16 @@ header.header {
 .categoryRow#venice img {
   max-height: 320px; }
 
-.categoryRow#venice .imgGroup {
+.categoryRow#venice .imgGroup-1 {
   margin-bottom: 12px;
   background: #fff; }
-  .categoryRow#venice .imgGroup img.secondary {
+  .categoryRow#venice .imgGroup-1 img.secondary {
     display: none;
     visibility: hidden; }
+
+.categoryRow#venice .imgGroup-2 {
+  right: 0;
+  top: 0; }
 
 .categoryRow#venice .cornerDetail h4 {
   padding: 0; }
@@ -5249,7 +5253,7 @@ header.header {
     visibility: visible; } }
 
 @media print, screen and (min-width: 40em) {
-  .categoryRow#venice .imgGroup {
+  .categoryRow#venice .imgGroup-1 {
     margin: 0 20px 0 0;
     display: inline-block; }
   .categoryRow#venice .prose {
@@ -5272,20 +5276,20 @@ header.header {
     right: 6px; } }
 
 @media screen and (min-width: 46.875em) {
-  .categoryRow#venice .imgGroup {
+  .categoryRow#venice .imgGroup-1 {
     margin-right: 80px; } }
 
 @media screen and (min-width: 56.875em) {
-  .categoryRow#venice .imgGroup {
+  .categoryRow#venice .imgGroup-1 {
     margin-right: 20px; }
-    .categoryRow#venice .imgGroup img.secondary {
+    .categoryRow#venice .imgGroup-1 img.secondary {
       display: inline-block;
       visibility: visible; } }
 
 @media print, screen and (min-width: 64em) {
-  .categoryRow#venice .imgGroup {
+  .categoryRow#venice .imgGroup-1 {
     margin-right: 100px; }
-    .categoryRow#venice .imgGroup img.secondary {
+    .categoryRow#venice .imgGroup-1 img.secondary {
       display: none;
       visibility: hidden; }
   .categoryRow#venice .cornerDetail h4 {
@@ -5294,7 +5298,7 @@ header.header {
     right: 258px; } }
 
 @media screen and (min-width: 75em) {
-  .categoryRow#venice .imgGroup {
+  .categoryRow#venice .imgGroup-1 {
     margin-right: 60px; }
   .categoryRow#venice .cornerDetail h4,
   .categoryRow#venice .cornerDetail span {
@@ -5302,7 +5306,91 @@ header.header {
     padding-right: 545px; } }
 
 @media screen and (min-width: 81.25em) {
-  .categoryRow#venice .imgGroup {
+  .categoryRow#venice .imgGroup-1 {
+    margin-right: 110px; } }
+
+.categoryRow#venice img {
+  max-height: 320px; }
+
+.categoryRow#venice .imgGroup-1 {
+  margin-bottom: 12px;
+  background: #fff; }
+  .categoryRow#venice .imgGroup-1 img.secondary {
+    display: none;
+    visibility: hidden; }
+
+.categoryRow#venice .imgGroup-2 {
+  right: 0;
+  top: 0; }
+
+.categoryRow#venice .cornerDetail h4 {
+  padding: 0; }
+
+.categoryRow#venice .cornerDetail span {
+  display: none;
+  visibility: hidden;
+  right: 6px; }
+
+@media screen and (min-width: 34.375em) {
+  .categoryRow#venice .cornerDetail span {
+    display: block;
+    visibility: visible; } }
+
+@media print, screen and (min-width: 40em) {
+  .categoryRow#venice .imgGroup-1 {
+    margin: 0 20px 0 0;
+    display: inline-block; }
+  .categoryRow#venice .prose {
+    position: absolute;
+    display: inline;
+    top: 0; }
+    .categoryRow#venice .prose h2 {
+      display: inline-block; }
+    .categoryRow#venice .prose img {
+      height: 320px;
+      width: 0; }
+  .categoryRow#venice .cornerDetail h4 {
+    position: absolute;
+    right: 24px;
+    bottom: 12px;
+    z-index: 10; }
+  .categoryRow#venice .cornerDetail span {
+    position: absolute;
+    bottom: 8px;
+    right: 6px; } }
+
+@media screen and (min-width: 46.875em) {
+  .categoryRow#venice .imgGroup-1 {
+    margin-right: 80px; } }
+
+@media screen and (min-width: 56.875em) {
+  .categoryRow#venice .imgGroup-1 {
+    margin-right: 20px; }
+    .categoryRow#venice .imgGroup-1 img.secondary {
+      display: inline-block;
+      visibility: visible; } }
+
+@media print, screen and (min-width: 64em) {
+  .categoryRow#venice .imgGroup-1 {
+    margin-right: 100px; }
+    .categoryRow#venice .imgGroup-1 img.secondary {
+      display: none;
+      visibility: hidden; }
+  .categoryRow#venice .cornerDetail h4 {
+    right: 276px; }
+  .categoryRow#venice .cornerDetail span {
+    right: 258px; } }
+
+@media screen and (min-width: 75em) {
+  .categoryRow#venice .imgGroup-1 {
+    margin-right: 60px; }
+  .categoryRow#venice .cornerDetail h4,
+  .categoryRow#venice .cornerDetail span {
+    right: 0;
+    padding-right: 545px; } }
+
+@media screen and (min-width: 81.25em) {
+  .categoryRow#venice .imgGroup-1 {
     margin-right: 110px; } }
 
 .index#index .biographyMonologue {
