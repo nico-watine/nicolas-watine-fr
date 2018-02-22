@@ -71,7 +71,13 @@
 			visibility: hidden;
 		}
 	}
-	
+
+	.prose {
+		h2 {
+			font-size: $h2-serif;
+		}
+	}
+
 	@include breakpoint(600) {
 		.images,
 		.prose {
@@ -90,11 +96,9 @@
 		}
 	}
 
-	.prose {
-		h2 {
-			font-size: $h2-serif;
-
-			@include breakpoint(690) {
+	@include breakpoint(690) {
+		.prose {
+			h2 {
 				font-size: $h2-serif-medium;
 			}
 		}

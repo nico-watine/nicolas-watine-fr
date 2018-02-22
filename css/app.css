@@ -5209,6 +5209,9 @@ header.header {
   display: none;
   visibility: hidden; }
 
+.categoryRow#seascapes .prose h2 {
+  font-size: 3rem; }
+
 @media screen and (min-width: 37.5em) {
   .categoryRow#seascapes .images,
   .categoryRow#seascapes .prose {
@@ -5219,11 +5222,9 @@ header.header {
     display: block;
     visibility: visible; } }
 
-.categoryRow#seascapes .prose h2 {
-  font-size: 3rem; }
-  @media screen and (min-width: 43.125em) {
-    .categoryRow#seascapes .prose h2 {
-      font-size: 4.25rem; } }
+@media screen and (min-width: 43.125em) {
+  .categoryRow#seascapes .prose h2 {
+    font-size: 4.25rem; } }
 
 .categoryRow#venice img {
   max-height: 320px; }
