@@ -13,8 +13,8 @@ body-class: index
 		<div class="medium-11 columns end">
 			<div class="categoryRow" id="seascapes">
 				<div class="images text-center">
-					<img src="/img/paintings/seascapes/seascapes-32.jpg" style="max-height: 300px; margin-right: 20px;" alt="">
-					<img class="show-for-large" src="/img/paintings/seascapes/seascapes-45.jpg" style="height: 300px; margin-right: 20px;" alt="">
+					<img src="/img/paintings/seascapes/seascapes-32.jpg" style="max-height: 300px;" alt="">
+					<img class="show-for-large" src="/img/paintings/seascapes/seascapes-45.jpg" style="height: 300px; margin-left: 20px;" alt="">
 				</div>
 				<div class="prose">
 					<h2 class="serif text-center"><a href="">Seascapes</a></h2>
