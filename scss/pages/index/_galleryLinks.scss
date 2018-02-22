@@ -183,8 +183,16 @@
 		}
 	}
 
+	@include breakpoint(750) {
+		.imgGroup {
+			margin-right: 80px;
+		}
+	}
+
 	@include breakpoint(910) {
 		.imgGroup {
+			margin-right: 20px;
+			
 			img.secondary {
 				display: inline-block;
 				visibility: visible;

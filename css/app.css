@@ -5270,10 +5270,16 @@ header.header {
     bottom: 8px;
     right: 6px; } }
 
+@media screen and (min-width: 46.875em) {
+  .categoryRow#venice .imgGroup {
+    margin-right: 80px; } }
+
 @media screen and (min-width: 56.875em) {
-  .categoryRow#venice .imgGroup img.secondary {
-    display: inline-block;
-    visibility: visible; } }
+  .categoryRow#venice .imgGroup {
+    margin-right: 20px; }
+    .categoryRow#venice .imgGroup img.secondary {
+      display: inline-block;
+      visibility: visible; } }
 
 .index#index .biographyMonologue {
   background: linear-gradient(rgba(88, 106, 113, 0.65), rgba(88, 106, 113, 0.65)), url("/img/nicolas-watine-atelier.jpg") left/cover no-repeat; }
