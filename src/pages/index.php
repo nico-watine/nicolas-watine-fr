@@ -50,17 +50,17 @@ body-class: index
 	</div>
 	<div class="row">
 		<div class="large-11 columns large-push-1">
-			<div class="categoryRow" id="stillLife" style="position: relative; height: 300px;">
-				<div class="images" style="height: 100%;">
-					<img src="/img/paintings/still-life/still-life-21.jpg" style="margin-right: 20px; height: 100%;" alt="">
-					<img src="/img/paintings/still-life/still-life-4.jpg" style="margin-right: 20px; height: 100%;" alt="">
+			<div class="categoryRow" id="stillLife">
+				<div class="images" style="text-align: center;">
+					<img src="/img/paintings/still-life/still-life-21.jpg" style="max-height: 320px;" alt="">
+					<!-- <img src="/img/paintings/still-life/still-life-4.jpg" style="margin-right: 20px; max-height: 300px;" alt=""> -->
 				</div>
-				<div class="prose inline-block">
+				<div class="prose inline-block" style="width: 100%;">
 					<h2 class="serif text-center"><a href="">Still Life</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
-					<span class="serif white"></span>
+					<!-- <span class="serif white"></span> -->
 				</div>
 			</div>
 		</div>
