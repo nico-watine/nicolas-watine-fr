@@ -5216,6 +5216,12 @@ header.header {
   .categoryRow#seascapes .prose {
     display: inline-block; } }
 
+.categoryRow#seascapes .prose h2 {
+  font-size: 3rem; }
+  @media screen and (min-width: 43.125em) {
+    .categoryRow#seascapes .prose h2 {
+      font-size: 4.25rem; } }
+
 .index#index .biographyMonologue {
   background: linear-gradient(rgba(88, 106, 113, 0.65), rgba(88, 106, 113, 0.65)), url("/img/nicolas-watine-atelier.jpg") left/cover no-repeat; }
   .index#index .biographyMonologue .prose {

@@ -79,4 +79,14 @@
 			display: inline-block;
 		}
 	}
+
+	.prose {
+		h2 {
+			font-size: $h2-serif;
+
+			@include breakpoint(690) {
+				font-size: $h2-serif-medium;
+			}
+		}
+	}
 }
