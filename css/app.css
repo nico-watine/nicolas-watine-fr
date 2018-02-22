@@ -5199,12 +5199,12 @@ header.header {
       content: "nW";
       font-size: 140px; }
 
+.categoryRow#seascapes .prose h2 {
+  font-size: 3rem; }
+
 .categoryRow#seascapes .cornerDetail span {
   display: none;
   visibility: hidden; }
-
-.categoryRow#seascapes .prose h2 {
-  font-size: 3rem; }
 
 @media screen and (min-width: 37.5em) {
   .categoryRow#seascapes .images,

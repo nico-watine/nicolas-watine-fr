@@ -58,16 +58,16 @@
 }
 
 .categoryRow#seascapes {
+	.prose {
+		h2 {
+			font-size: $h2-serif;
+		}
+	}
+	
 	.cornerDetail {
 		span {
 			display: none;
 			visibility: hidden;
-		}
-	}
-
-	.prose {
-		h2 {
-			font-size: $h2-serif;
 		}
 	}
 
