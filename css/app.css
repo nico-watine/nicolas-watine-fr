@@ -5283,9 +5283,11 @@ header.header {
       visibility: visible; } }
 
 @media print, screen and (min-width: 64em) {
-  .categoryRow#venice .imgGroup img.secondary {
-    display: none;
-    visibility: hidden; }
+  .categoryRow#venice .imgGroup {
+    margin-right: 100px; }
+    .categoryRow#venice .imgGroup img.secondary {
+      display: none;
+      visibility: hidden; }
   .categoryRow#venice .cornerDetail h4 {
     right: 276px; }
   .categoryRow#venice .cornerDetail span {

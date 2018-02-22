@@ -31,7 +31,7 @@ body-class: index
 			<div class="categoryRow" id="venice">
 				<div class="imgGroup text-center">
 					<img class="primary" src="/img/paintings/venice/canvas/venice-canvas-3.jpg" alt="">
-					<!-- <img class="secondary" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt=""> -->
+					<img class="secondary" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt="">
 				</div>
 				<div class="prose">
 					<h2 class="serif text-center"><a href="">Venice</a></h2>
