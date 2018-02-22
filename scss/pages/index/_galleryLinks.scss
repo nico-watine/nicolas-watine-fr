@@ -111,7 +111,7 @@
 		max-height: 320px;
 	}
 
-	.imgGroup {
+	.imgGroup-1 {
 		margin-bottom: 12px;
 		background: #fff;
 
@@ -143,7 +143,7 @@
 	}
 
 	@include breakpoint(medium) {
-		.imgGroup {
+		.imgGroup-1 {
 			margin: 0 20px 0 0;
 			display: inline-block;
 		}
@@ -185,13 +185,13 @@
 	}
 
 	@include breakpoint(750) {
-		.imgGroup {
+		.imgGroup-1 {
 			margin-right: 80px;
 		}
 	}
 
 	@include breakpoint(910) {
-		.imgGroup {
+		.imgGroup-1 {
 			margin-right: 20px;
 
 			img.secondary {
@@ -202,7 +202,7 @@
 	}
 
 	@include breakpoint(large) {
-		.imgGroup {
+		.imgGroup-1 {
 			margin-right: 100px;
 
 			img.secondary {
@@ -223,7 +223,7 @@
 	}
 
 	@include breakpoint(xlarge) {
-		.imgGroup {
+		.imgGroup-1 {
 			margin-right: 60px;
 		}
 
@@ -237,7 +237,7 @@
 	}
 
 	@include breakpoint(1300) {
-		.imgGroup {
+		.imgGroup-1 {
 			margin-right: 110px;
 		}
 	}

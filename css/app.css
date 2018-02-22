@@ -5228,10 +5228,10 @@ header.header {
 .categoryRow#venice img {
   max-height: 320px; }
 
-.categoryRow#venice .imgGroup {
+.categoryRow#venice .imgGroup-1 {
   margin-bottom: 12px;
   background: #fff; }
-  .categoryRow#venice .imgGroup img.secondary {
+  .categoryRow#venice .imgGroup-1 img.secondary {
     display: none;
     visibility: hidden; }
 
@@ -5249,7 +5249,7 @@ header.header {
     visibility: visible; } }
 
 @media print, screen and (min-width: 40em) {
-  .categoryRow#venice .imgGroup {
+  .categoryRow#venice .imgGroup-1 {
     margin: 0 20px 0 0;
     display: inline-block; }
   .categoryRow#venice .prose {
@@ -5272,20 +5272,20 @@ header.header {
     right: 6px; } }
 
 @media screen and (min-width: 46.875em) {
-  .categoryRow#venice .imgGroup {
+  .categoryRow#venice .imgGroup-1 {
     margin-right: 80px; } }
 
 @media screen and (min-width: 56.875em) {
-  .categoryRow#venice .imgGroup {
+  .categoryRow#venice .imgGroup-1 {
     margin-right: 20px; }
-    .categoryRow#venice .imgGroup img.secondary {
+    .categoryRow#venice .imgGroup-1 img.secondary {
       display: inline-block;
       visibility: visible; } }
 
 @media print, screen and (min-width: 64em) {
-  .categoryRow#venice .imgGroup {
+  .categoryRow#venice .imgGroup-1 {
     margin-right: 100px; }
-    .categoryRow#venice .imgGroup img.secondary {
+    .categoryRow#venice .imgGroup-1 img.secondary {
       display: none;
       visibility: hidden; }
   .categoryRow#venice .cornerDetail h4 {
@@ -5294,7 +5294,7 @@ header.header {
     right: 258px; } }
 
 @media screen and (min-width: 75em) {
-  .categoryRow#venice .imgGroup {
+  .categoryRow#venice .imgGroup-1 {
     margin-right: 60px; }
   .categoryRow#venice .cornerDetail h4,
   .categoryRow#venice .cornerDetail span {
@@ -5302,7 +5302,7 @@ header.header {
     padding-right: 545px; } }
 
 @media screen and (min-width: 81.25em) {
-  .categoryRow#venice .imgGroup {
+  .categoryRow#venice .imgGroup-1 {
     margin-right: 110px; } }
 
 .index#index .biographyMonologue {
