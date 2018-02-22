@@ -39,13 +39,6 @@
 		.cornerDetail {
 			h4 {
 				padding-bottom: 16px;
-
-				@include breakpoint(600) {
-					position: absolute;
-					right: 24px;
-					bottom: 12px;
-					z-index: 10;
-				}
 			}
 
 			span {
@@ -89,6 +82,13 @@
 		}
 
 		.cornerDetail {
+			h4 {
+				position: absolute;
+				right: 24px;
+				bottom: 12px;
+				z-index: 10;
+			}
+
 			span {
 				display: block;
 				visibility: visible;
