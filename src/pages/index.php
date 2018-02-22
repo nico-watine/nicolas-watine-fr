@@ -36,8 +36,8 @@ body-class: index
 					<h2 class="serif text-center"><a href="">Venice</a></h2>
 					<img class="show-for-large" src="/img/assets/spacer.png" style="height: 320px; width: 0;" alt="">
 				</div>
-				<div class="cornerDetail">
-					<h4 class="caps margin-0" style="padding-right: 545px;"><strong>Gallery</strong></h4>
+				<div class="cornerDetail text-center">
+					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
 					<span class="serif white" style="padding-right: 545px;"></span>
 				</div>
 				<div class="images show-for-large" style="position: absolute; right: 0; top: 0;">

@@ -105,6 +105,12 @@
 		}
 	}
 
+	.cornerDetail {
+		h4 {
+			padding: 0;
+		}
+	}
+
 	@include breakpoint(medium) {
 		.featureImg {
 			margin: 0 20px 12px 0;
@@ -118,6 +124,12 @@
 
 			h2 {
 				display: inline-block;
+			}
+		}
+
+		.cornerDetail {
+			h4 {
+				padding-right: 545px;
 			}
 		}
 	}
