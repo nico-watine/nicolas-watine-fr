@@ -5236,7 +5236,13 @@ header.header {
   padding: 0; }
 
 .categoryRow#venice .cornerDetail span {
-  padding-right: 545px; }
+  display: none;
+  visibility: hidden; }
+
+@media screen and (min-width: 34.375em) {
+  .categoryRow#venice .cornerDetail span {
+    display: block;
+    visibility: visible; } }
 
 @media print, screen and (min-width: 40em) {
   .categoryRow#venice .featureImg {

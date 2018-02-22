@@ -63,7 +63,7 @@
 			font-size: $h2-serif;
 		}
 	}
-	
+
 	.cornerDetail {
 		span {
 			display: none;
@@ -121,7 +121,18 @@
 		}
 
 		span {
-			padding-right: 545px;
+			// padding-right: 545px;
+			display: none;
+			visibility: hidden;
+		}
+	}
+
+	@include breakpoint(550) {
+		.cornerDetail {
+			span {
+				display: block;
+				visibility: visible;
+			}
 		}
 	}
 
