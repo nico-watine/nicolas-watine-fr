@@ -204,7 +204,7 @@
 	@include breakpoint(large) {
 		.imgGroup {
 			margin-right: 100px;
-			
+
 			img.secondary {
 				display: none;
 				visibility: hidden;
@@ -219,6 +219,12 @@
 			span {
 				right: 258px;
 			}
+		}
+	}
+
+	@include breakpoint(xlarge) {
+		.imgGroup {
+			margin-right: 60px;
 		}
 	}
 }
