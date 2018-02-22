@@ -4,6 +4,10 @@
 	.imgGroup-1 {
 		margin-bottom: 12px;
 		background: #fff;
+
+		img.primary {
+			max-height: 320px;
+		}
 	}
 
 	.cornerDetail {
@@ -27,6 +31,10 @@
 		.imgGroup-1 {
 			display: inline-block;
 			margin: 0 20px 0 0;
+
+			img.primary {
+				height: 300px;
+			}
 		}
 
 		.prose {

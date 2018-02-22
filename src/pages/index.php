@@ -52,7 +52,7 @@ body-class: index
 		<div class="large-11 columns large-push-1">
 			<div class="categoryRow" id="stillLife">
 				<div class="imgGroup-1 text-center">
-					<img src="/img/paintings/still-life/still-life-21.jpg" style="max-height: 320px;" alt="">
+					<img class="primary" src="/img/paintings/still-life/still-life-21.jpg" alt="">
 					<!-- <img src="/img/paintings/still-life/still-life-4.jpg" style="margin-right: 20px; max-height: 300px;" alt=""> -->
 				</div>
 				<div class="prose">
