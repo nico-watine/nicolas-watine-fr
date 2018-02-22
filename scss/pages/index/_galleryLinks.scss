@@ -110,9 +110,14 @@
 		max-height: 320px;
 	}
 
-	.featureImg {
+	.imgGroup {
 		margin-bottom: 12px;
 		background: #fff;
+
+		img.secondary {
+			display: none;
+			visibility: hidden;
+		}
 	}
 
 	.cornerDetail {
@@ -136,7 +141,7 @@
 	}
 
 	@include breakpoint(medium) {
-		.featureImg {
+		.imgGroup {
 			margin: 0 20px 0 0;
 			display: inline-block;
 		}
@@ -174,6 +179,15 @@
 				position: absolute;
 				bottom: 8px;
 				right: 6px;
+			}
+		}
+	}
+
+	@include breakpoint(910) {
+		.imgGroup {
+			img.secondary {
+				display: inline-block;
+				visibility: visible;
 			}
 		}
 	}

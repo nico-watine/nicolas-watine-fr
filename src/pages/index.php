@@ -29,8 +29,9 @@ body-class: index
 	<div class="row">
 		<div class="columns">
 			<div class="categoryRow" id="venice">
-				<div class="featureImg text-center">
-					<img src="/img/paintings/venice/canvas/venice-canvas-3.jpg" alt="">
+				<div class="imgGroup text-center">
+					<img class="primary" src="/img/paintings/venice/canvas/venice-canvas-3.jpg" alt="">
+					<img class="secondary" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt="">
 				</div>
 				<div class="prose">
 					<h2 class="serif text-center"><a href="">Venice</a></h2>
@@ -40,8 +41,8 @@ body-class: index
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
 					<span class="serif white"></span>
 				</div>
-				<div class="images show-for-large" style="position: absolute; right: 0; top: 0;">
-					<img style="margin-right: 20px;" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt="">
+				<div class="image show-for-large" style="position: absolute; right: 0; top: 0;">
+					<!-- <img style="margin-right: 20px;" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt=""> -->
 					<img src="/img/paintings/venice/canvas/venice-canvas-7.jpg" alt="">
 				</div>
 			</div>

@@ -5228,9 +5228,12 @@ header.header {
 .categoryRow#venice img {
   max-height: 320px; }
 
-.categoryRow#venice .featureImg {
+.categoryRow#venice .imgGroup {
   margin-bottom: 12px;
   background: #fff; }
+  .categoryRow#venice .imgGroup img.secondary {
+    display: none;
+    visibility: hidden; }
 
 .categoryRow#venice .cornerDetail h4 {
   padding: 0; }
@@ -5245,7 +5248,7 @@ header.header {
     visibility: visible; } }
 
 @media print, screen and (min-width: 40em) {
-  .categoryRow#venice .featureImg {
+  .categoryRow#venice .imgGroup {
     margin: 0 20px 0 0;
     display: inline-block; }
   .categoryRow#venice .prose {
@@ -5266,6 +5269,11 @@ header.header {
     position: absolute;
     bottom: 8px;
     right: 6px; } }
+
+@media screen and (min-width: 56.875em) {
+  .categoryRow#venice .imgGroup img.secondary {
+    display: inline-block;
+    visibility: visible; } }
 
 .index#index .biographyMonologue {
   background: linear-gradient(rgba(88, 106, 113, 0.65), rgba(88, 106, 113, 0.65)), url("/img/nicolas-watine-atelier.jpg") left/cover no-repeat; }
