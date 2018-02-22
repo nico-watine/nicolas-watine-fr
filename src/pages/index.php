@@ -29,23 +29,23 @@ body-class: index
 	<div class="row">
 		<div class="columns">
 			<div class="categoryRow" id="venice" style="position: relative;">
-				<img style="max-height: 320px; margin-right: 20px;" src="/img/paintings/venice/canvas/venice-canvas-3.jpg" alt="">
-				<div class="prose" style="position: absolute; text-align: center; width: 100%; top: 0; padding: 0 545px 0 400px;">
-					<h2 class="serif text-center" style="display: inline-block;"><a href="">Venice</a></h2>
-					<img src="/img/assets/spacer.png" style="height: 320px; width: 0;" alt="">
+				<img class="primary" style="max-height: 320px;" src="/img/paintings/venice/canvas/venice-canvas-3.jpg" alt="">
+				<div class="prose">
+					<h2 class="serif text-center"><a href="">Venice</a></h2>
+					<img class="show-for-large" src="/img/assets/spacer.png" style="height: 320px; width: 0;" alt="">
 				</div>
 				<div class="cornerDetail">
 					<h4 class="caps margin-0" style="padding-right: 545px;"><strong>Gallery</strong></h4>
 					<span class="serif white" style="padding-right: 545px;"></span>
 				</div>
-				<div class="images" style="position: absolute; right: 0; top: 0;">
+				<div class="images show-for-large" style="position: absolute; right: 0; top: 0;">
 					<img style="max-height: 320px; margin-right: 20px;" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt="">
 					<img style="max-height: 320px;" src="/img/paintings/venice/canvas/venice-canvas-7.jpg" alt="">
 				</div>
 			</div>
 		</div>
 	</div>
-	<div class="row">
+<!-- 	<div class="row">
 		<div class="large-11 columns large-push-1">
 			<div class="categoryRow" id="stillLife" style="position: relative; height: 300px;">
 				<div class="images" style="height: 100%;">
@@ -79,7 +79,7 @@ body-class: index
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 </section>
 <section class="drawings">
 	<div class="sectionContent row flex">

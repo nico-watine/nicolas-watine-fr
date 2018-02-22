@@ -5224,6 +5224,20 @@ header.header {
     .categoryRow#seascapes .prose h2 {
       font-size: 4.25rem; } }
 
+.categoryRow#venice img.primary {
+  margin-bottom: 12px; }
+
+@media print, screen and (min-width: 40em) {
+  .categoryRow#venice img.primary {
+    margin: 0 20px 12px 0; }
+  .categoryRow#venice .prose {
+    position: absolute;
+    padding: 0 545px 0 400px;
+    width: 100%;
+    top: 0; }
+    .categoryRow#venice .prose h2 {
+      display: inline-block; } }
+
 .index#index .biographyMonologue {
   background: linear-gradient(rgba(88, 106, 113, 0.65), rgba(88, 106, 113, 0.65)), url("/img/nicolas-watine-atelier.jpg") left/cover no-repeat; }
   .index#index .biographyMonologue .prose {
