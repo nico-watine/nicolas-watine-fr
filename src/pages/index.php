@@ -28,7 +28,7 @@ body-class: index
 	</div>
 	<div class="row">
 		<div class="columns">
-			<div class="categoryRow" id="venice" style="position: relative;">
+			<div class="categoryRow" id="venice">
 				<div class="featureImg text-center">
 					<img src="/img/paintings/venice/canvas/venice-canvas-3.jpg" alt="">
 				</div>
