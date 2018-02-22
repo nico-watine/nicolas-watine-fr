@@ -5393,6 +5393,16 @@ header.header {
   .categoryRow#venice .imgGroup-1 {
     margin-right: 110px; } }
 
+.categoryRow#stillLife .cornerDetail span {
+  display: none;
+  visibility: hidden;
+  right: 6px; }
+
+@media screen and (min-width: 34.375em) {
+  .categoryRow#stillLife .cornerDetail span {
+    display: block;
+    visibility: visible; } }
+
 .index#index .biographyMonologue {
   background: linear-gradient(rgba(88, 106, 113, 0.65), rgba(88, 106, 113, 0.65)), url("/img/nicolas-watine-atelier.jpg") left/cover no-repeat; }
   .index#index .biographyMonologue .prose {

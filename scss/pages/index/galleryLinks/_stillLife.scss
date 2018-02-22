@@ -1,5 +1,20 @@
 @import "../../../_settings.scss";
 
 .categoryRow#stillLife {
-	
+	.cornerDetail {
+		span {
+			display: none;
+			visibility: hidden;
+			right: 6px;
+		}
+	}
+
+	@include breakpoint(550) {
+		.cornerDetail {
+			span {
+				display: block;
+				visibility: visible;
+			}
+		}
+	}
 }
