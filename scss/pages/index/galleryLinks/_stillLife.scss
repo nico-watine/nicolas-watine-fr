@@ -1,6 +1,11 @@
 @import "../../../_settings.scss";
 
 .categoryRow#stillLife {
+	.imgGroup-1 {
+		margin-bottom: 12px;
+		background: #fff;
+	}
+
 	.cornerDetail {
 		span {
 			display: none;
