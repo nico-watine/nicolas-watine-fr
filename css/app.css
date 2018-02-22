@@ -5233,6 +5233,9 @@ header.header {
 .categoryRow#venice .cornerDetail h4 {
   padding: 0; }
 
+.categoryRow#venice .cornerDetail span {
+  padding-right: 545px; }
+
 @media print, screen and (min-width: 40em) {
   .categoryRow#venice .featureImg {
     margin: 0 20px 12px 0; }

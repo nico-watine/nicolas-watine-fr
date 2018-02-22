@@ -38,7 +38,7 @@ body-class: index
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
-					<span class="serif white" style="padding-right: 545px;"></span>
+					<span class="serif white"></span>
 				</div>
 				<div class="images show-for-large" style="position: absolute; right: 0; top: 0;">
 					<img style="max-height: 320px; margin-right: 20px;" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt="">
