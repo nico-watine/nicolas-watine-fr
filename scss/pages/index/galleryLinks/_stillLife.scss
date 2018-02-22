@@ -31,5 +31,13 @@
 		.prose {
 			display: inline-block;
 		}
+
+		.cornerDetail {
+			h4 {
+				position: absolute;
+				right: 24px;
+				bottom: 12px;
+			}
+		}
 	}
 }

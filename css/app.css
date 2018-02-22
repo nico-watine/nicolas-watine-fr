@@ -5411,7 +5411,11 @@ header.header {
   .categoryRow#stillLife .imgGroup-1 {
     display: inline-block; }
   .categoryRow#stillLife .prose {
-    display: inline-block; } }
+    display: inline-block; }
+  .categoryRow#stillLife .cornerDetail h4 {
+    position: absolute;
+    right: 24px;
+    bottom: 12px; } }
 
 .index#index .biographyMonologue {
   background: linear-gradient(rgba(88, 106, 113, 0.65), rgba(88, 106, 113, 0.65)), url("/img/nicolas-watine-atelier.jpg") left/cover no-repeat; }
