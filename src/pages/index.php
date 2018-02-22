@@ -48,7 +48,7 @@ body-class: index
 			</div>
 		</div>
 	</div>
-<!-- 	<div class="row">
+	<div class="row">
 		<div class="large-11 columns large-push-1">
 			<div class="categoryRow" id="stillLife" style="position: relative; height: 300px;">
 				<div class="images" style="height: 100%;">
@@ -65,7 +65,7 @@ body-class: index
 			</div>
 		</div>
 	</div>
-	<div class="row">
+<!-- 	<div class="row">
 		<div class="large-11 columns end">
 			<div class="categoryRow" id="landscapes" style="position: relative; height: 320px;">
 				<div class="prose" style="text-align: right; display: inline-block; width: 100%; padding-right: 700px;">
