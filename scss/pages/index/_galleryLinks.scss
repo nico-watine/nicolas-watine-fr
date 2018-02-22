@@ -226,5 +226,20 @@
 		.imgGroup {
 			margin-right: 60px;
 		}
+
+		.cornerDetail {
+			h4,
+			span {
+				right: initial;
+			}
+
+			h4 {
+				left: 424px;
+			}
+
+			span {
+				left: 406px;
+			}
+		}
 	}
 }
