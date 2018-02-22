@@ -1,0 +1,17 @@
+@import "../../_settings.scss";
+
+.index#index {
+	.exhibitionList {
+		background: linear-gradient(
+		rgba(82,94,99,.80),
+		rgba(82,94,99,.80)
+		), url("/img/featured-exhibitions/featuredExhibitions-background.png") top/cover no-repeat;
+
+		.listing {
+			.lead {
+				margin: 0;
+				font-weight: bold;
+			}
+		}
+	}
+}
