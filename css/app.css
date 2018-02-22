@@ -5409,13 +5409,19 @@ header.header {
 
 @media screen and (min-width: 37.5em) {
   .categoryRow#stillLife .imgGroup-1 {
-    display: inline-block; }
+    display: inline-block;
+    margin: 0 20px 0 0; }
   .categoryRow#stillLife .prose {
     display: inline-block; }
   .categoryRow#stillLife .cornerDetail h4 {
     position: absolute;
     right: 24px;
-    bottom: 12px; } }
+    bottom: 12px;
+    z-index: 10; }
+  .categoryRow#stillLife .cornerDetail span {
+    position: absolute;
+    right: 6px;
+    bottom: 8px; } }
 
 .index#index .biographyMonologue {
   background: linear-gradient(rgba(88, 106, 113, 0.65), rgba(88, 106, 113, 0.65)), url("/img/nicolas-watine-atelier.jpg") left/cover no-repeat; }

@@ -26,6 +26,7 @@
 	@include breakpoint(600) {
 		.imgGroup-1 {
 			display: inline-block;
+			margin: 0 20px 0 0;
 		}
 
 		.prose {
@@ -37,6 +38,13 @@
 				position: absolute;
 				right: 24px;
 				bottom: 12px;
+				z-index: 10;
+			}
+
+			span {
+				position: absolute;
+				right: 6px;
+				bottom: 8px;
 			}
 		}
 	}
