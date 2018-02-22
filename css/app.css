@@ -5196,27 +5196,28 @@ header.header {
         bottom: 12px;
         z-index: 10; } }
   .index#index .galleryLinks .cornerDetail span {
-    display: none;
-    visibility: hidden;
     line-height: 0;
     color: #fff;
     position: absolute;
     bottom: 8px;
     right: 6px; }
-    @media screen and (min-width: 37.5em) {
-      .index#index .galleryLinks .cornerDetail span {
-        display: block;
-        visibility: visible; } }
     .index#index .galleryLinks .cornerDetail span:after {
       content: "nW";
       font-size: 140px; }
+
+.categoryRow#seascapes .cornerDetail span {
+  display: none;
+  visibility: hidden; }
 
 @media screen and (min-width: 37.5em) {
   .categoryRow#seascapes .images,
   .categoryRow#seascapes .prose {
     display: inline-block; }
   .categoryRow#seascapes .prose {
-    padding-left: 1.25rem; } }
+    padding-left: 1.25rem; }
+  .categoryRow#seascapes .cornerDetail span {
+    display: block;
+    visibility: visible; } }
 
 .categoryRow#seascapes .prose h2 {
   font-size: 3rem; }
@@ -5224,11 +5225,12 @@ header.header {
     .categoryRow#seascapes .prose h2 {
       font-size: 4.25rem; } }
 
+.categoryRow#venice img {
+  max-height: 320px; }
+
 .categoryRow#venice .featureImg {
   margin-bottom: 12px;
   background: #fff; }
-  .categoryRow#venice .featureImg img {
-    max-height: 320px; }
 
 .categoryRow#venice .cornerDetail h4 {
   padding: 0; }

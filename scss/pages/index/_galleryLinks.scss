@@ -49,14 +49,6 @@
 			}
 
 			span {
-				display: none;
-				visibility: hidden;
-
-				@include breakpoint(600) {
-					display: block;
-					visibility: visible;
-				}
-
 				line-height: 0;
 				color: #fff;
 				position: absolute;
@@ -73,6 +65,13 @@
 }
 
 .categoryRow#seascapes {
+	.cornerDetail {
+		span {
+			display: none;
+			visibility: hidden;
+		}
+	}
+	
 	@include breakpoint(600) {
 		.images,
 		.prose {
@@ -81,6 +80,13 @@
 
 		.prose {
 			padding-left: rem-calc(20);
+		}
+
+		.cornerDetail {
+			span {
+				display: block;
+				visibility: visible;
+			}
 		}
 	}
 
@@ -96,13 +102,13 @@
 }
 
 .categoryRow#venice {
+	img {
+		max-height: 320px;
+	}
+
 	.featureImg {
 		margin-bottom: 12px;
 		background: #fff;
-
-		img {
-			max-height: 320px;
-		}
 	}
 
 	.cornerDetail {
