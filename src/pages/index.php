@@ -51,11 +51,11 @@ body-class: index
 	<div class="row">
 		<div class="large-11 columns large-push-1">
 			<div class="categoryRow" id="stillLife">
-				<div class="imgGroup-1" style="text-align: center;">
+				<div class="imgGroup-1 text-center">
 					<img src="/img/paintings/still-life/still-life-21.jpg" style="max-height: 320px;" alt="">
 					<!-- <img src="/img/paintings/still-life/still-life-4.jpg" style="margin-right: 20px; max-height: 300px;" alt=""> -->
 				</div>
-				<div class="prose inline-block" style="width: 100%;">
+				<div class="prose">
 					<h2 class="serif text-center"><a href="">Still Life</a></h2>
 				</div>
 				<div class="cornerDetail text-center">

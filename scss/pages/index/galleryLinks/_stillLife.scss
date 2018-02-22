@@ -22,4 +22,14 @@
 			}
 		}
 	}
+
+	@include breakpoint(600) {
+		.imgGroup-1 {
+			display: inline-block;
+		}
+
+		.prose {
+			display: inline-block;
+		}
+	}
 }
