@@ -42,7 +42,6 @@ body-class: index
 					<span class="serif white"></span>
 				</div>
 				<div class="image show-for-large" style="position: absolute; right: 0; top: 0;">
-					<!-- <img style="margin-right: 20px;" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt=""> -->
 					<img class="show-for-xlarge" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt="">
 					<img src="/img/paintings/venice/canvas/venice-canvas-7.jpg" alt="">
 				</div>
