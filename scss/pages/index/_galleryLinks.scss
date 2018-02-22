@@ -98,6 +98,7 @@
 .categoryRow#venice {
 	img.primary {
 		margin-bottom: 12px;
+		max-height: 320px;
 	}
 
 	@include breakpoint(medium) {

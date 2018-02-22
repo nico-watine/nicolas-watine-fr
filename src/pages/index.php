@@ -29,7 +29,7 @@ body-class: index
 	<div class="row">
 		<div class="columns">
 			<div class="categoryRow" id="venice" style="position: relative;">
-				<img class="primary" style="max-height: 320px;" src="/img/paintings/venice/canvas/venice-canvas-3.jpg" alt="">
+				<img class="primary" src="/img/paintings/venice/canvas/venice-canvas-3.jpg" alt="">
 				<div class="prose">
 					<h2 class="serif text-center"><a href="">Venice</a></h2>
 					<img class="show-for-large" src="/img/assets/spacer.png" style="height: 320px; width: 0;" alt="">

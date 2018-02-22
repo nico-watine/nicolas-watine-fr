@@ -5225,7 +5225,8 @@ header.header {
       font-size: 4.25rem; } }
 
 .categoryRow#venice img.primary {
-  margin-bottom: 12px; }
+  margin-bottom: 12px;
+  max-height: 320px; }
 
 @media print, screen and (min-width: 40em) {
   .categoryRow#venice img.primary {
