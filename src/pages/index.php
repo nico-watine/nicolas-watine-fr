@@ -34,7 +34,7 @@ body-class: index
 				</div>
 				<div class="prose">
 					<h2 class="serif text-center"><a href="">Venice</a></h2>
-					<img class="show-for-large" src="/img/assets/spacer.png" style="height: 320px; width: 0;" alt="">
+					<img class="show-for-medium" src="/img/assets/spacer.png" alt="">
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
