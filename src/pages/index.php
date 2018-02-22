@@ -130,3 +130,171 @@ body-class: index
 	</div>
 </section>
 <br>
+<br>
+<section class="featuredExhibitions">
+	<h2 class="serif text-center">Featured Exhibitions</h2>
+	<div class="exhibitionList white" style="padding: 50px 0;">
+		<div class="france" style="margin-bottom: 50px;">
+			<h3 style="margin-bottom: 16px;" class="caps text-center"><strong>In France</strong></h3>
+			<div class="row small-up-2 medium-up-3 large-up-4">
+				<div class="column column-block listing">
+					<p class="lead">Gallery Motte</p>
+					<p>Lille</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Gallery Vendôme, rue de la Paix</p>
+					<p>Paris</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Galerie l’Ermitage</p>
+					<p>Le Touquet</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Gallery Renaudot</p>
+					<p>Semur en Auxois</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Le Prieuré d’Airaines</p>
+					<p>Somme</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Gallery Amyot, Saint-Louis en l’Ile</p>
+					<p>Paris</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Gallery Dufour</p>
+					<p>Amiens</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Gallery Auriel</p>
+					<p>Toulouse</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Centre Culturel de la Somme</p>
+					<p>Somme</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Gallery 26, Place des Vosges</p>
+					<p>Paris</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Hôtel de la Cloche</p>
+					<p>Dijon</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Gallery Art et Comparaison</p>
+					<p>Nantes</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Gallery Alain Daune, avenue Matignon</p>
+					<p>Paris</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Gallery Erath</p>
+					<p>Le Touquet</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Eglise de Fieffes</p>
+					<p>Somme</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Gallery du Pharos</p>
+					<p>Marseille</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Centre Culturel de la Somme</p>
+					<p>Somme</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Gallery World Fine Art</p>
+					<p>Cannes</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Hôtel Gantois</p>
+					<p>Lille</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Espace Prisme</p>
+					<p>Lille</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Gallery 31</p>
+					<p>Lille</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Gallery la Pléiade</p>
+					<p>Grenoble</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Gallery des Molières</p>
+					<p>Miramas (13)</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Manor of Sarton</p>
+					<p>Pas de Calais</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Gallery Neel</p>
+					<p>Paris &amp; Cannes</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Hôtel Carlton - La Croisette</p>
+					<p>Cannes</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Salon d’Automne</p>
+					<p>1er prix des Amis du Salon d’Automne</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Salon des Artistes Français</p>
+					<p>Médaille d’Argent</p>
+				</div>
+			</div>
+		</div>
+		<div class="international">
+			<h3 style="margin-bottom: 16px;" class="caps text-center"><strong>Internationally</strong></h3>
+			<div class="row small-up-2 medium-up-3 large-up-4">
+				<div class="column column-block listing">
+					<p class="lead">Gallery Marc Richard</p>
+					<p>Zurich (Suisse)</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Parlement Européen</p>
+					<p>Bruxelles (Belgique)</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Opéra Gallery</p>
+					<p>Singapour</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Art Yomiuri</p>
+					<p>Tokyo</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Gallery Tempéra</p>
+					<p>Bruxelles (Belgique)</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Gallery Chérif Fine Art</p>
+					<p>Sidi Bous Saïd (Tunisie)</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Nolan-Rankin Galleries</p>
+					<p>Houston (USA)</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Galerie d’Haudrecy</p>
+					<p>Knokke le Zoute (Belgique)</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Philips Galleries</p>
+					<p>Dallas (USA)</p>
+				</div>
+				<div class="column column-block listing">
+					<p class="lead">Newman &amp; Saunders Galleries</p>
+					<p>Philadelphie (USA)</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
