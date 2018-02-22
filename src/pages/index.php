@@ -41,7 +41,7 @@ body-class: index
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
 					<span class="serif white"></span>
 				</div>
-				<div class="imgGroup-2 absolute show-for-large" style="right: 0; top: 0;">
+				<div class="imgGroup-2 absolute show-for-large">
 					<img class="show-for-xlarge" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt="">
 					<img src="/img/paintings/venice/canvas/venice-canvas-7.jpg" alt="">
 				</div>
