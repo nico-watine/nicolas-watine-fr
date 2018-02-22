@@ -5224,12 +5224,14 @@ header.header {
     .categoryRow#seascapes .prose h2 {
       font-size: 4.25rem; } }
 
-.categoryRow#venice img.primary {
+.categoryRow#venice .featureImg {
   margin-bottom: 12px;
-  max-height: 320px; }
+  background: #fff; }
+  .categoryRow#venice .featureImg img {
+    max-height: 320px; }
 
 @media print, screen and (min-width: 40em) {
-  .categoryRow#venice img.primary {
+  .categoryRow#venice .featureImg {
     margin: 0 20px 12px 0; }
   .categoryRow#venice .prose {
     position: absolute;

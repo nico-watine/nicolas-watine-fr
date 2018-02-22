@@ -96,13 +96,17 @@
 }
 
 .categoryRow#venice {
-	img.primary {
+	.featureImg {
 		margin-bottom: 12px;
-		max-height: 320px;
+		background: #fff;
+
+		img {
+			max-height: 320px;
+		}
 	}
 
 	@include breakpoint(medium) {
-		img.primary {
+		.featureImg {
 			margin: 0 20px 12px 0;
 		}
 
