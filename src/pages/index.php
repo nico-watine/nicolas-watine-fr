@@ -29,7 +29,7 @@ body-class: index
 	<div class="row">
 		<div class="columns">
 			<div class="categoryRow" id="venice">
-				<div class="imgGroup text-center">
+				<div class="imgGroup-1 text-center">
 					<img class="primary" src="/img/paintings/venice/canvas/venice-canvas-3.jpg" alt="">
 					<img class="secondary" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt="">
 				</div>
@@ -41,22 +41,21 @@ body-class: index
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
 					<span class="serif white"></span>
 				</div>
-				<div class="image show-for-large" style="position: absolute; right: 0; top: 0;">
-					<!-- <img style="margin-right: 20px;" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt=""> -->
+				<div class="imgGroup-2 absolute show-for-large">
 					<img class="show-for-xlarge" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt="">
 					<img src="/img/paintings/venice/canvas/venice-canvas-7.jpg" alt="">
 				</div>
 			</div>
 		</div>
 	</div>
-<!-- 	<div class="row">
-		<div class="large-11 columns large-push-1">
-			<div class="categoryRow" id="stillLife" style="position: relative; height: 300px;">
-				<div class="images" style="height: 100%;">
-					<img src="/img/paintings/still-life/still-life-21.jpg" style="margin-right: 20px; height: 100%;" alt="">
-					<img src="/img/paintings/still-life/still-life-4.jpg" style="margin-right: 20px; height: 100%;" alt="">
+	<div class="row">
+		<div class="xlarge-11 columns xlarge-push-1">
+			<div class="categoryRow" id="stillLife">
+				<div class="imgGroup-1 text-center">
+					<img class="primary" src="/img/paintings/still-life/still-life-21.jpg" alt="">
+					<img class="secondary" src="/img/paintings/still-life/still-life-4.jpg" alt="">
 				</div>
-				<div class="prose inline-block">
+				<div class="prose">
 					<h2 class="serif text-center"><a href="">Still Life</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
@@ -67,23 +66,22 @@ body-class: index
 		</div>
 	</div>
 	<div class="row">
-		<div class="large-11 columns end">
-			<div class="categoryRow" id="landscapes" style="position: relative; height: 320px;">
-				<div class="prose" style="text-align: right; display: inline-block; width: 100%; padding-right: 700px;">
-					<h2 class="serif" style="display: inline-block;"><a href="">Landscapes</a></h2>
-					<img src="/img/assets/spacer.png" style="height: 320px; width: 0;" alt="">
+		<div class="xlarge-11 columns end">
+			<div class="categoryRow" id="landscapes">
+				<div class="imgGroup-1">
+					<img class="primary" src="/img/paintings/landscapes/landscapes-4.jpg" alt="">
+					<img class="secondary" src="/img/paintings/landscapes/landscapes-1.jpg" alt="">
 				</div>
-				<div class="images" style="height: 100%; position: absolute; right: 0; top: 0;">
-					<img src="/img/paintings/landscapes/landscapes-4.jpg" style="margin-right: 20px; height: 100%;" alt="">
-					<img src="/img/paintings/landscapes/landscapes-1.jpg" style="height: 100%;" alt="">
+				<div class="prose" style="text-align: center;">
+					<h2 class="serif"><a href="">Landscapes</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
-					<h4 class="caps margin-0" style="left: 24px; right: initial;"><strong>Gallery</strong></h4>
-					<span class="serif white" style="left: 6px; right: initial;"></span>
+					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
+					<span class="serif white"></span>
 				</div>
 			</div>
 		</div>
-	</div> -->
+	</div>
 </section>
 <section class="drawings">
 	<div class="sectionContent row flex">

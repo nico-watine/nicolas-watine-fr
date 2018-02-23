@@ -1,0 +1,88 @@
+@import "../../../_settings.scss";
+
+.categoryRow#landscapes {
+	.imgGroup-1 {
+		margin-bottom: 12px;
+		text-align: center;
+		background: #fff;
+
+		img {
+			max-height: 320px;
+		}
+
+		img.secondary {
+			display: none;
+			visibility: hidden;
+		}
+	}
+
+	.cornerDetail {
+		span {
+			display: none;
+			visibility: hidden;
+			right: 6px;
+		}
+	}
+
+	@include breakpoint(600) {
+		.cornerDetail {
+			span {
+				display: block;
+				visibility: visible;
+			}
+		}
+	}
+
+	@include breakpoint(680) {
+		.imgGroup-1 {
+			margin: 0 20px 0 0;
+		}
+
+		.imgGroup-1,
+		.prose {
+			display: inline-block;
+		}
+
+		.cornerDetail {
+			position: absolute;
+			right: 6px;
+			bottom: 6px;
+
+			h4 {
+				position: absolute;
+				bottom: 0;
+				right: 20px;
+				left: initial;
+				z-index: 10;
+			}
+
+			span {
+				left: initial;
+				right: 12px;
+			}
+		}
+	}
+
+	@include breakpoint(800) {
+		.imgGroup-1 {
+			margin-right: 80px;
+		}
+	}
+
+	@include breakpoint(1020) {
+		.imgGroup-1 {
+			margin-right: 20px;
+
+			img.secondary {
+				display: inline-block;
+				visibility: visible;
+			}
+		}
+	}
+
+	@include breakpoint(xlarge) {
+		.imgGroup-1 {
+			margin-right: 120px;
+		}
+	}
+}
