@@ -76,10 +76,6 @@ body-class: index
 					<h2 class="serif"><a href="">Landscapes</a></h2>
 					<img src="/img/assets/spacer.png" style="display: none; visibility: hidden; height: 320px; width: 0;" alt="">
 				</div>
-				<div class="images">
-					<!-- <img src="/img/paintings/landscapes/landscapes-4.jpg" style="height: 320px;" alt=""> --> <!-- margin-right: 20px; -->
-					<!-- <img src="/img/paintings/landscapes/landscapes-1.jpg" style="display: none; visibility: hidden; height: 100%;" alt=""> -->
-				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
 					<span class="serif white"></span>
