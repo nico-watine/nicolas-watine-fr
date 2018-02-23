@@ -74,7 +74,6 @@ body-class: index
 				</div>
 				<div class="prose" style="text-align: center;">
 					<h2 class="serif"><a href="">Landscapes</a></h2>
-					<img src="/img/assets/spacer.png" style="display: none; visibility: hidden; height: 320px; width: 0;" alt="">
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
