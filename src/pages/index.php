@@ -112,8 +112,8 @@ body-class: index
 		<div class="aspectRatio">
 			<div class="proseWrap">
 				<div class="prose padding-XY">
-					<h2 class="serif text-center white line-height-1 margin-0">Sarton Manor &amp; Gardens</h2>
-					<a href="" class="h4 white caps">Visit</a>
+					<h2 class="serif text-center white line-height-1 margin-0">Jardin et Manoir de Sarton</h2>
+					<a href="" class="h4 white caps">Visite</a>
 				</div>
 				<img class="show-for-medium spacer" src="/img/assets/spacer.png">
 			</div>
