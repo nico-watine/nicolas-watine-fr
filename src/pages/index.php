@@ -97,10 +97,10 @@ body-class: index
 		<div class="columns">
 			<div class="prose white">
 				<br><br>
-				<p><span class="h3 serif" style="line-height: 1.2;">For many years, I painted objects I could touch, objects close to me.</span> With them I created very architectural compositions. Still lives I was trying to animate with inert objects, daily objects assembled within their affinity and placed motionless on an horizontal setting, static, timeless, final.</p>
-				<p>Then, to get out of this immutable world, I opened my windows. The marvels of the Venetian palaces dazzled me. With my first canvases, I copied facades the way one would copy a common apple. Later, leaving the creativity of the Venetian architects, I composed my own facades using various existing elements but assembled differently to create imaginary palaces.</p>
-				<p>Since 2009, I have left both still lives and Venice. Off to the open sea. From a static world I left for a lively and dynamic one. The glasses of water from my still lives broke, the water from my carafes spread around and from my Venetian canals I went towards the sea. After the confined world of my still lives, immensity lays in front of me : the sea.</p>
-				<p class="lead">The sea is waves, transparencies, air flow, sea foam, boats. But it’s also sand beaches with sand yachting, horse riders, strollers, wooden or fabric cabins hustled by the wind...</p>
+				<p><span class="h3 serif" style="line-height: 1.2;">Pendant de nombreuses années, j’ai peint des objets que je pouvais toucher, des objets proches de moi,</span> à portée de main, pour en faire des compositions très architecturées. Des natures mortes que j’essayais de faire vivre avec des objets inanimés, objets de tous les jours assemblés entre eux selon leurs affinité et placés immobiles sur un entablement horizontal, statique, intemporel, définitif.</p>
+				<p>Ensuite, pour sortir de cet univers immuable, j’ai ouvert mes fenêtres. Les merveilles des palais vénitiens m’ont ébloui. Dans mes premières toiles, j’ai copié des façades comme on copie une pomme. Puis, abandonnant la création des architectes vénitiens, j’ai recomposé des façades en me servant d’éléments existants mais assemblés différemment pour faire des palais inconnus.</p>
+				<p>Depuis 2009, j’ai quitté natures mortes et Venise. J’ai pris le large. Du statique, je partais vers la dynamique. Les verres d’eau de mes natures mortes se sont brisés, l’eau de mes carafes s’est répandue et de mes canaux vénitiens je suis parti vers la mer. Après l’univers confiné de mes natures mortes, j’ai maintenant devant moi l’immensité, la mer.</p>
+				<p class="lead">La mer c’est des vagues, des transparences, de l’air, des écumes, des bateaux. C’est aussi des plages de sable avec des chars à voile, des cavaliers , des promeneurs, des cabines de bois ou de toile que le vent bouscule...</p>
 				<br><br>
 			</div>
 		</div>
