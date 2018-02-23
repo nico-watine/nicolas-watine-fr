@@ -68,8 +68,8 @@ body-class: index
 	<div class="row">
 		<div class="large-11 columns end">
 			<div class="categoryRow" id="landscapes">
-				<div class="imgGroup-1">
-					<img src="/img/paintings/landscapes/landscapes-4.jpg" style="height: 320px;" alt="">
+				<div class="imgGroup-1" style="margin-bottom: 12px; text-align: center; background: #fff;">
+					<img src="/img/paintings/landscapes/landscapes-4.jpg" style="max-height: 320px;" alt="">
 				</div>
 				<div class="prose" style="text-align: center; width: 100%;">
 					<h2 class="serif"><a href="">Landscapes</a></h2>
@@ -81,7 +81,7 @@ body-class: index
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0" style="left: 24px; right: initial;"><strong>Gallery</strong></h4>
-					<span class="serif white" style="left: 6px; right: initial;"></span>
+					<span class="serif white" style="left: 6px; right: initial; display: none; visibility: hidden;"></span>
 				</div>
 			</div>
 		</div>
