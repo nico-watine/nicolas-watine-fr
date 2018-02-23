@@ -17,7 +17,7 @@ body-class: index
 					<img class="show-for-large" src="/img/paintings/seascapes/seascapes-45.jpg" style="height: 300px; margin-left: 20px;" alt="">
 				</div>
 				<div class="prose">
-					<h2 class="serif text-center"><a href="">Marines</a></h2>
+					<h2 class="serif text-center"><a href="#0">Marines</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
@@ -34,7 +34,7 @@ body-class: index
 					<img class="secondary" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt="">
 				</div>
 				<div class="prose">
-					<h2 class="serif text-center"><a href="">Venises</a></h2>
+					<h2 class="serif text-center"><a href="#0">Venises</a></h2>
 					<img class="show-for-medium" src="/img/assets/spacer.png" alt="">
 				</div>
 				<div class="cornerDetail text-center">
@@ -56,7 +56,7 @@ body-class: index
 					<img class="secondary" src="/img/paintings/still-life/still-life-4.jpg" alt="">
 				</div>
 				<div class="prose">
-					<h2 class="serif text-center"><a href="">Natures Mortes</a></h2>
+					<h2 class="serif text-center"><a href="#0">Natures Mortes</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
@@ -73,7 +73,7 @@ body-class: index
 					<img class="secondary" src="/img/paintings/landscapes/landscapes-1.jpg" alt="">
 				</div>
 				<div class="prose" style="text-align: center;">
-					<h2 class="serif"><a href="">Paysages</a></h2>
+					<h2 class="serif"><a href="#0">Paysages</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
@@ -87,7 +87,7 @@ body-class: index
 	<div class="sectionContent row flex">
 		<div class="columns text-center completeCenter">
 			<h2 class="white serif margin-0 line-height-1">Galerie des Dessins</h2>
-			<a href="" class="h4 white caps">Voir</a>
+			<a href="#0" class="h4 white caps">Voir</a>
 		</div>
 	</div>
 </section>
@@ -113,7 +113,7 @@ body-class: index
 			<div class="proseWrap">
 				<div class="prose padding-XY">
 					<h2 class="serif text-center white line-height-1 margin-0">Jardin et Manoir de Sarton</h2>
-					<a href="" class="h4 white caps">Visite</a>
+					<a href="#0" class="h4 white caps">Visite</a>
 				</div>
 				<img class="show-for-medium spacer" src="/img/assets/spacer.png">
 			</div>
