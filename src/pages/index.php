@@ -134,10 +134,10 @@ body-class: index
 <br>
 <br>
 <section class="featuredExhibitions" id="featuredExhibitions" data-magellan-target="featuredExhibitions">
-	<h2 class="serif text-center">Featured Exhibitions</h2>
+	<h2 class="serif text-center">Principales Expositions</h2>
 	<div class="exhibitionList white" style="padding: 50px 0;">
 		<div class="france" style="margin-bottom: 50px;">
-			<h3 style="margin-bottom: 16px;" class="caps text-center"><strong>In France</strong></h3>
+			<h3 style="margin-bottom: 16px;" class="caps text-center"><strong>En France</strong></h3>
 			<div class="row small-up-2 medium-up-3 large-up-4">
 				<div class="column column-block listing">
 					<p class="lead">Gallery Motte</p>
@@ -254,7 +254,7 @@ body-class: index
 			</div>
 		</div>
 		<div class="international">
-			<h3 style="margin-bottom: 16px;" class="caps text-center"><strong>Internationally</strong></h3>
+			<h3 style="margin-bottom: 16px;" class="caps text-center"><strong>A L’étranger</strong></h3>
 			<div class="row small-up-2 medium-up-3 large-up-4">
 				<div class="column column-block listing">
 					<p class="lead">Gallery Marc Richard</p>
