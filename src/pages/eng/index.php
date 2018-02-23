@@ -18,7 +18,7 @@ layout: eng-default
 					<img class="show-for-large" src="/img/paintings/seascapes/seascapes-45.jpg" style="height: 300px; margin-left: 20px;" alt="">
 				</div>
 				<div class="prose">
-					<h2 class="serif text-center"><a href="">Seascapes</a></h2>
+					<h2 class="serif text-center"><a href="#0">Seascapes</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
@@ -35,7 +35,7 @@ layout: eng-default
 					<img class="secondary" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt="">
 				</div>
 				<div class="prose">
-					<h2 class="serif text-center"><a href="">Venice</a></h2>
+					<h2 class="serif text-center"><a href="#0">Venice</a></h2>
 					<img class="show-for-medium" src="/img/assets/spacer.png" alt="">
 				</div>
 				<div class="cornerDetail text-center">
@@ -57,7 +57,7 @@ layout: eng-default
 					<img class="secondary" src="/img/paintings/still-life/still-life-4.jpg" alt="">
 				</div>
 				<div class="prose">
-					<h2 class="serif text-center"><a href="">Still Life</a></h2>
+					<h2 class="serif text-center"><a href="#0">Still Life</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
@@ -74,7 +74,7 @@ layout: eng-default
 					<img class="secondary" src="/img/paintings/landscapes/landscapes-1.jpg" alt="">
 				</div>
 				<div class="prose" style="text-align: center;">
-					<h2 class="serif"><a href="">Landscapes</a></h2>
+					<h2 class="serif"><a href="#0">Landscapes</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
@@ -88,7 +88,7 @@ layout: eng-default
 	<div class="sectionContent row flex">
 		<div class="columns text-center completeCenter">
 			<h2 class="white serif margin-0 line-height-1">Drawings &amp; Sketches</h2>
-			<a href="" class="h4 white caps">View</a>
+			<a href="#0" class="h4 white caps">View</a>
 		</div>
 	</div>
 </section>
@@ -114,7 +114,7 @@ layout: eng-default
 			<div class="proseWrap">
 				<div class="prose padding-XY">
 					<h2 class="serif text-center white line-height-1 margin-0">Sarton Manor &amp; Gardens</h2>
-					<a href="" class="h4 white caps">Visit</a>
+					<a href="#0" class="h4 white caps">Visit</a>
 				</div>
 				<img class="show-for-medium spacer" src="/img/assets/spacer.png">
 			</div>
