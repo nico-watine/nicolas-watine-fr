@@ -15,6 +15,12 @@
 		}
 	}
 
+	.prose {
+		h2 {
+			font-size: $h2-serif;
+		}
+	}
+
 	.cornerDetail {
 		span {
 			display: none;
@@ -62,11 +68,19 @@
 		}
 	}
 
-	@include breakpoint(750) {
-		.imgGroup-1 {
-			margin-right: 80px;
+	@include breakpoint(740) {
+		.prose {
+			h2 {
+				font-size: $h2-serif-medium;
+			}
 		}
 	}
+
+	// @include breakpoint(750) {
+	// 	.imgGroup-1 {
+	// 		margin-right: 80px;
+	// 	}
+	// }
 
 	@include breakpoint(800) {
 		.imgGroup-1 {
