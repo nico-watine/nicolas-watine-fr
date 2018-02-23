@@ -7,6 +7,7 @@ og-description:
 og-image:
 body-id: index
 body-class: index
+layout: eng-default
 ---
 <section class="galleryLinks" id="paintings" data-magellan-target="paintings" style="padding-top: 50px;">
 	<div class="row medium-collapse">
