@@ -9,6 +9,11 @@
 		img {
 			max-height: 320px;
 		}
+
+		img.secondary {
+			display: none;
+			visibility: hidden;
+		}
 	}
 
 	.cornerDetail {
@@ -55,6 +60,29 @@
 				left: initial;
 				right: 12px;
 			}
+		}
+	}
+
+	@include breakpoint(800) {
+		.imgGroup-1 {
+			margin-right: 80px;
+		}
+	}
+
+	@include breakpoint(1020) {
+		.imgGroup-1 {
+			margin-right: 20px;
+
+			img.secondary {
+				display: inline-block;
+				visibility: visible;
+			}
+		}
+	}
+
+	@include breakpoint(xlarge) {
+		.imgGroup-1 {
+			margin-right: 120px;
 		}
 	}
 }
