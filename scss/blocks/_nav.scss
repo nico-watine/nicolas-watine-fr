@@ -1,6 +1,12 @@
 @import "../_settings.scss";
 
+.title-bar {
+	background: #70848c;
+}
+
 .mainNav {
+	background: rgba(112,132,140,.3);
+
 	a {
 		color: $black;
 
