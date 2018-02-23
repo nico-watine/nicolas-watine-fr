@@ -67,14 +67,17 @@ body-class: index
 	</div>
 	<div class="row">
 		<div class="large-11 columns end">
-			<div class="categoryRow" id="landscapes" style="position: relative; height: 320px;">
-				<div class="prose" style="text-align: right; display: inline-block; width: 100%; padding-right: 700px;">
-					<h2 class="serif" style="display: inline-block;"><a href="">Landscapes</a></h2>
-					<img src="/img/assets/spacer.png" style="height: 320px; width: 0;" alt="">
+			<div class="categoryRow" id="landscapes">
+				<div class="imgGroup-1">
+					<img src="/img/paintings/landscapes/landscapes-4.jpg" style="height: 320px;" alt="">
 				</div>
-				<div class="images" style="height: 100%; position: absolute; right: 0; top: 0;">
-					<img src="/img/paintings/landscapes/landscapes-4.jpg" style="margin-right: 20px; height: 100%;" alt="">
-					<img src="/img/paintings/landscapes/landscapes-1.jpg" style="height: 100%;" alt="">
+				<div class="prose" style="text-align: center; width: 100%;">
+					<h2 class="serif"><a href="">Landscapes</a></h2>
+					<img src="/img/assets/spacer.png" style="display: none; visibility: hidden; height: 320px; width: 0;" alt="">
+				</div>
+				<div class="images">
+					<!-- <img src="/img/paintings/landscapes/landscapes-4.jpg" style="height: 320px;" alt=""> --> <!-- margin-right: 20px; -->
+					<img src="/img/paintings/landscapes/landscapes-1.jpg" style="display: none; visibility: hidden; height: 100%;" alt="">
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0" style="left: 24px; right: initial;"><strong>Gallery</strong></h4>
