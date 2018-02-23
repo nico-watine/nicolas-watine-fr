@@ -134,7 +134,7 @@ body-class: index
 <br>
 <br>
 <section class="featuredExhibitions" id="featuredExhibitions" data-magellan-target="featuredExhibitions">
-	<h2 class="serif text-center">Featured Exhibitions</h2>
+	<h2 class="serif text-center">Principales Expositions</h2>
 	<div class="exhibitionList white" style="padding: 50px 0;">
 		<div class="france" style="margin-bottom: 50px;">
 			<h3 style="margin-bottom: 16px;" class="caps text-center"><strong>In France</strong></h3>
