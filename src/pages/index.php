@@ -17,7 +17,7 @@ body-class: index
 					<img class="show-for-large" src="/img/paintings/seascapes/seascapes-45.jpg" style="height: 300px; margin-left: 20px;" alt="">
 				</div>
 				<div class="prose">
-					<h2 class="serif text-center"><a href="">Seascapes</a></h2>
+					<h2 class="serif text-center"><a href="">Marines</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
@@ -34,7 +34,7 @@ body-class: index
 					<img class="secondary" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt="">
 				</div>
 				<div class="prose">
-					<h2 class="serif text-center"><a href="">Venice</a></h2>
+					<h2 class="serif text-center"><a href="">Venises</a></h2>
 					<img class="show-for-medium" src="/img/assets/spacer.png" alt="">
 				</div>
 				<div class="cornerDetail text-center">
@@ -56,7 +56,7 @@ body-class: index
 					<img class="secondary" src="/img/paintings/still-life/still-life-4.jpg" alt="">
 				</div>
 				<div class="prose">
-					<h2 class="serif text-center"><a href="">Still Life</a></h2>
+					<h2 class="serif text-center"><a href="">Natures Mortes</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
@@ -73,7 +73,7 @@ body-class: index
 					<img class="secondary" src="/img/paintings/landscapes/landscapes-1.jpg" alt="">
 				</div>
 				<div class="prose" style="text-align: center;">
-					<h2 class="serif"><a href="">Landscapes</a></h2>
+					<h2 class="serif"><a href="">Paysages</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
@@ -86,8 +86,8 @@ body-class: index
 <section class="drawings" id="drawings" data-magellan-target="drawings">
 	<div class="sectionContent row flex">
 		<div class="columns text-center completeCenter">
-			<h2 class="white serif margin-0 line-height-1">Drawings &amp; Sketches</h2>
-			<a href="" class="h4 white caps">View</a>
+			<h2 class="white serif margin-0 line-height-1">Galerie des Dessins</h2>
+			<a href="" class="h4 white caps">Voir</a>
 		</div>
 	</div>
 </section>
@@ -97,10 +97,10 @@ body-class: index
 		<div class="columns">
 			<div class="prose white">
 				<br><br>
-				<p><span class="h3 serif" style="line-height: 1.2;">For many years, I painted objects I could touch, objects close to me.</span> With them I created very architectural compositions. Still lives I was trying to animate with inert objects, daily objects assembled within their affinity and placed motionless on an horizontal setting, static, timeless, final.</p>
-				<p>Then, to get out of this immutable world, I opened my windows. The marvels of the Venetian palaces dazzled me. With my first canvases, I copied facades the way one would copy a common apple. Later, leaving the creativity of the Venetian architects, I composed my own facades using various existing elements but assembled differently to create imaginary palaces.</p>
-				<p>Since 2009, I have left both still lives and Venice. Off to the open sea. From a static world I left for a lively and dynamic one. The glasses of water from my still lives broke, the water from my carafes spread around and from my Venetian canals I went towards the sea. After the confined world of my still lives, immensity lays in front of me : the sea.</p>
-				<p class="lead">The sea is waves, transparencies, air flow, sea foam, boats. But it’s also sand beaches with sand yachting, horse riders, strollers, wooden or fabric cabins hustled by the wind...</p>
+				<p><span class="h3 serif" style="line-height: 1.2;">Pendant de nombreuses années, j’ai peint des objets que je pouvais toucher, des objets proches de moi,</span> à portée de main, pour en faire des compositions très architecturées. Des natures mortes que j’essayais de faire vivre avec des objets inanimés, objets de tous les jours assemblés entre eux selon leurs affinité et placés immobiles sur un entablement horizontal, statique, intemporel, définitif.</p>
+				<p>Ensuite, pour sortir de cet univers immuable, j’ai ouvert mes fenêtres. Les merveilles des palais vénitiens m’ont ébloui. Dans mes premières toiles, j’ai copié des façades comme on copie une pomme. Puis, abandonnant la création des architectes vénitiens, j’ai recomposé des façades en me servant d’éléments existants mais assemblés différemment pour faire des palais inconnus.</p>
+				<p>Depuis 2009, j’ai quitté natures mortes et Venise. J’ai pris le large. Du statique, je partais vers la dynamique. Les verres d’eau de mes natures mortes se sont brisés, l’eau de mes carafes s’est répandue et de mes canaux vénitiens je suis parti vers la mer. Après l’univers confiné de mes natures mortes, j’ai maintenant devant moi l’immensité, la mer.</p>
+				<p class="lead">La mer c’est des vagues, des transparences, de l’air, des écumes, des bateaux. C’est aussi des plages de sable avec des chars à voile, des cavaliers , des promeneurs, des cabines de bois ou de toile que le vent bouscule...</p>
 				<br><br>
 			</div>
 		</div>
@@ -112,8 +112,8 @@ body-class: index
 		<div class="aspectRatio">
 			<div class="proseWrap">
 				<div class="prose padding-XY">
-					<h2 class="serif text-center white line-height-1 margin-0">Sarton Manor &amp; Gardens</h2>
-					<a href="" class="h4 white caps">Visit</a>
+					<h2 class="serif text-center white line-height-1 margin-0">Jardin et Manoir de Sarton</h2>
+					<a href="" class="h4 white caps">Visite</a>
 				</div>
 				<img class="show-for-medium spacer" src="/img/assets/spacer.png">
 			</div>
@@ -134,10 +134,10 @@ body-class: index
 <br>
 <br>
 <section class="featuredExhibitions" id="featuredExhibitions" data-magellan-target="featuredExhibitions">
-	<h2 class="serif text-center">Featured Exhibitions</h2>
+	<h2 class="serif text-center">Principales Expositions</h2>
 	<div class="exhibitionList white" style="padding: 50px 0;">
 		<div class="france" style="margin-bottom: 50px;">
-			<h3 style="margin-bottom: 16px;" class="caps text-center"><strong>In France</strong></h3>
+			<h3 style="margin-bottom: 16px;" class="caps text-center"><strong>En France</strong></h3>
 			<div class="row small-up-2 medium-up-3 large-up-4">
 				<div class="column column-block listing">
 					<p class="lead">Gallery Motte</p>
@@ -254,7 +254,7 @@ body-class: index
 			</div>
 		</div>
 		<div class="international">
-			<h3 style="margin-bottom: 16px;" class="caps text-center"><strong>Internationally</strong></h3>
+			<h3 style="margin-bottom: 16px;" class="caps text-center"><strong>A L’étranger</strong></h3>
 			<div class="row small-up-2 medium-up-3 large-up-4">
 				<div class="column column-block listing">
 					<p class="lead">Gallery Marc Richard</p>
