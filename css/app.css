@@ -5175,6 +5175,14 @@ header.header {
     .mainNav {
       background: none; } }
 
+@media screen and (max-width: 39.9375em) {
+  .no-js .mainNav {
+    display: none; } }
+
+@media print, screen and (min-width: 40em) {
+  .no-js .title-bar {
+    display: none; } }
+
 .index#index .galleryLinks {
   background: linear-gradient(rgba(79, 110, 122, 0.8), rgba(79, 110, 122, 0.8)), url("/img/assets/linen.jpg") center/auto repeat; }
   .index#index .galleryLinks .categoryRow {
