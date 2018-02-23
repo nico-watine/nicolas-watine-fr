@@ -17,7 +17,7 @@ body-class: index
 					<img class="show-for-large" src="/img/paintings/seascapes/seascapes-45.jpg" style="height: 300px; margin-left: 20px;" alt="">
 				</div>
 				<div class="prose">
-					<h2 class="serif text-center"><a href="">Seascapes</a></h2>
+					<h2 class="serif text-center"><a href="">Marines</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
