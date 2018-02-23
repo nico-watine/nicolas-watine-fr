@@ -8,7 +8,7 @@ og-image:
 body-id: index
 body-class: index
 ---
-<section class="galleryLinks" style="padding-top: 50px;">
+<section class="galleryLinks" id="paintings" data-magellan-target="paintings" style="padding-top: 50px;">
 	<div class="row medium-collapse">
 		<div class="medium-11 columns end">
 			<div class="categoryRow" id="seascapes">
@@ -83,7 +83,7 @@ body-class: index
 		</div>
 	</div>
 </section>
-<section class="drawings">
+<section class="drawings" id="drawings" data-magellan-target="drawings">
 	<div class="sectionContent row flex">
 		<div class="columns text-center completeCenter">
 			<h2 class="white serif margin-0 line-height-1">Drawings &amp; Sketches</h2>
@@ -107,7 +107,7 @@ body-class: index
 	</div>
 </section>
 <br>
-<section class="sarton">
+<section class="sarton" id="sarton" data-magellan-target="sarton">
 	<div class="row collapse">
 		<div class="aspectRatio">
 			<div class="proseWrap">
@@ -133,7 +133,7 @@ body-class: index
 </section>
 <br>
 <br>
-<section class="featuredExhibitions">
+<section class="featuredExhibitions" id="featuredExhibitions" data-magellan-target="featuredExhibitions">
 	<h2 class="serif text-center">Featured Exhibitions</h2>
 	<div class="exhibitionList white" style="padding: 50px 0;">
 		<div class="france" style="margin-bottom: 50px;">
