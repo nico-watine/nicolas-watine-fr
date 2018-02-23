@@ -5455,6 +5455,43 @@ header.header {
   .categoryRow#stillLife .imgGroup-1 {
     margin-right: 100px; } }
 
+.categoryRow#landscapes .imgGroup-1 {
+  margin-bottom: 12px;
+  text-align: center;
+  background: #fff; }
+  .categoryRow#landscapes .imgGroup-1 img {
+    max-height: 320px; }
+
+.categoryRow#landscapes .cornerDetail span {
+  display: none;
+  visibility: hidden;
+  right: 6px; }
+
+@media screen and (min-width: 37.5em) {
+  .categoryRow#landscapes .cornerDetail span {
+    display: block;
+    visibility: visible; } }
+
+@media screen and (min-width: 42.5em) {
+  .categoryRow#landscapes .imgGroup-1 {
+    margin: 0 20px 0 0; }
+  .categoryRow#landscapes .imgGroup-1,
+  .categoryRow#landscapes .prose {
+    display: inline-block; }
+  .categoryRow#landscapes .cornerDetail {
+    position: absolute;
+    right: 6px;
+    bottom: 6px; }
+    .categoryRow#landscapes .cornerDetail h4 {
+      position: absolute;
+      bottom: 0;
+      right: 20px;
+      left: initial;
+      z-index: 10; }
+    .categoryRow#landscapes .cornerDetail span {
+      left: initial;
+      right: 12px; } }
+
 .index#index .biographyMonologue {
   background: linear-gradient(rgba(88, 106, 113, 0.65), rgba(88, 106, 113, 0.65)), url("/img/nicolas-watine-atelier.jpg") left/cover no-repeat; }
   .index#index .biographyMonologue .prose {
