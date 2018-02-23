@@ -86,8 +86,8 @@ body-class: index
 <section class="drawings" id="drawings" data-magellan-target="drawings">
 	<div class="sectionContent row flex">
 		<div class="columns text-center completeCenter">
-			<h2 class="white serif margin-0 line-height-1">Drawings &amp; Sketches</h2>
-			<a href="" class="h4 white caps">View</a>
+			<h2 class="white serif margin-0 line-height-1">Galerie des Dessins</h2>
+			<a href="" class="h4 white caps">Voir</a>
 		</div>
 	</div>
 </section>
