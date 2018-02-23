@@ -5162,10 +5162,18 @@ header.header {
     header.header h1 a {
       color: #0a0a0a; }
 
-.mainNav a {
-  color: #0a0a0a; }
-  .mainNav a:hover {
-    text-decoration: underline; }
+.title-bar {
+  background: #70848c; }
+
+.mainNav {
+  background: rgba(112, 132, 140, 0.3); }
+  .mainNav a {
+    color: #0a0a0a; }
+    .mainNav a:hover {
+      text-decoration: underline; }
+  @media print, screen and (min-width: 40em) {
+    .mainNav {
+      background: none; } }
 
 .index#index .galleryLinks {
   background: linear-gradient(rgba(79, 110, 122, 0.8), rgba(79, 110, 122, 0.8)), url("/img/assets/linen.jpg") center/auto repeat; }
