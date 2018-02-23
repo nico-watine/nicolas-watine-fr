@@ -8,7 +8,7 @@ og-image:
 body-id: index
 body-class: index
 ---
-<section class="galleryLinks" style="padding-top: 50px;">
+<section class="galleryLinks" id="paintings" data-magellan-target="paintings" style="padding-top: 50px;">
 	<div class="row medium-collapse">
 		<div class="medium-11 columns end">
 			<div class="categoryRow" id="seascapes">
