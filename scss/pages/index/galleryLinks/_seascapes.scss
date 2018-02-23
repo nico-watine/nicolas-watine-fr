@@ -1,0 +1,187 @@
+@import "../../../_settings.scss";
+
+.categoryRow#seascapes {
+	.prose {
+		h2 {
+			font-size: $h2-serif;
+		}
+	}
+
+	.cornerDetail {
+		span {
+			display: none;
+			visibility: hidden;
+			right: 6px;
+		}
+	}
+
+	@include breakpoint(600) {
+		.images,
+		.prose {
+			display: inline-block;
+		}
+
+		.prose {
+			padding-left: rem-calc(20);
+		}
+
+		.cornerDetail {
+			h4 {
+				position: absolute;
+				right: 24px;
+				bottom: 12px;
+				z-index: 10;
+			}
+
+			span {
+				display: block;
+				visibility: visible;
+			}
+		}
+	}
+
+	@include breakpoint(690) {
+		.prose {
+			h2 {
+				font-size: $h2-serif-medium;
+			}
+		}
+	}
+}
+
+.categoryRow#venice {
+	img {
+		max-height: 320px;
+	}
+
+	.imgGroup-1 {
+		margin-bottom: 12px;
+		background: #fff;
+
+		img.secondary {
+			display: none;
+			visibility: hidden;
+		}
+	}
+
+	.imgGroup-2 {
+		right: 0;
+		top: 0;
+	}
+
+	.cornerDetail {
+		h4 {
+			padding: 0;
+		}
+
+		span {
+			display: none;
+			visibility: hidden;
+			right: 6px;
+		}
+	}
+
+	@include breakpoint(550) {
+		.cornerDetail {
+			span {
+				display: block;
+				visibility: visible;
+			}
+		}
+	}
+
+	@include breakpoint(medium) {
+		.imgGroup-1 {
+			margin: 0 20px 0 0;
+			display: inline-block;
+		}
+
+		.prose {
+			position: absolute;
+			display: inline;
+			top: 0;
+
+			h2 {
+				display: inline-block;
+			}
+
+			img {
+				height: 320px;
+				width: 0;
+			}
+		}
+
+		.cornerDetail {
+			h4 {
+				position: absolute;
+				right: 24px;
+				bottom: 12px;
+				z-index: 10;
+			}
+
+			span {
+				position: absolute;
+				bottom: 8px;
+				right: 6px;
+			}
+		}
+	}
+
+	@include breakpoint(750) {
+		.imgGroup-1 {
+			margin-right: 80px;
+		}
+	}
+
+	@include breakpoint(910) {
+		.imgGroup-1 {
+			margin-right: 20px;
+
+			img.secondary {
+				display: inline-block;
+				visibility: visible;
+			}
+		}
+	}
+
+	@include breakpoint(large) {
+		.imgGroup-1 {
+			margin-right: 100px;
+
+			img.secondary {
+				display: none;
+				visibility: hidden;
+			}
+		}
+
+		.cornerDetail {
+			h4 {
+				right: 276px;
+			}
+
+			span {
+				right: 258px;
+			}
+		}
+	}
+
+	@include breakpoint(xlarge) {
+		.imgGroup-1 {
+			margin-right: 60px;
+		}
+
+		.cornerDetail {
+			h4,
+			span {
+				right: 0;
+				padding-right: 545px;
+			}
+		}
+	}
+
+	@include breakpoint(1300) {
+		.imgGroup-1 {
+			margin-right: 110px;
+		}
+	}
+}
