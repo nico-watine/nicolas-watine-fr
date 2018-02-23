@@ -73,7 +73,7 @@ body-class: index
 					<img class="secondary" src="/img/paintings/landscapes/landscapes-1.jpg" alt="">
 				</div>
 				<div class="prose" style="text-align: center;">
-					<h2 class="serif"><a href="">Landscapes</a></h2>
+					<h2 class="serif"><a href="">Paysages</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
