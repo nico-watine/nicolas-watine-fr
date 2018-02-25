@@ -5600,7 +5600,8 @@ header.header {
 
 .galleryNav-new {
   position: sticky;
-  top: 0; }
+  top: 0;
+  border-bottom: 0.1875rem solid #fff; }
   .galleryNav-new ul.menu a {
     color: #fff; }
     .galleryNav-new ul.menu a:hover {
