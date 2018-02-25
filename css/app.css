@@ -5598,6 +5598,17 @@ header.header {
 .galleryPage {
   background: #70848c; }
 
+.galleryNav-new {
+  position: sticky;
+  top: 0; }
+  .galleryNav-new ul.menu a {
+    color: #fff; }
+    .galleryNav-new ul.menu a:hover {
+      text-decoration: underline; }
+
+.galleryPage#landscapes {
+  height: 2000px; }
+
 .sideBar {
   padding-top: 0.9375rem; }
   @media print, screen and (min-width: 40em) {

@@ -4,4 +4,19 @@
 	background: #70848c;
 }
 
+.galleryNav-new {
+	position: sticky;
+	top: 0;
+
+	ul.menu {
+		a {
+			color: #fff;
+
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+	}
+}
+
 @import "paintings/_landscapes.scss";
