@@ -5595,6 +5595,9 @@ header.header {
   .index#index .drawings .sectionContent {
     height: 21.875rem; }
 
+.galleryPage {
+  background: #70848c; }
+
 .sideBar {
   padding-top: 0.9375rem; }
   @media print, screen and (min-width: 40em) {
