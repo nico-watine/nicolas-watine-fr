@@ -7863,6 +7863,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/pages\/gallery\/paintings\/_landscapes.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/gallery\/css\/_landscapes.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/pages\/index\/_bio.scss": {
 		"aP": 0,
 		"bl": 0,
