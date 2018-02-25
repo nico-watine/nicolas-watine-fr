@@ -5605,6 +5605,8 @@ header.header {
     color: #fff; }
     .galleryNav-new ul.menu a:hover {
       text-decoration: underline; }
+  .galleryNav-new ul.menu a.active {
+    text-decoration: underline; }
 
 .galleryPage#landscapes {
   height: 2000px; }

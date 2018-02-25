@@ -12,11 +12,11 @@ layout: eng-default
 <div class="row expanded galleryNav-new">
 	<nav class="columns">
 		<ul class="menu">
-			<li><h1 class="h2 white serif padding-X">Landscapes</h1></li>
+			<li><h1 class="h2 white serif padding-X margin-0">Landscapes</h1></li>
 			<li class="h4 caps"><a href="">Seascapes</a></li>
 			<li class="h4 caps"><a href="">Venice</a></li>
 			<li class="h4 caps"><a href="">Still Life</a></li>
-			<li class="h4 caps"><a href="">Landscapes</a></li>
+			<li class="h4 caps"><a class="active" href="#0">Landscapes</a></li>
 		</ul>
 	</nav>
 </div>
