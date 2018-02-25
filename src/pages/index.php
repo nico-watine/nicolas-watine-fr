@@ -20,7 +20,7 @@ body-class: index
 					<h2 class="serif text-center"><a href="#0">Marines</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
-					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
+					<h4 class="caps margin-0"><strong>Peintures</strong></h4>
 					<span class="serif white"></span>
 				</div>
 			</div>
@@ -38,7 +38,7 @@ body-class: index
 					<img class="show-for-medium" src="/img/assets/spacer.png" alt="">
 				</div>
 				<div class="cornerDetail text-center">
-					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
+					<h4 class="caps margin-0"><strong>Peintures</strong></h4>
 					<span class="serif white"></span>
 				</div>
 				<div class="imgGroup-2 absolute show-for-large">
@@ -59,7 +59,7 @@ body-class: index
 					<h2 class="serif text-center"><a href="#0">Natures Mortes</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
-					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
+					<h4 class="caps margin-0"><strong>Peintures</strong></h4>
 					<span class="serif white"></span>
 				</div>
 			</div>
@@ -76,7 +76,7 @@ body-class: index
 					<h2 class="serif"><a href="#0">Paysages</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
-					<h4 class="caps margin-0"><strong>Gallery</strong></h4>
+					<h4 class="caps margin-0"><strong>Peintures</strong></h4>
 					<span class="serif white"></span>
 				</div>
 			</div>
