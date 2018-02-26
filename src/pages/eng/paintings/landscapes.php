@@ -9,7 +9,7 @@ body-id: landscapes
 body-class: galleryPage
 layout: eng-default
 ---
-<div class="row expanded galleryNav-new">
+<div class="row galleryNav-new">
 	<div class="columns">
 		<h1 class="h2 white serif margin-0">Landscapes</h1>
 		<div class="title-bar" data-responsive-toggle="categoryMenu" data-hide-for="medium">
