@@ -4385,16 +4385,6 @@
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
-	"\/dist\/css\/app-min.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/dist\/css\/app-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -4431,27 +4421,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/eng\/index.php",
-		"oF": 0
-		},
-	"\/dist\/eng\/paintings\/landscapes copy 2.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/eng\/paintings\/landscapes copy 2.php",
-		"oF": 0
-		},
-	"\/dist\/eng\/paintings\/landscapes copy 3.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/eng\/paintings\/landscapes copy 3.php",
-		"oF": 0
-		},
-	"\/dist\/eng\/paintings\/landscapes copy.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/eng\/paintings\/landscapes copy.php",
 		"oF": 0
 		},
 	"\/dist\/eng\/paintings\/landscapes.php": {
@@ -7608,19 +7577,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/pages\/galleryPage\/paintings\/_landscapes.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/scss\/pages\/galleryPage\/css\/_landscapes.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/scss\/pages\/index\/_bio.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -7747,6 +7703,71 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/pages\/index\/css\/_venice.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/paintings\/_landscapes.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_landscapes.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/paintings\/_paintings.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_paintings.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/paintings\/_seascapes.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_seascapes.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/paintings\/_still-life.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_still-life.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/paintings\/_venice.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_venice.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
