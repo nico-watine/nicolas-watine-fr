@@ -4,12 +4,11 @@
 	background: #70848c;
 }
 
+// .galleryNav,
 .galleryNav-new {
-	position: sticky;
-	top: 0;
 	border-bottom: rem-calc(3) solid #fff;
 
-	ul.menu {
+	.menu {
 		a {
 			color: #fff;
 
@@ -20,6 +19,7 @@
 
 		a.active {
 			text-decoration: underline;
+			font-weight: bold;
 		}
 	}
 }

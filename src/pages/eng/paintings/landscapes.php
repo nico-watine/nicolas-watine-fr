@@ -10,13 +10,19 @@ body-class: galleryPage
 layout: eng-default
 ---
 <div class="row expanded galleryNav-new">
-	<nav class="columns">
-		<ul class="menu">
-			<li><h1 class="h2 white serif padding-X margin-0">Landscapes</h1></li>
-			<li class="h4 caps"><a href="">Seascapes</a></li>
-			<li class="h4 caps"><a href="">Venice</a></li>
-			<li class="h4 caps"><a href="">Still Life</a></li>
-			<li class="h4 caps"><a class="active" href="#0">Landscapes</a></li>
-		</ul>
-	</nav>
+	<div class="columns">
+		<h1 class="h2 white serif margin-0">Landscapes</h1>
+		<div class="title-bar" data-responsive-toggle="categoryMenu" data-hide-for="medium">
+			<button class="menu-icon" type="button" data-toggle="categoryMenu"></button>
+			<div class="title-bar-title">Category Menu</div>
+		</div>
+		<nav id="categoryMenu">
+			<ul class="vertical medium-horizontal menu">
+				<li class="caps"><a href="">Seascapes</a></li>
+				<li class="caps"><a href="">Venice</a></li>
+				<li class="caps"><a href="">Still Life</a></li>
+				<li class="caps"><a class="active" href="#0">Landscapes</a></li>
+			</ul>
+		</nav>
+	</div>
 </div>

@@ -5599,15 +5599,14 @@ header.header {
   background: #70848c; }
 
 .galleryNav-new {
-  position: sticky;
-  top: 0;
   border-bottom: 0.1875rem solid #fff; }
-  .galleryNav-new ul.menu a {
+  .galleryNav-new .menu a {
     color: #fff; }
-    .galleryNav-new ul.menu a:hover {
+    .galleryNav-new .menu a:hover {
       text-decoration: underline; }
-  .galleryNav-new ul.menu a.active {
-    text-decoration: underline; }
+  .galleryNav-new .menu a.active {
+    text-decoration: underline;
+    font-weight: bold; }
 
 .galleryPage#landscapes {
   height: 2000px; }
