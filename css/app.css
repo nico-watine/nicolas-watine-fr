@@ -5618,6 +5618,8 @@ header.header {
 
 .galleryNav {
   border-bottom: 0.1875rem solid #fff;
+  background: #70848c;
+  z-index: 50;
   position: sticky;
   position: -webkit-sticky;
   top: 0; }
