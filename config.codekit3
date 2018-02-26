@@ -4433,11 +4433,53 @@
 		"oAP": "\/dist\/eng\/index.php",
 		"oF": 0
 		},
+	"\/dist\/eng\/paintings\/landscapes copy 2.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/eng\/paintings\/landscapes copy 2.php",
+		"oF": 0
+		},
+	"\/dist\/eng\/paintings\/landscapes copy 3.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/eng\/paintings\/landscapes copy 3.php",
+		"oF": 0
+		},
+	"\/dist\/eng\/paintings\/landscapes copy.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/eng\/paintings\/landscapes copy.php",
+		"oF": 0
+		},
 	"\/dist\/eng\/paintings\/landscapes.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/eng\/paintings\/landscapes.php",
+		"oF": 0
+		},
+	"\/dist\/eng\/paintings\/seascapes.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/eng\/paintings\/seascapes.php",
+		"oF": 0
+		},
+	"\/dist\/eng\/paintings\/still-life.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/eng\/paintings\/still-life.php",
+		"oF": 0
+		},
+	"\/dist\/eng\/paintings\/venice.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/eng\/paintings\/venice.php",
 		"oF": 0
 		},
 	"\/dist\/gallery.php": {
@@ -7811,6 +7853,27 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/pages\/eng\/paintings\/landscapes.php",
+		"oF": 0
+		},
+	"\/src\/pages\/eng\/paintings\/seascapes.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/eng\/paintings\/seascapes.php",
+		"oF": 0
+		},
+	"\/src\/pages\/eng\/paintings\/still-life.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/eng\/paintings\/still-life.php",
+		"oF": 0
+		},
+	"\/src\/pages\/eng\/paintings\/venice.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/eng\/paintings\/venice.php",
 		"oF": 0
 		},
 	"\/src\/pages\/gallery.php": {
