@@ -1,5 +1,13 @@
 @import "../../_settings.scss";
 
+.artCard-grid {
+	padding: rem-calc(50) 0;
+
+	@include breakpoint(medium) {
+		padding: rem-calc(100) 0;
+	}
+}
+
 .artCard {
 	box-shadow: 0 rem-calc(2) rem-calc(1) 0 rgba(0,0,0,.20), 0 rem-calc(1) rem-calc(1) 0 rgba(0,0,0,.14), 0 rem-calc(1) rem-calc(3) 0 rgba(0,0,0,.12);
 	background: #fff;

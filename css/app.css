@@ -5595,6 +5595,12 @@ header.header {
   .index#index .drawings .sectionContent {
     height: 21.875rem; }
 
+.artCard-grid {
+  padding: 3.125rem 0; }
+  @media print, screen and (min-width: 40em) {
+    .artCard-grid {
+      padding: 6.25rem 0; } }
+
 .artCard {
   box-shadow: 0 0.125rem 0.0625rem 0 rgba(0, 0, 0, 0.2), 0 0.0625rem 0.0625rem 0 rgba(0, 0, 0, 0.14), 0 0.0625rem 0.1875rem 0 rgba(0, 0, 0, 0.12);
   background: #fff;
