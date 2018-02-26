@@ -1,1 +1,80 @@
 @import "../../_settings.scss";
+
+.galleryPage {
+	background: #70848c;
+}
+
+.galleryNav {
+	border-bottom: rem-calc(3) solid #fff;
+
+	h1 {
+		vertical-align: top;
+	}
+
+	.categoryNav {
+		background: rgba(240,242,242,.30);
+		margin-bottom: 12px;
+	}
+
+	.menu {
+		a {
+			color: #fff;
+			border-left: rem-calc(7) solid transparent;
+
+			&:hover {
+				border-left: rem-calc(7) solid #fff;
+			}
+		}
+
+		a.active {
+			text-decoration: underline;
+			font-weight: bold;
+			border-left: rem-calc(7) solid #fff;
+		}
+	}
+
+	@include breakpoint(medium) {
+		.categoryNav {
+			background: transparent;
+			margin-bottom: 0;
+		}
+
+		.menu {
+			a {
+				border-left: 0;
+				border-bottom: rem-calc(4) solid transparent;
+
+				&:hover {
+					border-left: 0;
+					border-bottom: rem-calc(4) solid #fff;
+					text-decoration: underline;
+				}
+			}
+
+			a.active {
+				border-left: 0;
+				border-bottom: rem-calc(4) solid #fff;
+			}
+		}
+	}
+
+	@include breakpoint(large) {
+		h1 {
+			display: inline-block;
+			line-height: 100px;
+		}
+
+		.categoryNav {
+			display: inline-block;
+			float: right;
+		}
+
+		.menu {
+			li {
+				height: 100px;
+			}
+		}
+	}
+}
+
+@import "paintings/_landscapes.scss";
