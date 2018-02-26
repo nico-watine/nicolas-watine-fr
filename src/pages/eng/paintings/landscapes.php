@@ -26,7 +26,7 @@ layout: eng-default
 		</nav>
 	</div>
 </div>
-<div class="row small-up-1 medium-up-2 large-up-4" style="padding-top: 50px;">
+<div class="row small-up-1 medium-up-2 large-up-4" style="padding-top: 100px;">
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
