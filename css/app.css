@@ -5601,12 +5601,14 @@ header.header {
 .galleryNav-new {
   border-bottom: 0.1875rem solid #fff; }
   .galleryNav-new .menu a {
-    color: #fff; }
+    color: #fff;
+    border-left: 0.4375rem solid transparent; }
     .galleryNav-new .menu a:hover {
-      text-decoration: underline; }
+      border-left: 0.4375rem solid #fff; }
   .galleryNav-new .menu a.active {
     text-decoration: underline;
-    font-weight: bold; }
+    font-weight: bold;
+    border-left: 0.4375rem solid #fff; }
 
 .galleryPage#landscapes {
   height: 2000px; }

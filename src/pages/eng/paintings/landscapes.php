@@ -16,7 +16,7 @@ layout: eng-default
 			<button class="menu-icon" type="button" data-toggle="categoryMenu"></button>
 			<div class="title-bar-title">Category Menu</div>
 		</div>
-		<nav id="categoryMenu">
+		<nav id="categoryMenu" style="background: rgba(240,242,242,0.30); margin-bottom: 12px;">
 			<ul class="vertical medium-horizontal menu">
 				<li class="caps"><a href="">Seascapes</a></li>
 				<li class="caps"><a href="">Venice</a></li>

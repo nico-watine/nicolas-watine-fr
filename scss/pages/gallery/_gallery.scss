@@ -11,15 +11,17 @@
 	.menu {
 		a {
 			color: #fff;
+			border-left: rem-calc(7) solid transparent;
 
 			&:hover {
-				text-decoration: underline;
+				border-left: rem-calc(7) solid #fff;
 			}
 		}
 
 		a.active {
 			text-decoration: underline;
 			font-weight: bold;
+			border-left: rem-calc(7) solid #fff;
 		}
 	}
 }
