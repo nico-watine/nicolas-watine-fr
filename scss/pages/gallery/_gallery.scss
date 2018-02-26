@@ -4,21 +4,16 @@
 	background: #70848c;
 }
 
-// .galleryNav,
-.galleryNav-new {
+.galleryNav {
 	border-bottom: rem-calc(3) solid #fff;
 
 	h1 {
-		// display: inline-block;
-		// line-height: 100px;
 		vertical-align: top;
 	}
 
 	.categoryNav {
 		background: rgba(240,242,242,.30);
 		margin-bottom: 12px;
-		// display: inline-block;
-		// float: right;
 	}
 
 	.menu {
@@ -70,8 +65,6 @@
 		}
 
 		.categoryNav {
-			// background: rgba(240,242,242,.30);
-			// margin-bottom: 12px;
 			display: inline-block;
 			float: right;
 		}
@@ -85,4 +78,3 @@
 }
 
 @import "paintings/_landscapes.scss";
-
