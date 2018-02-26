@@ -8,6 +8,11 @@
 .galleryNav-new {
 	border-bottom: rem-calc(3) solid #fff;
 
+	.categoryNav {
+		background: rgba(240,242,242,.30);
+		margin-bottom: 12px;
+	}
+
 	.menu {
 		a {
 			color: #fff;
@@ -22,6 +27,26 @@
 			text-decoration: underline;
 			font-weight: bold;
 			border-left: rem-calc(7) solid #fff;
+		}
+	}
+
+	@include breakpoint(medium) {
+		.categoryNav {
+			background: transparent;
+		}
+
+		.menu {
+			a {
+				border-left: 0;
+
+				&:hover {
+					border-left: 0;
+				}
+			}
+
+			a.active {
+				border-left: 0;
+			}
 		}
 	}
 }

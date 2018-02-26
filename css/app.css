@@ -5600,6 +5600,9 @@ header.header {
 
 .galleryNav-new {
   border-bottom: 0.1875rem solid #fff; }
+  .galleryNav-new .categoryNav {
+    background: rgba(240, 242, 242, 0.3);
+    margin-bottom: 12px; }
   .galleryNav-new .menu a {
     color: #fff;
     border-left: 0.4375rem solid transparent; }
@@ -5609,6 +5612,15 @@ header.header {
     text-decoration: underline;
     font-weight: bold;
     border-left: 0.4375rem solid #fff; }
+  @media print, screen and (min-width: 40em) {
+    .galleryNav-new .categoryNav {
+      background: transparent; }
+    .galleryNav-new .menu a {
+      border-left: 0; }
+      .galleryNav-new .menu a:hover {
+        border-left: 0; }
+    .galleryNav-new .menu a.active {
+      border-left: 0; } }
 
 .galleryPage#landscapes {
   height: 2000px; }
