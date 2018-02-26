@@ -5595,64 +5595,11 @@ header.header {
   .index#index .drawings .sectionContent {
     height: 21.875rem; }
 
-.sideBar {
-  padding-top: 0.9375rem; }
+.artCard-grid {
+  padding: 3.125rem 0; }
   @media print, screen and (min-width: 40em) {
-    .sideBar .galleryTitle {
-      font-size: 4.25rem; } }
-  @media screen and (min-width: 75em) {
-    .sideBar {
-      padding-top: 0;
-      width: 22.5rem;
-      border-bottom: 0;
-      float: left;
-      position: relative; }
-      .sideBar .galleryTitle {
-        position: absolute;
-        z-index: 100; } }
-
-.sideNav .menu > li {
-  display: block; }
-
-.sideNav .menu li a {
-  color: #fff;
-  display: inline-block; }
-  .sideNav .menu li a:hover {
-    text-decoration: underline; }
-
-@media screen and (min-width: 30em) {
-  .sideNav .menu > li {
-    display: table-cell; } }
-
-@media screen and (min-width: 75em) {
-  .sideNav .menu > li {
-    display: block; } }
-
-.galleryNav {
-  border-bottom: 0.1875rem solid #fff; }
-  .galleryNav .menu > li {
-    display: block; }
-  .galleryNav .menu li a {
-    color: #fff;
-    display: inline-block; }
-    .galleryNav .menu li a:hover {
-      text-decoration: underline; }
-  @media screen and (min-width: 30em) {
-    .galleryNav {
-      position: sticky;
-      position: -webkit-sticky;
-      top: 0;
-      background: #70848c;
-      z-index: 50;
-      box-shadow: 0 0.125rem 0.0625rem 0 rgba(0, 0, 0, 0.2), 0 0.0625rem 0.0625rem 0 rgba(0, 0, 0, 0.14), 0 0.0625rem 0.1875rem 0 rgba(0, 0, 0, 0.12); }
-      .galleryNav .menu > li {
-        display: table-cell; } }
-  @media screen and (min-width: 75em) {
-    .galleryNav {
-      border: 0;
-      box-shadow: none; }
-      .galleryNav .menu {
-        padding-left: 22.5rem; } }
+    .artCard-grid {
+      padding: 6.25rem 0; } }
 
 .artCard {
   box-shadow: 0 0.125rem 0.0625rem 0 rgba(0, 0, 0, 0.2), 0 0.0625rem 0.0625rem 0 rgba(0, 0, 0, 0.14), 0 0.0625rem 0.1875rem 0 rgba(0, 0, 0, 0.12);
@@ -5672,12 +5619,53 @@ header.header {
 .artCard-prose .title {
   margin: 0; }
 
-.artGallery {
+.galleryPage {
   background: #70848c; }
 
-@media screen and (min-width: 75em) {
-  .artworkGrid {
-    padding-left: 22.5rem; } }
+.galleryNav {
+  border-bottom: 0.1875rem solid #fff;
+  background: #70848c;
+  z-index: 50;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0; }
+  .galleryNav h1 {
+    vertical-align: top; }
+  .galleryNav .categoryNav {
+    background: rgba(240, 242, 242, 0.3);
+    margin-bottom: 12px; }
+  .galleryNav .menu a {
+    color: #fff;
+    border-left: 0.4375rem solid transparent; }
+    .galleryNav .menu a:hover {
+      border-left: 0.4375rem solid #fff; }
+  .galleryNav .menu a.active {
+    text-decoration: underline;
+    font-weight: bold;
+    border-left: 0.4375rem solid #fff; }
+  @media print, screen and (min-width: 40em) {
+    .galleryNav .categoryNav {
+      background: transparent;
+      margin-bottom: 0; }
+    .galleryNav .menu a {
+      border-left: 0;
+      border-bottom: 0.25rem solid transparent; }
+      .galleryNav .menu a:hover {
+        border-left: 0;
+        border-bottom: 0.25rem solid #fff;
+        text-decoration: underline; }
+    .galleryNav .menu a.active {
+      border-left: 0;
+      border-bottom: 0.25rem solid #fff; } }
+  @media print, screen and (min-width: 64em) {
+    .galleryNav h1 {
+      display: inline-block;
+      line-height: 100px; }
+    .galleryNav .categoryNav {
+      display: inline-block;
+      float: right; }
+    .galleryNav .menu li {
+      height: 100px; } }
 
 .inline-block {
   display: inline-block; }
