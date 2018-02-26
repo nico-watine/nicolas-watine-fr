@@ -5599,7 +5599,10 @@ header.header {
   background: #70848c; }
 
 .galleryNav {
-  border-bottom: 0.1875rem solid #fff; }
+  border-bottom: 0.1875rem solid #fff;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0; }
   .galleryNav h1 {
     vertical-align: top; }
   .galleryNav .categoryNav {

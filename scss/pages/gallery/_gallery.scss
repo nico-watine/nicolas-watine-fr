@@ -6,6 +6,9 @@
 
 .galleryNav {
 	border-bottom: rem-calc(3) solid #fff;
+	position:         sticky;
+	position: -webkit-sticky;
+	top: 0;
 
 	h1 {
 		vertical-align: top;
