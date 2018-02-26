@@ -33,19 +33,24 @@
 	@include breakpoint(medium) {
 		.categoryNav {
 			background: transparent;
+			margin-bottom: 0;
 		}
 
 		.menu {
 			a {
 				border-left: 0;
+				border-bottom: rem-calc(4) solid transparent;
 
 				&:hover {
 					border-left: 0;
+					border-bottom: rem-calc(4) solid #fff;
+					text-decoration: underline;
 				}
 			}
 
 			a.active {
 				border-left: 0;
+				border-bottom: rem-calc(4) solid #fff;
 			}
 		}
 	}

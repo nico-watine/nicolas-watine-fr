@@ -5614,13 +5614,18 @@ header.header {
     border-left: 0.4375rem solid #fff; }
   @media print, screen and (min-width: 40em) {
     .galleryNav-new .categoryNav {
-      background: transparent; }
+      background: transparent;
+      margin-bottom: 0; }
     .galleryNav-new .menu a {
-      border-left: 0; }
+      border-left: 0;
+      border-bottom: 0.25rem solid transparent; }
       .galleryNav-new .menu a:hover {
-        border-left: 0; }
+        border-left: 0;
+        border-bottom: 0.25rem solid #fff;
+        text-decoration: underline; }
     .galleryNav-new .menu a.active {
-      border-left: 0; } }
+      border-left: 0;
+      border-bottom: 0.25rem solid #fff; } }
 
 .galleryPage#landscapes {
   height: 2000px; }
