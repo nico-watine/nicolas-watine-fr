@@ -7540,7 +7540,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/pages\/gallery\/_artCard.scss": {
+	"\/scss\/pages\/galleryPage\/_artCard.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -7553,7 +7553,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/pages\/gallery\/_gallery.scss": {
+	"\/scss\/pages\/galleryPage\/_galleryPage.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -7561,12 +7561,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/pages\/css\/_gallery.css",
+		"oAP": "\/scss\/pages\/css\/_galleryPage.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/pages\/gallery\/paintings\/_landscapes.scss": {
+	"\/scss\/pages\/galleryPage\/paintings\/_landscapes.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -7574,7 +7574,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/pages\/gallery\/css\/_landscapes.css",
+		"oAP": "\/scss\/pages\/galleryPage\/css\/_landscapes.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
