@@ -27,7 +27,7 @@ layout: eng-default
 	</div>
 </div>
 <div class="row small-up-1 medium-up-2 large-up-4" style="padding-top: 50px;">
-	<div class="column column-block">
+	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
 				<img class="absolute-center" src="/img/paintings/landscapes/landscapes-1.jpg" alt="">
@@ -38,7 +38,7 @@ layout: eng-default
 			</div>
 		</div>
 	</div>
-	<div class="column column-block">
+	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
 				<img class="absolute-center" src="/img/paintings/landscapes/landscapes-2.jpg" alt="">
@@ -49,7 +49,7 @@ layout: eng-default
 			</div>
 		</div>
 	</div>
-	<div class="column column-block">
+	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
 				<img class="absolute-center" src="/img/paintings/landscapes/landscapes-3.jpg" alt="">
@@ -60,7 +60,7 @@ layout: eng-default
 			</div>
 		</div>
 	</div>
-	<div class="column column-block">
+	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
 				<img class="absolute-center" src="/img/paintings/landscapes/landscapes-4.jpg" alt="">
