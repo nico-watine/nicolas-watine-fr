@@ -8,9 +8,17 @@
 .galleryNav-new {
 	border-bottom: rem-calc(3) solid #fff;
 
+	h1 {
+		// display: inline-block;
+		// line-height: 100px;
+		vertical-align: top;
+	}
+
 	.categoryNav {
 		background: rgba(240,242,242,.30);
 		margin-bottom: 12px;
+		// display: inline-block;
+		// float: right;
 	}
 
 	.menu {
@@ -54,6 +62,27 @@
 			}
 		}
 	}
+
+	@include breakpoint(large) {
+		h1 {
+			display: inline-block;
+			line-height: 100px;
+		}
+
+		.categoryNav {
+			// background: rgba(240,242,242,.30);
+			// margin-bottom: 12px;
+			display: inline-block;
+			float: right;
+		}
+
+		.menu {
+			li {
+				height: 100px;
+			}
+		}
+	}
 }
 
 @import "paintings/_landscapes.scss";
+

@@ -5600,6 +5600,8 @@ header.header {
 
 .galleryNav-new {
   border-bottom: 0.1875rem solid #fff; }
+  .galleryNav-new h1 {
+    vertical-align: top; }
   .galleryNav-new .categoryNav {
     background: rgba(240, 242, 242, 0.3);
     margin-bottom: 12px; }
@@ -5626,6 +5628,15 @@ header.header {
     .galleryNav-new .menu a.active {
       border-left: 0;
       border-bottom: 0.25rem solid #fff; } }
+  @media print, screen and (min-width: 64em) {
+    .galleryNav-new h1 {
+      display: inline-block;
+      line-height: 100px; }
+    .galleryNav-new .categoryNav {
+      display: inline-block;
+      float: right; }
+    .galleryNav-new .menu li {
+      height: 100px; } }
 
 .galleryPage#landscapes {
   height: 2000px; }
