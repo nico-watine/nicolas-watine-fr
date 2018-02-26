@@ -26,3 +26,16 @@ layout: eng-default
 		</nav>
 	</div>
 </div>
+<div class="row small-up-1 medium-up-2 large-up-4" style="padding-top: 50px;">
+	<div class="column column-block">
+		<div class="artCard">
+			<div class="artCard-image">
+				<img class="absolute-center" src="/img/paintings/landscapes/landscapes-1.jpg" alt="">
+			</div>
+			<div class="artCard-prose">
+				<h4 class="title">Untitled</h4>
+				<p class="dimensions">80 x 80 cm</p>
+			</div>
+		</div>
+	</div>
+</div>
