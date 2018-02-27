@@ -1,14 +1,17 @@
 @import "../../_settings.scss";
 
 .galleryPage#drawings {
-	
-	.artCard-grid#sanguine-charcoal-chalk,
-	.artCard-grid#sanguine {
-		padding: rem-calc(25) 0 0;
+	.artCard-grid {
+		padding-bottom: 0;
 	}
 
+	.artCard-grid#sanguine-charcoal-chalk {
+		padding-top: rem-calc(25);
+	}
+
+	.artCard-grid#sanguine,
 	.artCard-grid#black-or-color-pencil {
-		padding: rem-calc(25) 0 rem-calc(50);
+		padding-top: rem-calc(100);
 	}
 
 	.subCategory-heading {
@@ -17,8 +20,13 @@
 	}
 
 	@include breakpoint(medium) {
+		.galleryTitle {
+			font-size: $h2-serif-medium;
+		}
+
+		.artCard-grid#sanguine,
 		.artCard-grid#black-or-color-pencil {
-			padding-bottom: rem-calc(100);
+			padding-top: rem-calc(130);
 		}
 
 		.subCategory-heading {
@@ -26,7 +34,11 @@
 		}
 	}
 
-	@include breakpoint(large) {
+	@include breakpoint(1120) {
+		.galleryTitle {
+			font-size: $h1-serif-medium;
+		}
+
 		.subCategory-heading {
 			font-size: $h2-serif-medium;
 		}

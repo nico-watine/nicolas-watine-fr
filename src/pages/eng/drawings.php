@@ -9,23 +9,27 @@ body-id: drawings
 body-class: galleryPage
 layout: eng-drawings
 ---
-<div class="row galleryNav">
-	<div class="columns">
-		<h1 class="galleryTitle white serif margin-0">Drawings</h1>
-		<div class="title-bar" data-responsive-toggle="categoryMenu" data-hide-for="medium">
-			<button class="menu-icon" type="button" data-toggle="categoryMenu"></button>
-			<div class="title-bar-title">Category Menu</div>
+<div class="sticky-container" data-sticky-container>
+	<div class="sticky" data-sticky-on="small" data-sticky data-top-anchor="350" data-margin-top="0" style="width: 100%;">
+		<div class="row galleryNav">
+			<div class="columns">
+				<h1 class="galleryTitle white serif margin-0">Drawings</h1>
+				<div class="title-bar" data-responsive-toggle="categoryMenu" data-hide-for="medium">
+					<button class="menu-icon" type="button" data-toggle="categoryMenu"></button>
+					<div class="title-bar-title">Category Menu</div>
+				</div>
+				<nav class="categoryNav" id="categoryMenu">
+					<ul class="vertical medium-horizontal menu" data-magellan data-deep-linking="true">
+						<li class="caps"><a href="#sanguine-charcoal-chalk">Sanguine, Charcoal &amp; Chalk</a></li>
+						<li class="caps"><a href="#sanguine">Sanguine</a></li>
+						<li class="caps"><a href="#black-or-color-pencil">Black or Color Pencil</a></li>
+					</ul>
+				</nav>
+			</div>
 		</div>
-		<nav class="categoryNav" id="categoryMenu">
-			<ul class="vertical medium-horizontal menu">
-				<li class="caps"><a href="/eng/paintings/seascapes">Sanguine, Charcoal &amp; Chalk</a></li>
-				<li class="caps"><a href="/eng/paintings/venice">Sanguine</a></li>
-				<li class="caps"><a href="/eng/paintings/still-life">Black or Color Pencil</a></li>
-			</ul>
-		</nav>
 	</div>
 </div>
-<div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" id="sanguine-charcoal-chalk">
+<div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" data-magellan-target="sanguine-charcoal-chalk" id="sanguine-charcoal-chalk">
 	<h2 class="subCategory-heading white serif text-center">Sanguine, Charcoal &amp; Chalk</h2>
 	<div class="column">
 		<div class="artCard">
@@ -164,7 +168,7 @@ layout: eng-drawings
 	</div>
 </div>
 <hr>
-<div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" id="sanguine">
+<div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" data-magellan-target="sanguine" id="sanguine">
 	<h2 class="subCategory-heading white serif text-center">Sanguine</h2>
 	<div class="column">
 		<div class="artCard">
@@ -222,7 +226,7 @@ layout: eng-drawings
 	</div>
 </div>
 <hr>
-<div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" id="black-or-color-pencil">
+<div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" data-magellan-target="black-or-color-pencil" id="black-or-color-pencil">
 	<h2 class="subCategory-heading white serif text-center">Black or Color Pencil</h2>
 	<div class="column">
 		<div class="artCard">
