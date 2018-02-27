@@ -30,9 +30,9 @@ layout: eng-drawings
 </div>
 <hr>
 <div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" id="sanguine">
-	<h2 class="subCategory-heading white serif text-center">Sanguine, Charcoal &amp; Chalk</h2>
+	<h2 class="subCategory-heading white serif text-center">Sanguine</h2>
 </div>
 <hr>
 <div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" id="black-or-color-pencil">
-	<h2 class="subCategory-heading white serif text-center">Sanguine, Charcoal &amp; Chalk</h2>
+	<h2 class="subCategory-heading white serif text-center">Black or Color Pencil</h2>
 </div>
