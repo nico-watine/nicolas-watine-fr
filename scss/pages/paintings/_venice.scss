@@ -1,1 +1,25 @@
 @import "../../_settings.scss";
+
+.galleryPage#venice {
+	.artCard-grid#canvas {
+		padding: rem-calc(25) 0 0;
+	}
+
+	.artCard-grid#paper {
+		padding: rem-calc(25) 0 rem-calc(50);
+	}
+
+	.subCategory-heading {
+		margin-bottom: rem-calc(25);
+		font-size: $h3-serif;
+	}
+
+	@include breakpoint(medium) {
+		.artCard-grid#paper {
+			padding-bottom: rem-calc(100);
+		}
+		.subCategory-heading {
+			font-size: $h3-serif-medium;
+		}
+	}
+}
