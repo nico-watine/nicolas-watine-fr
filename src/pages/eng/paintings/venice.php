@@ -177,8 +177,8 @@ layout: eng-default
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<a href="/img/paintings/venice/paper/venice-paper-2.jpg">
-					<img class="absolute-center" src="/img/paintings/venice/paper/venice-paper-2.jpg" alt="Artist Nicolas Watine Venice Sketch">
+				<a href="/img/paintings/venice/paper/venice-paper-1.jpg">
+					<img class="absolute-center" src="/img/paintings/venice/paper/venice-paper-1.jpg" alt="Artist Nicolas Watine Venice Sketch">
 				</a>
 			</div>
 		</div>
