@@ -1,1 +1,18 @@
 @import "../../_settings.scss";
+
+.galleryPage#venice {
+	.artCard-grid {
+		padding-top: rem-calc(25);
+	}
+
+	.subCategory-heading {
+		margin-bottom: rem-calc(25);
+		font-size: $h3-serif;
+	}
+
+	@include breakpoint(medium) {
+		.subCategory-heading {
+			font-size: $h3-serif-medium;
+		}
+	}
+}
