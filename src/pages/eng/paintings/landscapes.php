@@ -30,7 +30,9 @@ layout: eng-default
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/landscapes/landscapes-1.jpg" alt="Artist Nicolas Watine Landscape Painting">
+				<a href="/img/paintings/landscapes/landscapes-1.jpg">
+					<img class="absolute-center" src="/img/paintings/landscapes/landscapes-1.jpg" alt="Artist Nicolas Watine Landscape Painting">
+				</a>
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
@@ -41,7 +43,9 @@ layout: eng-default
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/landscapes/landscapes-2.jpg" alt="Artist Nicolas Watine Landscape Painting">
+				<a href="/img/paintings/landscapes/landscapes-2.jpg">
+					<img class="absolute-center" src="/img/paintings/landscapes/landscapes-2.jpg" alt="Artist Nicolas Watine Landscape Painting">
+				</a>
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
@@ -52,7 +56,9 @@ layout: eng-default
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/landscapes/landscapes-3.jpg" alt="Artist Nicolas Watine Landscape Painting">
+				<a href="/img/paintings/landscapes/landscapes-3.jpg">
+					<img class="absolute-center" src="/img/paintings/landscapes/landscapes-3.jpg" alt="Artist Nicolas Watine Landscape Painting">
+				</a>
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
@@ -63,7 +69,9 @@ layout: eng-default
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/landscapes/landscapes-4.jpg" alt="Artist Nicolas Watine Landscape Painting">
+				<a href="/img/paintings/landscapes/landscapes-4.jpg">
+					<img class="absolute-center" src="/img/paintings/landscapes/landscapes-4.jpg" alt="Artist Nicolas Watine Landscape Painting">
+				</a>
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
