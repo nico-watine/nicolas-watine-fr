@@ -101,8 +101,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Venise Jaune</h4>
+				<p class="dimensions">100 x 100 cm</p>
 			</div>
 		</div>
 	</div>
@@ -114,8 +114,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Grand Venise Jaune</h4>
+				<p class="dimensions">73 x 92 cm</p>
 			</div>
 		</div>
 	</div>
@@ -127,8 +127,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Venise Ocre-Rouge</h4>
+				<p class="dimensions">89 x 116 cm</p>
 			</div>
 		</div>
 	</div>
@@ -140,8 +140,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Venise Mur Gris</h4>
+				<p class="dimensions">38 x 46 cm</p>
 			</div>
 		</div>
 	</div>
@@ -153,8 +153,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Venise Reflet Bleu</h4>
+				<p class="dimensions">73 x 92 cm</p>
 			</div>
 		</div>
 	</div>
@@ -167,7 +167,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<p class="dimensions">100 x 100 cm</p>
 			</div>
 		</div>
 	</div>
