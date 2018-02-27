@@ -28,4 +28,148 @@ layout: eng-default
 </div>
 <div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4">
 	<h2 class="subCategory-heading white serif text-center">Venice on Canvas</h2>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/venice/canvas/venice-canvas-1.jpg">
+					<img class="absolute-center" src="/img/paintings/venice/canvas/venice-canvas-1.jpg" alt="Artist Nicolas Watine Venice Painting">
+				</a>
+			</div>
+			<div class="artCard-prose">
+				<h4 class="title">Venise Rose</h4>
+				<p class="dimensions">36 x 48 cm</p>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/venice/canvas/venice-canvas-2.jpg">
+					<img class="absolute-center" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt="Artist Nicolas Watine Venice Painting">
+				</a>
+			</div>
+			<div class="artCard-prose">
+				<h4 class="title">Pieux Rouges à Venise</h4>
+				<p class="dimensions">54 x 65 cm</p>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/venice/canvas/venice-canvas-3.jpg">
+					<img class="absolute-center" src="/img/paintings/venice/canvas/venice-canvas-3.jpg" alt="Artist Nicolas Watine Venice Painting">
+				</a>
+			</div>
+			<div class="artCard-prose">
+				<h4 class="title">Volets Verts à Venise</h4>
+				<p class="dimensions">41 x 33 cm</p>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/venice/canvas/venice-canvas-4.jpg">
+					<img class="absolute-center" src="/img/paintings/venice/canvas/venice-canvas-4.jpg" alt="Artist Nicolas Watine Venice Painting">
+				</a>
+			</div>
+			<div class="artCard-prose">
+				<h4 class="title">Porte Bleue à Venise</h4>
+				<p class="dimensions">65 x 54 cm</p>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/venice/canvas/venice-canvas-5.jpg">
+					<img class="absolute-center" src="/img/paintings/venice/canvas/venice-canvas-5.jpg" alt="Artist Nicolas Watine Venice Painting">
+				</a>
+			</div>
+			<div class="artCard-prose">
+				<h4 class="title">Grand Venise Gris</h4>
+				<p class="dimensions">89 x 116 cm</p>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/venice/canvas/venice-canvas-6.jpg">
+					<img class="absolute-center" src="/img/paintings/venice/canvas/venice-canvas-6.jpg" alt="Artist Nicolas Watine Venice Painting">
+				</a>
+			</div>
+			<div class="artCard-prose">
+				<h4 class="title">Untitled</h4>
+				<p class="dimensions"># x # cm</p>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/venice/canvas/venice-canvas-7.jpg">
+					<img class="absolute-center" src="/img/paintings/venice/canvas/venice-canvas-7.jpg" alt="Artist Nicolas Watine Venice Painting">
+				</a>
+			</div>
+			<div class="artCard-prose">
+				<h4 class="title">Untitled</h4>
+				<p class="dimensions"># x # cm</p>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/venice/canvas/venice-canvas-8.jpg">
+					<img class="absolute-center" src="/img/paintings/venice/canvas/venice-canvas-8.jpg" alt="Artist Nicolas Watine Venice Painting">
+				</a>
+			</div>
+			<div class="artCard-prose">
+				<h4 class="title">Untitled</h4>
+				<p class="dimensions"># x # cm</p>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/venice/canvas/venice-canvas-9.jpg">
+					<img class="absolute-center" src="/img/paintings/venice/canvas/venice-canvas-9.jpg" alt="Artist Nicolas Watine Venice Painting">
+				</a>
+			</div>
+			<div class="artCard-prose">
+				<h4 class="title">Untitled</h4>
+				<p class="dimensions"># x # cm</p>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/venice/canvas/venice-canvas-10.jpg">
+					<img class="absolute-center" src="/img/paintings/venice/canvas/venice-canvas-10.jpg" alt="Artist Nicolas Watine Venice Painting">
+				</a>
+			</div>
+			<div class="artCard-prose">
+				<h4 class="title">Untitled</h4>
+				<p class="dimensions"># x # cm</p>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/venice/canvas/venice-canvas-11.jpg">
+					<img class="absolute-center" src="/img/paintings/venice/canvas/venice-canvas-11.jpg" alt="Artist Nicolas Watine Venice Painting">
+				</a>
+			</div>
+			<div class="artCard-prose">
+				<h4 class="title">Untitled</h4>
+				<p class="dimensions"># x # cm</p>
+			</div>
+		</div>
+	</div>
+	
 </div>
