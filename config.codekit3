@@ -4695,13 +4695,6 @@
 		"oAP": "\/dist\/eng\/index.php",
 		"oF": 0
 		},
-	"\/dist\/eng\/paintings.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/eng\/paintings.php",
-		"oF": 0
-		},
 	"\/dist\/eng\/paintings\/index.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -5004,66 +4997,6 @@
 		"iS": 48754,
 		"oA": 1,
 		"oAP": "\/dist\/img\/drawings\/sanguine\/duck-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/drawings\/sanguine\/english\/duck-1.jpg": {
-		"ft": 16384,
-		"iS": 73756,
-		"oA": 1,
-		"oAP": "\/dist\/img\/drawings\/sanguine\/english\/duck-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/drawings\/sanguine\/english\/duck-2.jpg": {
-		"ft": 16384,
-		"iS": 32028,
-		"oA": 1,
-		"oAP": "\/dist\/img\/drawings\/sanguine\/english\/duck-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/drawings\/sanguine\/english\/duck-3.jpg": {
-		"ft": 16384,
-		"iS": 48754,
-		"oA": 1,
-		"oAP": "\/dist\/img\/drawings\/sanguine\/english\/duck-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/drawings\/sanguine\/english\/nude-1.jpg": {
-		"ft": 16384,
-		"iS": 281893,
-		"oA": 1,
-		"oAP": "\/dist\/img\/drawings\/sanguine\/english\/nude-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/drawings\/sanguine\/english\/nude-2.jpg": {
-		"ft": 16384,
-		"iS": 335208,
-		"oA": 1,
-		"oAP": "\/dist\/img\/drawings\/sanguine\/english\/nude-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/drawings\/sanguine\/english\/rabbit-1.jpg": {
-		"ft": 16384,
-		"iS": 71895,
-		"oA": 1,
-		"oAP": "\/dist\/img\/drawings\/sanguine\/english\/rabbit-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -8340,18 +8273,18 @@
 		"oAP": "\/src\/partials\/eng-header-paintings.html",
 		"oF": 0
 		},
+	"\/src\/partials\/eng-header-sarton.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/partials\/eng-header-sarton.html",
+		"oF": 0
+		},
 	"\/src\/partials\/eng-header.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/partials\/eng-header.html",
-		"oF": 0
-		},
-	"\/src\/partials\/eng-sarton.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/partials\/eng-sarton.html",
 		"oF": 0
 		},
 	"\/src\/partials\/google-tracking-id.html": {
