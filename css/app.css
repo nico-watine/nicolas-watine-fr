@@ -5242,9 +5242,6 @@ header.header {
 .galleryNav {
   border-bottom: 0.1875rem solid #fff;
   background: #70848c;
-  z-index: 50;
-  position: sticky;
-  position: -webkit-sticky;
   top: 0; }
   .galleryNav .galleryTitle {
     font-size: 3rem;
@@ -5718,6 +5715,35 @@ header.header {
 
 @media print, screen and (min-width: 64em) {
   .galleryPage#venice .subCategory-heading {
+    font-size: 4.25rem; } }
+
+.galleryPage#drawings .artCard-grid {
+  padding-bottom: 0; }
+
+.galleryPage#drawings .artCard-grid#sanguine-charcoal-chalk {
+  padding-top: 1.5625rem; }
+
+.galleryPage#drawings .artCard-grid#sanguine,
+.galleryPage#drawings .artCard-grid#black-or-color-pencil {
+  padding-top: 6.25rem; }
+
+.galleryPage#drawings .subCategory-heading {
+  margin-bottom: 1.5625rem;
+  font-size: 2.125rem; }
+
+@media print, screen and (min-width: 40em) {
+  .galleryPage#drawings .galleryTitle {
+    font-size: 4.25rem; }
+  .galleryPage#drawings .artCard-grid#sanguine,
+  .galleryPage#drawings .artCard-grid#black-or-color-pencil {
+    padding-top: 8.125rem; }
+  .galleryPage#drawings .subCategory-heading {
+    font-size: 2.625rem; } }
+
+@media screen and (min-width: 70em) {
+  .galleryPage#drawings .galleryTitle {
+    font-size: 6.875rem; }
+  .galleryPage#drawings .subCategory-heading {
     font-size: 4.25rem; } }
 
 .inline {
