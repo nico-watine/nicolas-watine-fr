@@ -34,7 +34,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">80 x 80 cm</p>
+				<p class="dimensions">73 x 60 cm</p>
 			</div>
 		</div>
 	</div>
@@ -45,7 +45,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">80 x 80 cm</p>
+				<p class="dimensions">50 x 40 cm</p>
 			</div>
 		</div>
 	</div>
@@ -56,7 +56,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">92 x 73 cm</p>
+				<p class="dimensions">65 x 54 cm</p>
 			</div>
 		</div>
 	</div>
@@ -67,7 +67,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">80 x 80 cm</p>
+				<p class="dimensions">50 x 40 cm</p>
 			</div>
 		</div>
 	</div>
@@ -78,7 +78,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">80 x 80 cm</p>
+				<p class="dimensions">73 x 60 cm</p>
 			</div>
 		</div>
 	</div>
@@ -89,7 +89,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">80 x 80 cm</p>
+				<p class="dimensions">65 x 54 cm</p>
 			</div>
 		</div>
 	</div>
@@ -100,7 +100,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">80 x 80 cm</p>
+				<p class="dimensions">40 x 50 cm</p>
 			</div>
 		</div>
 	</div>
@@ -111,7 +111,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">92 x 73 cm</p>
+				<p class="dimensions">40 x 40 cm</p>
 			</div>
 		</div>
 	</div>
@@ -122,7 +122,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">80 x 80 cm</p>
+				<p class="dimensions">50 x 50 cm</p>
 			</div>
 		</div>
 	</div>
@@ -133,7 +133,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">92 x 73 cm</p>
+				<p class="dimensions">100 x 100 cm</p>
 			</div>
 		</div>
 	</div>
@@ -144,7 +144,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">80 x 80 cm</p>
+				<p class="dimensions">33 x 41 cm</p>
 			</div>
 		</div>
 	</div>
@@ -155,7 +155,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">80 x 80 cm</p>
+				<p class="dimensions">60 x 73 cm</p>
 			</div>
 		</div>
 	</div>
