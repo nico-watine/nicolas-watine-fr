@@ -7,7 +7,7 @@ og-description:
 og-image:
 body-id: venice
 body-class: galleryPage
-layout: eng-default
+layout: eng-paintings
 ---
 <div class="row galleryNav">
 	<div class="columns">

@@ -5168,12 +5168,27 @@ header.header {
 .mainNav {
   background: rgba(112, 132, 140, 0.3); }
   .mainNav a {
-    color: #0a0a0a; }
+    color: #0a0a0a;
+    border-right: 0.4375rem solid transparent; }
     .mainNav a:hover {
-      text-decoration: underline; }
+      text-decoration: underline;
+      border-right: 0.4375rem solid #70848c; }
+  .mainNav a.active {
+    text-decoration: underline;
+    font-weight: bold;
+    border-right: 0.4375rem solid #70848c; }
   @media print, screen and (min-width: 40em) {
     .mainNav {
-      background: none; } }
+      background: none; }
+      .mainNav a {
+        border-bottom: 0.25rem solid transparent;
+        border-right: 0; }
+        .mainNav a:hover {
+          border-bottom: 0.25rem solid #70848c;
+          border-right: 0; }
+      .mainNav a.active {
+        border-bottom: 0.25rem solid #70848c;
+        border-right: 0; } }
 
 @media screen and (max-width: 39.9375em) {
   .no-js .mainNav {
