@@ -4629,6 +4629,1561 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/dist\/.htaccess": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/.htaccess",
+		"oF": 0
+		},
+	"\/dist\/403.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/403.html",
+		"oF": 0
+		},
+	"\/dist\/404.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/404.html",
+		"oF": 0
+		},
+	"\/dist\/css\/app.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/css\/app-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/dist\/drawings\/black-or-color-pencil.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/drawings\/black-or-color-pencil.php",
+		"oF": 0
+		},
+	"\/dist\/drawings\/sanguine-charcoal-chalk.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/drawings\/sanguine-charcoal-chalk.php",
+		"oF": 0
+		},
+	"\/dist\/drawings\/sanguine.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/drawings\/sanguine.php",
+		"oF": 0
+		},
+	"\/dist\/eng\/drawings.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/eng\/drawings.php",
+		"oF": 0
+		},
+	"\/dist\/eng\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/eng\/index.php",
+		"oF": 0
+		},
+	"\/dist\/eng\/paintings.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/eng\/paintings.php",
+		"oF": 0
+		},
+	"\/dist\/eng\/paintings\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/eng\/paintings\/index.php",
+		"oF": 0
+		},
+	"\/dist\/eng\/paintings\/landscapes.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/eng\/paintings\/landscapes.php",
+		"oF": 0
+		},
+	"\/dist\/eng\/paintings\/seascapes.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/eng\/paintings\/seascapes.php",
+		"oF": 0
+		},
+	"\/dist\/eng\/paintings\/still-life.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/eng\/paintings\/still-life.php",
+		"oF": 0
+		},
+	"\/dist\/eng\/paintings\/venice.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/eng\/paintings\/venice.php",
+		"oF": 0
+		},
+	"\/dist\/gallery.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/gallery.php",
+		"oF": 0
+		},
+	"\/dist\/humans.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/humans.txt",
+		"oF": 0
+		},
+	"\/dist\/img\/assets\/linen.jpg": {
+		"ft": 16384,
+		"iS": 84122,
+		"oA": 1,
+		"oAP": "\/dist\/img\/assets\/linen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/assets\/spacer.png": {
+		"ft": 32768,
+		"iS": 71,
+		"oA": 1,
+		"oAP": "\/dist\/img\/assets\/spacer.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/black-color-pencil\/nude-1.jpg": {
+		"ft": 16384,
+		"iS": 268083,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/black-color-pencil\/nude-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/black-color-pencil\/portrait-1.jpg": {
+		"ft": 16384,
+		"iS": 90629,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/black-color-pencil\/portrait-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/black-color-pencil\/portrait-2.jpg": {
+		"ft": 16384,
+		"iS": 78645,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/black-color-pencil\/portrait-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/black-color-pencil\/tree-1.jpg": {
+		"ft": 16384,
+		"iS": 152370,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/black-color-pencil\/tree-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/black-color-pencil\/tree-2.jpg": {
+		"ft": 16384,
+		"iS": 114706,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/black-color-pencil\/tree-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-1.jpg": {
+		"ft": 16384,
+		"iS": 83377,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-10.jpg": {
+		"ft": 16384,
+		"iS": 71253,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-11.jpg": {
+		"ft": 16384,
+		"iS": 77176,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-12.jpg": {
+		"ft": 16384,
+		"iS": 83598,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-13.jpg": {
+		"ft": 16384,
+		"iS": 268363,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-13.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-14.jpg": {
+		"ft": 16384,
+		"iS": 334345,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-14.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-15.jpg": {
+		"ft": 16384,
+		"iS": 239946,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-15.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-2.jpg": {
+		"ft": 16384,
+		"iS": 80777,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-3.jpg": {
+		"ft": 16384,
+		"iS": 75027,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-4.jpg": {
+		"ft": 16384,
+		"iS": 64530,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-5.jpg": {
+		"ft": 16384,
+		"iS": 74050,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-6.jpg": {
+		"ft": 16384,
+		"iS": 78345,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-7.jpg": {
+		"ft": 16384,
+		"iS": 77176,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-8.jpg": {
+		"ft": 16384,
+		"iS": 83833,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-9.jpg": {
+		"ft": 16384,
+		"iS": 63925,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine-charcoal-chalk\/portrait-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/duck-1.jpg": {
+		"ft": 16384,
+		"iS": 73756,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/duck-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/duck-2.jpg": {
+		"ft": 16384,
+		"iS": 32028,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/duck-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/duck-3.jpg": {
+		"ft": 16384,
+		"iS": 48754,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/duck-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/english\/duck-1.jpg": {
+		"ft": 16384,
+		"iS": 73756,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/english\/duck-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/english\/duck-2.jpg": {
+		"ft": 16384,
+		"iS": 32028,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/english\/duck-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/english\/duck-3.jpg": {
+		"ft": 16384,
+		"iS": 48754,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/english\/duck-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/english\/nude-1.jpg": {
+		"ft": 16384,
+		"iS": 281893,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/english\/nude-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/english\/nude-2.jpg": {
+		"ft": 16384,
+		"iS": 335208,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/english\/nude-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/english\/rabbit-1.jpg": {
+		"ft": 16384,
+		"iS": 71895,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/english\/rabbit-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/nude-1.jpg": {
+		"ft": 16384,
+		"iS": 281893,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/nude-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/nude-2.jpg": {
+		"ft": 16384,
+		"iS": 335208,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/nude-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/rabbit-1.jpg": {
+		"ft": 16384,
+		"iS": 71895,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/rabbit-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/featured-exhibitions\/featuredExhibitions-background.png": {
+		"ft": 32768,
+		"iS": 2607677,
+		"oA": 1,
+		"oAP": "\/dist\/img\/featured-exhibitions\/featuredExhibitions-background.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/header\/watineDetail.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/header\/watineDetail.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/index\/sections\/drawings\/drawings-banner-background.jpg": {
+		"ft": 16384,
+		"iS": 163139,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/sections\/drawings\/drawings-banner-background.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/nicolas-watine-atelier.jpg": {
+		"ft": 16384,
+		"iS": 92149,
+		"oA": 1,
+		"oAP": "\/dist\/img\/nicolas-watine-atelier.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/landscapes\/landscapes-1.jpg": {
+		"ft": 16384,
+		"iS": 43224,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/landscapes\/landscapes-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/landscapes\/landscapes-2.jpg": {
+		"ft": 16384,
+		"iS": 33193,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/landscapes\/landscapes-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/landscapes\/landscapes-3.jpg": {
+		"ft": 16384,
+		"iS": 30798,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/landscapes\/landscapes-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/landscapes\/landscapes-4.jpg": {
+		"ft": 16384,
+		"iS": 46079,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/landscapes\/landscapes-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-1.jpg": {
+		"ft": 16384,
+		"iS": 16867,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-10.jpg": {
+		"ft": 16384,
+		"iS": 160747,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-11.jpg": {
+		"ft": 16384,
+		"iS": 136460,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-12.jpg": {
+		"ft": 16384,
+		"iS": 33448,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-13.jpg": {
+		"ft": 16384,
+		"iS": 128814,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-13.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-14.jpg": {
+		"ft": 16384,
+		"iS": 148331,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-14.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-15.jpg": {
+		"ft": 16384,
+		"iS": 110504,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-15.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-16.jpg": {
+		"ft": 16384,
+		"iS": 254756,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-16.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-17.jpg": {
+		"ft": 16384,
+		"iS": 107001,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-17.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-18.jpg": {
+		"ft": 16384,
+		"iS": 157477,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-18.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-19.jpg": {
+		"ft": 16384,
+		"iS": 146345,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-19.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-2.jpg": {
+		"ft": 16384,
+		"iS": 46181,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-20.jpg": {
+		"ft": 16384,
+		"iS": 127371,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-20.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-21.jpg": {
+		"ft": 16384,
+		"iS": 251049,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-21.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-22.jpg": {
+		"ft": 16384,
+		"iS": 109803,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-22.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-23.jpg": {
+		"ft": 16384,
+		"iS": 188517,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-23.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-24.jpg": {
+		"ft": 16384,
+		"iS": 178638,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-24.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-25.jpg": {
+		"ft": 16384,
+		"iS": 190206,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-25.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-26.jpg": {
+		"ft": 16384,
+		"iS": 215147,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-26.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-27.jpg": {
+		"ft": 16384,
+		"iS": 163939,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-27.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-28.jpg": {
+		"ft": 16384,
+		"iS": 149233,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-28.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-29.jpg": {
+		"ft": 16384,
+		"iS": 149233,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-29.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-3.jpg": {
+		"ft": 16384,
+		"iS": 19538,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-30.jpg": {
+		"ft": 16384,
+		"iS": 189672,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-30.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-31.jpg": {
+		"ft": 16384,
+		"iS": 264024,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-31.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-32.jpg": {
+		"ft": 16384,
+		"iS": 171013,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-32.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-33.jpg": {
+		"ft": 16384,
+		"iS": 130932,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-33.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-34.jpg": {
+		"ft": 16384,
+		"iS": 254789,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-34.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-35.jpg": {
+		"ft": 16384,
+		"iS": 139378,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-35.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-36.jpg": {
+		"ft": 16384,
+		"iS": 201795,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-36.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-37.jpg": {
+		"ft": 16384,
+		"iS": 250751,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-37.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-38.jpg": {
+		"ft": 16384,
+		"iS": 141028,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-38.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-39.jpg": {
+		"ft": 16384,
+		"iS": 190314,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-39.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-4.jpg": {
+		"ft": 16384,
+		"iS": 27443,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-40.jpg": {
+		"ft": 16384,
+		"iS": 202715,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-40.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-41.jpg": {
+		"ft": 16384,
+		"iS": 192102,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-41.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-42.jpg": {
+		"ft": 16384,
+		"iS": 222286,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-42.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-43.jpg": {
+		"ft": 16384,
+		"iS": 258728,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-43.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-44.jpg": {
+		"ft": 16384,
+		"iS": 173723,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-44.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-45.jpg": {
+		"ft": 16384,
+		"iS": 253157,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-45.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-46.jpg": {
+		"ft": 16384,
+		"iS": 259170,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-46.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-47.jpg": {
+		"ft": 16384,
+		"iS": 250751,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-47.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-5.jpg": {
+		"ft": 16384,
+		"iS": 28261,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-6.jpg": {
+		"ft": 16384,
+		"iS": 17557,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-7.jpg": {
+		"ft": 16384,
+		"iS": 22557,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-8.jpg": {
+		"ft": 16384,
+		"iS": 34696,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/seascapes\/seascapes-9.jpg": {
+		"ft": 16384,
+		"iS": 130526,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/seascapes\/seascapes-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-1.jpg": {
+		"ft": 16384,
+		"iS": 23618,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-10.jpg": {
+		"ft": 16384,
+		"iS": 172712,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-11.jpg": {
+		"ft": 16384,
+		"iS": 222151,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-12.jpg": {
+		"ft": 16384,
+		"iS": 240988,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-13.jpg": {
+		"ft": 16384,
+		"iS": 188005,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-13.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-14.jpg": {
+		"ft": 16384,
+		"iS": 277062,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-14.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-15.jpg": {
+		"ft": 16384,
+		"iS": 54556,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-15.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-16.jpg": {
+		"ft": 16384,
+		"iS": 45931,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-16.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-17.jpg": {
+		"ft": 16384,
+		"iS": 50096,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-17.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-18.jpg": {
+		"ft": 16384,
+		"iS": 100801,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-18.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-19.jpg": {
+		"ft": 16384,
+		"iS": 82738,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-19.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-2.jpg": {
+		"ft": 16384,
+		"iS": 53136,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-20.jpg": {
+		"ft": 16384,
+		"iS": 62166,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-20.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-21.jpg": {
+		"ft": 16384,
+		"iS": 40995,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-21.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-22.jpg": {
+		"ft": 16384,
+		"iS": 302915,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-22.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-3.jpg": {
+		"ft": 16384,
+		"iS": 51485,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-4.jpg": {
+		"ft": 16384,
+		"iS": 30355,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-5.jpg": {
+		"ft": 16384,
+		"iS": 71748,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-6.jpg": {
+		"ft": 16384,
+		"iS": 299225,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-7.jpg": {
+		"ft": 16384,
+		"iS": 275114,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-8.jpg": {
+		"ft": 16384,
+		"iS": 253366,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/still-life\/still-life-9.jpg": {
+		"ft": 16384,
+		"iS": 179580,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/still-life\/still-life-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-1.jpg": {
+		"ft": 16384,
+		"iS": 122432,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-10.jpg": {
+		"ft": 16384,
+		"iS": 281632,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-11.jpg": {
+		"ft": 16384,
+		"iS": 354329,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-2.jpg": {
+		"ft": 16384,
+		"iS": 292346,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-3.jpg": {
+		"ft": 16384,
+		"iS": 58730,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-4.jpg": {
+		"ft": 16384,
+		"iS": 206462,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-5.jpg": {
+		"ft": 16384,
+		"iS": 83111,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-6.jpg": {
+		"ft": 16384,
+		"iS": 76371,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-7.jpg": {
+		"ft": 16384,
+		"iS": 102411,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-8.jpg": {
+		"ft": 16384,
+		"iS": 94092,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-9.jpg": {
+		"ft": 16384,
+		"iS": 298825,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/venice\/canvas\/venice-canvas-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/venice\/paper\/venice-paper-1.jpg": {
+		"ft": 16384,
+		"iS": 61483,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/venice\/paper\/venice-paper-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/venice\/paper\/venice-paper-2.jpg": {
+		"ft": 16384,
+		"iS": 106606,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/venice\/paper\/venice-paper-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/venice\/paper\/venice-paper-3.jpg": {
+		"ft": 16384,
+		"iS": 108693,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/venice\/paper\/venice-paper-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/venice\/paper\/venice-paper-4.jpg": {
+		"ft": 16384,
+		"iS": 98430,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/venice\/paper\/venice-paper-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/venice\/paper\/venice-paper-5.jpg": {
+		"ft": 16384,
+		"iS": 100956,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/venice\/paper\/venice-paper-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/venice\/paper\/venice-paper-6.jpg": {
+		"ft": 16384,
+		"iS": 97315,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/venice\/paper\/venice-paper-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/sarton\/sarton-1.jpg": {
+		"ft": 16384,
+		"iS": 237330,
+		"oA": 1,
+		"oAP": "\/dist\/img\/sarton\/sarton-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/sarton\/sarton-2.jpg": {
+		"ft": 16384,
+		"iS": 204023,
+		"oA": 1,
+		"oAP": "\/dist\/img\/sarton\/sarton-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/sarton\/sarton-3.jpg": {
+		"ft": 16384,
+		"iS": 343161,
+		"oA": 1,
+		"oAP": "\/dist\/img\/sarton\/sarton-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/sarton\/sarton-4.jpg": {
+		"ft": 16384,
+		"iS": 205680,
+		"oA": 1,
+		"oAP": "\/dist\/img\/sarton\/sarton-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/sarton\/sarton-5.jpg": {
+		"ft": 16384,
+		"iS": 199984,
+		"oA": 1,
+		"oAP": "\/dist\/img\/sarton\/sarton-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/sarton\/sarton-6.jpg": {
+		"ft": 16384,
+		"iS": 62188,
+		"oA": 1,
+		"oAP": "\/dist\/img\/sarton\/sarton-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/sarton\/sarton-7.jpg": {
+		"ft": 16384,
+		"iS": 54371,
+		"oA": 1,
+		"oAP": "\/dist\/img\/sarton\/sarton-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/sarton\/sarton-8.jpg": {
+		"ft": 16384,
+		"iS": 54353,
+		"oA": 1,
+		"oAP": "\/dist\/img\/sarton\/sarton-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/sarton\/sarton-9.jpg": {
+		"ft": 16384,
+		"iS": 44970,
+		"oA": 1,
+		"oAP": "\/dist\/img\/sarton\/sarton-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/sarton\/sarton-medium.jpg": {
+		"ft": 16384,
+		"iS": 89896,
+		"oA": 1,
+		"oAP": "\/dist\/img\/sarton\/sarton-medium.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/index.php",
+		"oF": 0
+		},
+	"\/dist\/js\/app-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/app-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/dist\/js\/custom\/scripts-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/js\/scripts-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/dist\/js\/vendor\/jquery\/2-2-4\/jquery-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/js\/vendor\/jquery\/jquery-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/dist\/php\/autoVer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/php\/autoVer.php",
+		"oF": 0
+		},
+	"\/dist\/robots.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/robots.txt",
+		"oF": 0
+		},
 	"\/gulpfile.babel.js": {
 		"ft": 64,
 		"ma": 0,
@@ -6692,6 +8247,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/pages\/eng\/index.php",
+		"oF": 0
+		},
+	"\/src\/pages\/eng\/paintings\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/eng\/paintings\/index.php",
 		"oF": 0
 		},
 	"\/src\/pages\/eng\/paintings\/landscapes.php": {
