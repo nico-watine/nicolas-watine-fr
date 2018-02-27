@@ -10,7 +10,7 @@ body-class: galleryPage
 layout: eng-drawings
 ---
 <div class="sticky-container" data-sticky-container>
-	<div class="sticky" data-sticky data-top-anchor="350" data-margin-top="0" style="width: 100%;">
+	<div class="sticky" data-sticky-on="small" data-sticky data-top-anchor="350" data-margin-top="0" style="width: 100%;">
 		<div class="row galleryNav">
 			<div class="columns">
 				<h1 class="galleryTitle white serif margin-0">Drawings</h1>
