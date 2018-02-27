@@ -10,7 +10,7 @@
 
 		a:hover,
 		a.active {
-			border-bottom: 2px solid #fff;
+			border-bottom: rem-calc(2) solid #fff;
 		}
 	}
 }
