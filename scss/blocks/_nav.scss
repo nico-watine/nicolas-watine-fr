@@ -13,14 +13,14 @@
 
 		&:hover {
 			text-decoration: underline;
-			border-right: rem-calc(7) solid #000;
+			border-right: rem-calc(7) solid #70848c;
 		}
 	}
 
 	a.active {
 		text-decoration: underline;
 		font-weight: bold;
-		border-right: rem-calc(7) solid #000;
+		border-right: rem-calc(7) solid #70848c;
 	}
 
 	@include breakpoint(medium) {
@@ -31,13 +31,13 @@
 			border-right: 0;
 
 			&:hover {
-				border-bottom: rem-calc(4) solid #000;
+				border-bottom: rem-calc(4) solid #70848c;
 				border-right: 0;
 			}
 		}
 
 		a.active {
-			border-bottom: rem-calc(4) solid #000;
+			border-bottom: rem-calc(4) solid #70848c;
 			border-right: 0;
 		}
 	}
