@@ -166,7 +166,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">80 x 80 cm</p>
+				<p class="dimensions">81 x 100 cm</p>
 			</div>
 		</div>
 	</div>
@@ -177,7 +177,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">92 x 73 cm</p>
+				<p class="dimensions">50 x 61 cm</p>
 			</div>
 		</div>
 	</div>
@@ -188,7 +188,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">80 x 80 cm</p>
+				<p class="dimensions">50 x 50 cm</p>
 			</div>
 		</div>
 	</div>
@@ -199,7 +199,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">80 x 80 cm</p>
+				<p class="dimensions">50 x 40 cm</p>
 			</div>
 		</div>
 	</div>
@@ -210,7 +210,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">80 x 80 cm</p>
+				<p class="dimensions">100 x 81 cm</p>
 			</div>
 		</div>
 	</div>
@@ -221,7 +221,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">92 x 73 cm</p>
+				<p class="dimensions">80 x 80 cm</p>
 			</div>
 		</div>
 	</div>
@@ -232,7 +232,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">80 x 80 cm</p>
+				<p class="dimensions">50 x 50 cm</p>
 			</div>
 		</div>
 	</div>
@@ -243,7 +243,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">80 x 80 cm</p>
+				<p class="dimensions">61 x 50 cm</p>
 			</div>
 		</div>
 	</div>
@@ -254,7 +254,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">80 x 80 cm</p>
+				<p class="dimensions">89 x 116 cm</p>
 			</div>
 		</div>
 	</div>
@@ -265,7 +265,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions">92 x 73 cm</p>
+				<p class="dimensions">60 x 60 cm</p>
 			</div>
 		</div>
 	</div>
