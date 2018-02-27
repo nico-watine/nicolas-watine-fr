@@ -114,7 +114,7 @@ layout: eng-default
 			<div class="proseWrap">
 				<div class="prose padding-XY">
 					<h2 class="serif text-center white line-height-1 margin-0">Sarton Manor &amp; Gardens</h2>
-					<a href="#0" class="h4 white caps">Visit</a>
+					<a href="/eng/sarton" class="h4 white caps">Visit</a>
 				</div>
 				<img class="show-for-medium spacer" src="/img/assets/spacer.png">
 			</div>
