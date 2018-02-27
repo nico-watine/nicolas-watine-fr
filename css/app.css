@@ -5732,10 +5732,17 @@ header.header {
   font-size: 2.125rem; }
 
 @media print, screen and (min-width: 40em) {
+  .galleryPage#drawings .galleryTitle {
+    font-size: 4.25rem; }
+  .galleryPage#drawings .artCard-grid#sanguine,
+  .galleryPage#drawings .artCard-grid#black-or-color-pencil {
+    padding-top: 8.125rem; }
   .galleryPage#drawings .subCategory-heading {
     font-size: 2.625rem; } }
 
-@media print, screen and (min-width: 64em) {
+@media screen and (min-width: 70em) {
+  .galleryPage#drawings .galleryTitle {
+    font-size: 6.875rem; }
   .galleryPage#drawings .subCategory-heading {
     font-size: 4.25rem; } }
 
