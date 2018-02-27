@@ -70,9 +70,10 @@
 	}
 
 	@include breakpoint(large) {
-		h1 {
+		.galleryTitle {
 			display: inline-block;
-			line-height: 100px;
+			line-height: rem-calc(130);
+			font-size: $h1-serif-medium;
 		}
 
 		.categoryNav {
@@ -82,7 +83,7 @@
 
 		.menu {
 			li {
-				height: 100px;
+				height: rem-calc(130);
 			}
 		}
 	}
