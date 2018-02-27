@@ -351,8 +351,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Vague</h4>
+				<p class="dimensions">65 x 54 cm</p>
 			</div>
 		</div>
 	</div>
@@ -364,8 +364,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Vague</h4>
+				<p class="dimensions">40 x 40 cm</p>
 			</div>
 		</div>
 	</div>
@@ -377,8 +377,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Tentes à Rayures</h4>
+				<p class="dimensions">100 x 81 cm</p>
 			</div>
 		</div>
 	</div>
@@ -390,21 +390,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
-			</div>
-		</div>
-	</div>
-	<div class="column">
-		<div class="artCard">
-			<div class="artCard-image">
-				<a href="/img/paintings/seascapes/seascapes-29.jpg">
-					<img class="absolute-center" src="/img/paintings/seascapes/seascapes-29.jpg" alt="Artist Nicolas Watine Seascape Painting">
-				</a>
-			</div>
-			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Vague</h4>
+				<p class="dimensions">130 x 97 cm</p>
 			</div>
 		</div>
 	</div>
@@ -417,7 +404,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<p class="dimensions">143 x 131 cm</p>
 			</div>
 		</div>
 	</div>
@@ -429,8 +416,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Voilier</h4>
+				<p class="dimensions">60 x 73 cm</p>
 			</div>
 		</div>
 	</div>
@@ -442,8 +429,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Voilier</h4>
+				<p class="dimensions">73 x 60 cm</p>
 			</div>
 		</div>
 	</div>
@@ -455,8 +442,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Tente de Plage</h4>
+				<p class="dimensions">73 x 54 cm</p>
 			</div>
 		</div>
 	</div>
