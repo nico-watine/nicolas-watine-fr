@@ -27,6 +27,7 @@ layout: eng-default
 	</div>
 </div>
 <div class="row artCard-grid small-up-1 medium-up-2 large-up-4">
+	<!-- Not present on old site :: -->
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
@@ -35,7 +36,7 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
+				<h4 class="title">NOT PRESENT</h4>
 				<p class="dimensions"># x # cm</p>
 			</div>
 		</div>
@@ -48,8 +49,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Vagues</h4>
+				<p class="dimensions">100 x 100 cm</p>
 			</div>
 		</div>
 	</div>
@@ -61,8 +62,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Vagues</h4>
+				<p class="dimensions">100 x 50 cm</p>
 			</div>
 		</div>
 	</div>
@@ -75,7 +76,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<p class="dimensions">150 x 110 cm</p>
 			</div>
 		</div>
 	</div>
@@ -87,8 +88,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Turquoise</h4>
+				<p class="dimensions">92 x 73 cm</p>
 			</div>
 		</div>
 	</div>
@@ -100,8 +101,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Course de Chars à Voile</h4>
+				<p class="dimensions">73 x 60 cm</p>
 			</div>
 		</div>
 	</div>
@@ -113,8 +114,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Chars à Voile</h4>
+				<p class="dimensions">100 x 100 cm</p>
 			</div>
 		</div>
 	</div>
@@ -126,8 +127,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Vagues</h4>
+				<p class="dimensions">81 x 65 cm</p>
 			</div>
 		</div>
 	</div>
@@ -139,8 +140,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Le Bateau Rouge</h4>
+				<p class="dimensions">130 x 97 cm</p>
 			</div>
 		</div>
 	</div>
@@ -152,8 +153,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Course de Chars à Voile</h4>
+				<p class="dimensions">73 x 60 cm</p>
 			</div>
 		</div>
 	</div>
@@ -165,8 +166,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Vague</h4>
+				<p class="dimensions">61 x 50 cm</p>
 			</div>
 		</div>
 	</div>
@@ -178,8 +179,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Vague</h4>
+				<p class="dimensions">73 x 60 cm</p>
 			</div>
 		</div>
 	</div>
@@ -192,10 +193,11 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<p class="dimensions">146 x 89 cm</p>
 			</div>
 		</div>
 	</div>
+	<!-- Not present on old site :: -->
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
@@ -204,11 +206,12 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
+				<h4 class="title">NOT PRESENT</h4>
 				<p class="dimensions"># x # cm</p>
 			</div>
 		</div>
 	</div>
+	<!-- Not present on old site :: -->
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
@@ -217,7 +220,7 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
+				<h4 class="title">NOT PRESENT</h4>
 				<p class="dimensions"># x # cm</p>
 			</div>
 		</div>
@@ -230,8 +233,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Chars à Voile</h4>
+				<p class="dimensions">81 x 100 cm</p>
 			</div>
 		</div>
 	</div>
@@ -243,8 +246,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Course de Chars à Voile</h4>
+				<p class="dimensions">130 x 81 cm</p>
 			</div>
 		</div>
 	</div>
@@ -256,8 +259,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Char à Voile Rouge</h4>
+				<p class="dimensions">81 x 65 cm</p>
 			</div>
 		</div>
 	</div>
@@ -269,8 +272,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Chars à Voile Bleus</h4>
+				<p class="dimensions">130 x 97 cm</p>
 			</div>
 		</div>
 	</div>
@@ -282,8 +285,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Tempête</h4>
+				<p class="dimensions">100 x 81 cm</p>
 			</div>
 		</div>
 	</div>
@@ -295,8 +298,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Vague</h4>
+				<p class="dimensions">54 x 65 cm</p>
 			</div>
 		</div>
 	</div>
@@ -308,11 +311,12 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Pâtés de Sable</h4>
+				<p class="dimensions">100 x 50 cm</p>
 			</div>
 		</div>
 	</div>
+	<!-- Not present on old site:: -->
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
@@ -321,7 +325,7 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
+				<h4 class="title">NOT PRESENT</h4>
 				<p class="dimensions"># x # cm</p>
 			</div>
 		</div>
@@ -334,8 +338,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Pâtés de Sable</h4>
+				<p class="dimensions">61 x 50 cm</p>
 			</div>
 		</div>
 	</div>
