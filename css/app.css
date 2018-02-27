@@ -5179,7 +5179,17 @@ header.header {
     border-bottom: 0.25rem solid #000; }
   @media print, screen and (min-width: 40em) {
     .mainNav {
-      background: none; } }
+      background: none; }
+      .mainNav a {
+        color: #0a0a0a;
+        border-bottom: 0.25rem solid transparent; }
+        .mainNav a:hover {
+          text-decoration: underline;
+          border-bottom: 0.25rem solid #000; }
+      .mainNav a.active {
+        text-decoration: underline;
+        font-weight: bold;
+        border-bottom: 0.25rem solid #000; } }
 
 @media screen and (max-width: 39.9375em) {
   .no-js .mainNav {
