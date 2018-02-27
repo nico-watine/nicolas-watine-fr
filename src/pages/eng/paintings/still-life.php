@@ -74,7 +74,7 @@ layout: eng-default
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/still-life/still-life-1.jpg" alt="">
+				<img class="absolute-center" src="/img/paintings/still-life/still-life-16.jpg" alt="">
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
@@ -85,7 +85,7 @@ layout: eng-default
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/still-life/still-life-2.jpg" alt="">
+				<img class="absolute-center" src="/img/paintings/still-life/still-life-17.jpg" alt="">
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
@@ -96,7 +96,18 @@ layout: eng-default
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/still-life/still-life-3.jpg" alt="">
+				<img class="absolute-center" src="/img/paintings/still-life/still-life-18.jpg" alt="">
+			</div>
+			<div class="artCard-prose">
+				<h4 class="title">Untitled</h4>
+				<p class="dimensions">80 x 80 cm</p>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<img class="absolute-center" src="/img/paintings/still-life/still-life-19.jpg" alt="">
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
@@ -107,7 +118,7 @@ layout: eng-default
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/still-life/still-life-4.jpg" alt="">
+				<img class="absolute-center" src="/img/paintings/still-life/still-life-20.jpg" alt="">
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
@@ -118,29 +129,7 @@ layout: eng-default
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/still-life/still-life-1.jpg" alt="">
-			</div>
-			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions">80 x 80 cm</p>
-			</div>
-		</div>
-	</div>
-	<div class="column">
-		<div class="artCard">
-			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/still-life/still-life-2.jpg" alt="">
-			</div>
-			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions">80 x 80 cm</p>
-			</div>
-		</div>
-	</div>
-	<div class="column">
-		<div class="artCard">
-			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/still-life/still-life-3.jpg" alt="">
+				<img class="absolute-center" src="/img/paintings/still-life/still-life-21.jpg" alt="">
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
@@ -151,7 +140,7 @@ layout: eng-default
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/still-life/still-life-4.jpg" alt="">
+				<img class="absolute-center" src="/img/paintings/still-life/still-life-22.jpg" alt="">
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
@@ -162,7 +151,7 @@ layout: eng-default
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/still-life/still-life-1.jpg" alt="">
+				<img class="absolute-center" src="/img/paintings/still-life/still-life-5.jpg" alt="">
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
@@ -173,7 +162,7 @@ layout: eng-default
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/still-life/still-life-2.jpg" alt="">
+				<img class="absolute-center" src="/img/paintings/still-life/still-life-6.jpg" alt="">
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
@@ -184,7 +173,7 @@ layout: eng-default
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/still-life/still-life-3.jpg" alt="">
+				<img class="absolute-center" src="/img/paintings/still-life/still-life-7.jpg" alt="">
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
@@ -195,7 +184,7 @@ layout: eng-default
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/still-life/still-life-4.jpg" alt="">
+				<img class="absolute-center" src="/img/paintings/still-life/still-life-8.jpg" alt="">
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
@@ -206,7 +195,7 @@ layout: eng-default
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/still-life/still-life-1.jpg" alt="">
+				<img class="absolute-center" src="/img/paintings/still-life/still-life-9.jpg" alt="">
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
@@ -217,7 +206,7 @@ layout: eng-default
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/still-life/still-life-2.jpg" alt="">
+				<img class="absolute-center" src="/img/paintings/still-life/still-life-10.jpg" alt="">
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
@@ -228,7 +217,7 @@ layout: eng-default
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/still-life/still-life-3.jpg" alt="">
+				<img class="absolute-center" src="/img/paintings/still-life/still-life-11.jpg" alt="">
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
@@ -239,7 +228,7 @@ layout: eng-default
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/still-life/still-life-4.jpg" alt="">
+				<img class="absolute-center" src="/img/paintings/still-life/still-life-12.jpg" alt="">
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
@@ -250,22 +239,33 @@ layout: eng-default
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/still-life/still-life-3.jpg" alt="">
+				<img class="absolute-center" src="/img/paintings/still-life/still-life-13.jpg" alt="">
+			</div>
+			<div class="artCard-prose">
+				<h4 class="title">Untitled</h4>
+				<p class="dimensions">80 x 80 cm</p>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<img class="absolute-center" src="/img/paintings/still-life/still-life-14.jpg" alt="">
+			</div>
+			<div class="artCard-prose">
+				<h4 class="title">Untitled</h4>
+				<p class="dimensions">80 x 80 cm</p>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<img class="absolute-center" src="/img/paintings/still-life/still-life-15.jpg" alt="">
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
 				<p class="dimensions">92 x 73 cm</p>
-			</div>
-		</div>
-	</div>
-	<div class="column">
-		<div class="artCard">
-			<div class="artCard-image">
-				<img class="absolute-center" src="/img/paintings/still-life/still-life-4.jpg" alt="">
-			</div>
-			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions">80 x 80 cm</p>
 			</div>
 		</div>
 	</div>
