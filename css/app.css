@@ -5217,7 +5217,8 @@ header.header {
   position: sticky;
   position: -webkit-sticky;
   top: 0; }
-  .galleryNav h1 {
+  .galleryNav .galleryTitle {
+    font-size: 3rem;
     vertical-align: top; }
   .galleryNav .categoryNav {
     background: rgba(240, 242, 242, 0.3);
@@ -5232,6 +5233,8 @@ header.header {
     font-weight: bold;
     border-left: 0.4375rem solid #fff; }
   @media print, screen and (min-width: 40em) {
+    .galleryNav .galleryTitle {
+      font-size: 4.25rem; }
     .galleryNav .categoryNav {
       background: transparent;
       margin-bottom: 0; }

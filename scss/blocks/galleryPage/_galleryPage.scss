@@ -14,7 +14,8 @@
 	position: -webkit-sticky;
 	top: 0;
 
-	h1 {
+	.galleryTitle {
+		font-size: $h2-serif;
 		vertical-align: top;
 	}
 
@@ -41,6 +42,9 @@
 	}
 
 	@include breakpoint(medium) {
+		.galleryTitle {
+			font-size: $h2-serif-medium;
+		}
 		.categoryNav {
 			background: transparent;
 			margin-bottom: 0;
