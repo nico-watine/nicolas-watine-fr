@@ -8116,6 +8116,13 @@
 		"oAP": "\/src\/layouts\/eng-default.html",
 		"oF": 0
 		},
+	"\/src\/layouts\/eng-drawings.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/layouts\/eng-drawings.html",
+		"oF": 0
+		},
 	"\/src\/layouts\/eng-paintings.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -8198,6 +8205,13 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/partials\/_notes.txt",
+		"oF": 0
+		},
+	"\/src\/partials\/eng-header-drawings.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/partials\/eng-header-drawings.html",
 		"oF": 0
 		},
 	"\/src\/partials\/eng-header-paintings.html": {
