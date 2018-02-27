@@ -26,7 +26,7 @@ layout: eng-default
 		</nav>
 	</div>
 </div>
-<div class="row artCard-grid small-up-1 medium-up-2 large-up-4">
+<div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4">
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
