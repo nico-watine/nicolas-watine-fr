@@ -1,6 +1,10 @@
 @import "../../_settings.scss";
 
 .galleryPage#drawings {
+	.artCard-grid {
+		padding-bottom: 0;
+	}
+	
 	.artCard-grid#sanguine-charcoal-chalk {
 		padding-top: rem-calc(25);
 	}

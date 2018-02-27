@@ -5717,6 +5717,9 @@ header.header {
   .galleryPage#venice .subCategory-heading {
     font-size: 4.25rem; } }
 
+.galleryPage#drawings .artCard-grid {
+  padding-bottom: 0; }
+
 .galleryPage#drawings .artCard-grid#sanguine-charcoal-chalk {
   padding-top: 1.5625rem; }
 
