@@ -559,8 +559,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Vague</h4>
+				<p class="dimensions">60 x 60 cm</p>
 			</div>
 		</div>
 	</div>
@@ -573,7 +573,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<p class="dimensions">73 x 92 cm</p>
 			</div>
 		</div>
 	</div>
@@ -585,8 +585,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Transparence</h4>
+				<p class="dimensions">61 x 50 cm</p>
 			</div>
 		</div>
 	</div>
@@ -599,7 +599,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<p class="dimensions">81 x 100 cm</p>
 			</div>
 		</div>
 	</div>
@@ -611,8 +611,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Char à Voile Bleu</h4>
+				<p class="dimensions">73 x 92 cm</p>
 			</div>
 		</div>
 	</div>
@@ -624,8 +624,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Vague</h4>
+				<p class="dimensions">40 x 40 cm</p>
 			</div>
 		</div>
 	</div>
