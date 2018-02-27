@@ -5687,6 +5687,10 @@ header.header {
   .galleryPage#venice .subCategory-heading {
     font-size: 2.625rem; } }
 
+@media print, screen and (min-width: 64em) {
+  .galleryPage#venice .subCategory-heading {
+    font-size: 4.25rem; } }
+
 .inline-block {
   display: inline-block; }
 
