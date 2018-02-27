@@ -1,11 +1,14 @@
 @import "../../_settings.scss";
 
 .galleryPage#drawings {
-	
-	// .artCard-grid#sanguine-charcoal-chalk,
-	// .artCard-grid#sanguine {
-	// 	padding: rem-calc(25) 0 0;
-	// }
+	.artCard-grid#sanguine-charcoal-chalk {
+		padding-top: rem-calc(25);
+	}
+
+	.artCard-grid#sanguine,
+	.artCard-grid#black-or-color-pencil {
+		padding-top: rem-calc(100);
+	}
 
 	// .artCard-grid#black-or-color-pencil {
 	// 	padding: rem-calc(25) 0 rem-calc(50);
