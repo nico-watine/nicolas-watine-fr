@@ -5717,20 +5717,11 @@ header.header {
   .galleryPage#venice .subCategory-heading {
     font-size: 4.25rem; } }
 
-.galleryPage#drawings .artCard-grid#sanguine-charcoal-chalk,
-.galleryPage#drawings .artCard-grid#sanguine {
-  padding: 1.5625rem 0 0; }
-
-.galleryPage#drawings .artCard-grid#black-or-color-pencil {
-  padding: 1.5625rem 0 3.125rem; }
-
 .galleryPage#drawings .subCategory-heading {
   margin-bottom: 1.5625rem;
   font-size: 2.125rem; }
 
 @media print, screen and (min-width: 40em) {
-  .galleryPage#drawings .artCard-grid#black-or-color-pencil {
-    padding-bottom: 6.25rem; }
   .galleryPage#drawings .subCategory-heading {
     font-size: 2.625rem; } }
 

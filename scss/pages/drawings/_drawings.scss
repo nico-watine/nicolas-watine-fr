@@ -2,14 +2,14 @@
 
 .galleryPage#drawings {
 	
-	.artCard-grid#sanguine-charcoal-chalk,
-	.artCard-grid#sanguine {
-		padding: rem-calc(25) 0 0;
-	}
+	// .artCard-grid#sanguine-charcoal-chalk,
+	// .artCard-grid#sanguine {
+	// 	padding: rem-calc(25) 0 0;
+	// }
 
-	.artCard-grid#black-or-color-pencil {
-		padding: rem-calc(25) 0 rem-calc(50);
-	}
+	// .artCard-grid#black-or-color-pencil {
+	// 	padding: rem-calc(25) 0 rem-calc(50);
+	// }
 
 	.subCategory-heading {
 		margin-bottom: rem-calc(25);
@@ -17,9 +17,9 @@
 	}
 
 	@include breakpoint(medium) {
-		.artCard-grid#black-or-color-pencil {
-			padding-bottom: rem-calc(100);
-		}
+		// .artCard-grid#black-or-color-pencil {
+		// 	padding-bottom: rem-calc(100);
+		// }
 
 		.subCategory-heading {
 			font-size: $h3-serif-medium;
