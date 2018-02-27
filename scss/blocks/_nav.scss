@@ -9,10 +9,18 @@
 
 	a {
 		color: $black;
+		border-bottom: rem-calc(4) solid transparent;
 
 		&:hover {
 			text-decoration: underline;
+			border-bottom: rem-calc(4) solid #000;
 		}
+	}
+
+	a.active {
+		text-decoration: underline;
+		font-weight: bold;
+		border-bottom: rem-calc(4) solid #000;
 	}
 
 	@include breakpoint(medium) {

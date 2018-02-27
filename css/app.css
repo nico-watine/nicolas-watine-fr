@@ -5168,9 +5168,15 @@ header.header {
 .mainNav {
   background: rgba(112, 132, 140, 0.3); }
   .mainNav a {
-    color: #0a0a0a; }
+    color: #0a0a0a;
+    border-bottom: 0.25rem solid transparent; }
     .mainNav a:hover {
-      text-decoration: underline; }
+      text-decoration: underline;
+      border-bottom: 0.25rem solid #000; }
+  .mainNav a.active {
+    text-decoration: underline;
+    font-weight: bold;
+    border-bottom: 0.25rem solid #000; }
   @media print, screen and (min-width: 40em) {
     .mainNav {
       background: none; } }
