@@ -14,7 +14,8 @@
 	position: -webkit-sticky;
 	top: 0;
 
-	h1 {
+	.galleryTitle {
+		font-size: $h2-serif;
 		vertical-align: top;
 	}
 
@@ -41,6 +42,9 @@
 	}
 
 	@include breakpoint(medium) {
+		.galleryTitle {
+			font-size: $h2-serif-medium;
+		}
 		.categoryNav {
 			background: transparent;
 			margin-bottom: 0;
@@ -66,9 +70,10 @@
 	}
 
 	@include breakpoint(large) {
-		h1 {
+		.galleryTitle {
 			display: inline-block;
-			line-height: 100px;
+			line-height: rem-calc(130);
+			font-size: $h1-serif-medium;
 		}
 
 		.categoryNav {
@@ -78,7 +83,7 @@
 
 		.menu {
 			li {
-				height: 100px;
+				height: rem-calc(130);
 			}
 		}
 	}
