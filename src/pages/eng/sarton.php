@@ -9,16 +9,12 @@ body-id: sarton
 body-class: galleryPage
 layout: eng-sarton
 ---
-<div class="sticky-container" data-sticky-container>
-	<div class="sticky" data-sticky-on="small" data-sticky data-top-anchor="350" data-margin-top="0" style="width: 100%;">
-		<div class="row galleryNav">
-			<div class="columns">
-				<h1 class="galleryTitle white serif margin-0">Sarton</h1>
-			</div>
-		</div>
+<div class="row galleryNav">
+	<div class="columns">
+		<h1 style="line-height: 1.2;" class="padding-Y galleryTitle white serif margin-0">Sarton Manor &amp; Gardens</h1>
 	</div>
 </div>
-<div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" data-magellan-target="sanguine-charcoal-chalk" id="sanguine-charcoal-chalk">
+<div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4">
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
