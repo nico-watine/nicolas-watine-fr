@@ -5,7 +5,7 @@ description:
 og-title:
 og-description:
 og-image:
-body-id: landscapes
+body-id: venice
 body-class: galleryPage
 layout: eng-default
 ---
@@ -27,5 +27,5 @@ layout: eng-default
 	</div>
 </div>
 <div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4">
-	
+	<h2 class="white serif text-center">Venice on Canvas</h2>
 </div>
