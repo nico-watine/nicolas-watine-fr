@@ -20,7 +20,7 @@ layout: eng-drawings
 			<ul class="vertical medium-horizontal menu" data-magellan>
 				<li class="caps"><a href="#sanguine-charcoal-chalk">Sanguine, Charcoal &amp; Chalk</a></li>
 				<li class="caps"><a href="#sanguine">Sanguine</a></li>
-				<li class="caps"><a href="/eng/paintings/still-life">Black or Color Pencil</a></li>
+				<li class="caps"><a href="#black-or-color-pencil">Black or Color Pencil</a></li>
 			</ul>
 		</nav>
 	</div>
@@ -222,7 +222,7 @@ layout: eng-drawings
 	</div>
 </div>
 <hr>
-<div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" id="black-or-color-pencil">
+<div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" data-magellan-target="black-or-color-pencil" id="black-or-color-pencil">
 	<h2 class="subCategory-heading white serif text-center">Black or Color Pencil</h2>
 	<div class="column">
 		<div class="artCard">
