@@ -64,10 +64,11 @@
 @import "blocks/_nav.scss";
 @import "blocks/_main.scss";
 @import "blocks/_footer.scss";
+@import "blocks/galleryPage/_galleryPage.scss";
 
 // #3 SPECIFIC PAGE STYLES
 @import "pages/index/_index.scss";
-@import "pages/galleryPage/_galleryPage.scss";
+@import "pages/paintings/_paintings.scss";
 
 // #4 MISC COMPONENTS
 @import "components/_display.scss";
@@ -75,6 +76,9 @@
 @import "components/_utility-classes.scss";
 @import "components/_extras.scss";
 
+// #5 Plugins
+// Magnific-Popup
+@import "../bower_components/magnific-popup/src/css/main.scss";
 
-// @import "pages/artGallery/_artGallery.scss";
+// @import "blocks/_artGallery/_artGallery.scss";
 
