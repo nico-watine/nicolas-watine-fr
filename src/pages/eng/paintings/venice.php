@@ -172,6 +172,7 @@ layout: eng-default
 		</div>
 	</div>
 </div>
+<hr>
 <div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" id="paper">
 	<h2 class="subCategory-heading white serif text-center">Venice on Paper</h2>
 	<div class="column">
