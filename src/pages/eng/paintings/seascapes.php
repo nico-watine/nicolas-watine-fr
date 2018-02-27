@@ -27,20 +27,6 @@ layout: eng-default
 	</div>
 </div>
 <div class="row artCard-grid small-up-1 medium-up-2 large-up-4">
-	<!-- Not present on old site :: -->
-	<div class="column">
-		<div class="artCard">
-			<div class="artCard-image">
-				<a href="/img/paintings/seascapes/seascapes-1.jpg">
-					<img class="absolute-center" src="/img/paintings/seascapes/seascapes-1.jpg" alt="Artist Nicolas Watine Seascape Painting">
-				</a>
-			</div>
-			<div class="artCard-prose">
-				<h4 class="title">NOT PRESENT</h4>
-				<p class="dimensions"># x # cm</p>
-			</div>
-		</div>
-	</div>
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
@@ -197,34 +183,6 @@ layout: eng-default
 			</div>
 		</div>
 	</div>
-	<!-- Not present on old site :: -->
-	<div class="column">
-		<div class="artCard">
-			<div class="artCard-image">
-				<a href="/img/paintings/seascapes/seascapes-14.jpg">
-					<img class="absolute-center" src="/img/paintings/seascapes/seascapes-14.jpg" alt="Artist Nicolas Watine Seascape Painting">
-				</a>
-			</div>
-			<div class="artCard-prose">
-				<h4 class="title">NOT PRESENT</h4>
-				<p class="dimensions"># x # cm</p>
-			</div>
-		</div>
-	</div>
-	<!-- Not present on old site :: -->
-	<div class="column">
-		<div class="artCard">
-			<div class="artCard-image">
-				<a href="/img/paintings/seascapes/seascapes-15.jpg">
-					<img class="absolute-center" src="/img/paintings/seascapes/seascapes-15.jpg" alt="Artist Nicolas Watine Seascape Painting">
-				</a>
-			</div>
-			<div class="artCard-prose">
-				<h4 class="title">NOT PRESENT</h4>
-				<p class="dimensions"># x # cm</p>
-			</div>
-		</div>
-	</div>
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
@@ -313,20 +271,6 @@ layout: eng-default
 			<div class="artCard-prose">
 				<h4 class="title">Pâtés de Sable</h4>
 				<p class="dimensions">100 x 50 cm</p>
-			</div>
-		</div>
-	</div>
-	<!-- Not present on old site:: -->
-	<div class="column">
-		<div class="artCard">
-			<div class="artCard-image">
-				<a href="/img/paintings/seascapes/seascapes-23.jpg">
-					<img class="absolute-center" src="/img/paintings/seascapes/seascapes-23.jpg" alt="Artist Nicolas Watine Seascape Painting">
-				</a>
-			</div>
-			<div class="artCard-prose">
-				<h4 class="title">NOT PRESENT</h4>
-				<p class="dimensions"># x # cm</p>
 			</div>
 		</div>
 	</div>
@@ -629,4 +573,60 @@ layout: eng-default
 			</div>
 		</div>
 	</div>
+	<!-- Not present on old site :: -->
+	<!-- <div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/seascapes/seascapes-1.jpg">
+					<img class="absolute-center" src="/img/paintings/seascapes/seascapes-1.jpg" alt="Artist Nicolas Watine Seascape Painting">
+				</a>
+			</div>
+			<div class="artCard-prose">
+				<h4 class="title">NOT PRESENT</h4>
+				<p class="dimensions"># x # cm</p>
+			</div>
+		</div>
+	</div> -->
+	<!-- Not present on old site :: -->
+	<!-- <div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/seascapes/seascapes-14.jpg">
+					<img class="absolute-center" src="/img/paintings/seascapes/seascapes-14.jpg" alt="Artist Nicolas Watine Seascape Painting">
+				</a>
+			</div>
+			<div class="artCard-prose">
+				<h4 class="title">NOT PRESENT</h4>
+				<p class="dimensions"># x # cm</p>
+			</div>
+		</div>
+	</div> -->
+	<!-- Not present on old site :: -->
+	<!-- <div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/seascapes/seascapes-15.jpg">
+					<img class="absolute-center" src="/img/paintings/seascapes/seascapes-15.jpg" alt="Artist Nicolas Watine Seascape Painting">
+				</a>
+			</div>
+			<div class="artCard-prose">
+				<h4 class="title">NOT PRESENT</h4>
+				<p class="dimensions"># x # cm</p>
+			</div>
+		</div>
+	</div> -->
+	<!-- Not present on old site:: -->
+	<!-- <div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/seascapes/seascapes-23.jpg">
+					<img class="absolute-center" src="/img/paintings/seascapes/seascapes-23.jpg" alt="Artist Nicolas Watine Seascape Painting">
+				</a>
+			</div>
+			<div class="artCard-prose">
+				<h4 class="title">NOT PRESENT</h4>
+				<p class="dimensions"># x # cm</p>
+			</div>
+		</div>
+	</div> -->
 </div>
