@@ -4691,6 +4691,13 @@
 		"oAP": "\/dist\/drawings\/sanguine.php",
 		"oF": 0
 		},
+	"\/dist\/eng\/drawings.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/eng\/drawings.php",
+		"oF": 0
+		},
 	"\/dist\/eng\/index.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -8149,6 +8156,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/pages\/drawings\/sanguine.php",
+		"oF": 0
+		},
+	"\/src\/pages\/eng\/drawings.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/eng\/drawings.php",
 		"oF": 0
 		},
 	"\/src\/pages\/eng\/index.php": {
