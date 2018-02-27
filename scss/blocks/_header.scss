@@ -12,3 +12,15 @@ header.header {
 		}
 	}
 }
+
+.languageToggle {
+	a {
+		color: #000;
+		margin-right: 10px;
+	}
+
+	a:hover,
+	a.active {
+		border-bottom: 4px solid #000;
+	}
+}
