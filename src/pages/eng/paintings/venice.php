@@ -174,4 +174,58 @@ layout: eng-default
 </div>
 <div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" id="paper">
 	<h2 class="subCategory-heading white serif text-center">Venice on Paper</h2>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/venice/paper/venice-paper-2.jpg">
+					<img class="absolute-center" src="/img/paintings/venice/paper/venice-paper-2.jpg" alt="Artist Nicolas Watine Venice Sketch">
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/venice/paper/venice-paper-2.jpg">
+					<img class="absolute-center" src="/img/paintings/venice/paper/venice-paper-2.jpg" alt="Artist Nicolas Watine Venice Sketch">
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/venice/paper/venice-paper-3.jpg">
+					<img class="absolute-center" src="/img/paintings/venice/paper/venice-paper-3.jpg" alt="Artist Nicolas Watine Venice Sketch">
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/venice/paper/venice-paper-4.jpg">
+					<img class="absolute-center" src="/img/paintings/venice/paper/venice-paper-4.jpg" alt="Artist Nicolas Watine Venice Sketch">
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/venice/paper/venice-paper-5.jpg">
+					<img class="absolute-center" src="/img/paintings/venice/paper/venice-paper-5.jpg" alt="Artist Nicolas Watine Venice Sketch">
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/paintings/venice/paper/venice-paper-6.jpg">
+					<img class="absolute-center" src="/img/paintings/venice/paper/venice-paper-6.jpg" alt="Artist Nicolas Watine Venice Sketch">
+				</a>
+			</div>
+		</div>
+	</div>
 </div>
