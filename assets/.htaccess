@@ -311,3 +311,10 @@ FileETag None
 
 RewriteRule ^(js|css)/(.+)\.(.+)\.(js|css)$ $1/$2.$4 [L]
 
+
+# ----------------------------------------
+# |            Page Redirects            |
+# ----------------------------------------
+
+# blank /paintings root page
+Redirect 301 /eng/paintings/index.php http://nicos-mbp.local:5757/eng/paintings/seascapes
