@@ -19,7 +19,7 @@ layout: eng-drawings
 					<div class="title-bar-title">Category Menu</div>
 				</div>
 				<nav class="categoryNav" id="categoryMenu">
-					<ul class="vertical medium-horizontal menu" data-magellan>
+					<ul class="vertical medium-horizontal menu" data-magellan data-deep-linking="true">
 						<li class="caps"><a href="#sanguine-charcoal-chalk">Sanguine, Charcoal &amp; Chalk</a></li>
 						<li class="caps"><a href="#sanguine">Sanguine</a></li>
 						<li class="caps"><a href="#black-or-color-pencil">Black or Color Pencil</a></li>
