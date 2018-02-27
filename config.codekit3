@@ -4737,6 +4737,13 @@
 		"oAP": "\/dist\/eng\/paintings\/venice.php",
 		"oF": 0
 		},
+	"\/dist\/eng\/sarton.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/eng\/sarton.php",
+		"oF": 0
+		},
 	"\/dist\/gallery.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -8214,6 +8221,13 @@
 		"oAP": "\/src\/layouts\/eng-paintings.html",
 		"oF": 0
 		},
+	"\/src\/layouts\/eng-sarton.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/layouts\/eng-sarton.html",
+		"oF": 0
+		},
 	"\/src\/pages\/drawings\/black-or-color-pencil.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -8284,6 +8298,13 @@
 		"oAP": "\/src\/pages\/eng\/paintings\/venice.php",
 		"oF": 0
 		},
+	"\/src\/pages\/eng\/sarton.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/eng\/sarton.php",
+		"oF": 0
+		},
 	"\/src\/pages\/gallery.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -8324,6 +8345,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/partials\/eng-header.html",
+		"oF": 0
+		},
+	"\/src\/partials\/eng-sarton.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/partials\/eng-sarton.html",
 		"oF": 0
 		},
 	"\/src\/partials\/google-tracking-id.html": {
