@@ -5162,13 +5162,14 @@ header.header {
     header.header h1 a {
       color: #0a0a0a; }
 
-.languageToggle a {
-  color: #000;
-  margin-right: 10px; }
-
-.languageToggle a:hover,
-.languageToggle a.active {
-  border-bottom: 4px solid #000; }
+.languageToggle {
+  margin-bottom: 12px; }
+  .languageToggle a {
+    color: #000;
+    margin-right: 10px; }
+  .languageToggle a:hover,
+  .languageToggle a.active {
+    border-bottom: 4px solid #000; }
 
 .title-bar {
   background: #70848c; }
