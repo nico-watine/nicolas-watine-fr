@@ -166,6 +166,60 @@ layout: eng-drawings
 <hr>
 <div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" id="sanguine">
 	<h2 class="subCategory-heading white serif text-center">Sanguine</h2>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/drawings/sanguine/duck-2.jpg">
+					<img class="absolute-center" src="/img/drawings/sanguine/duck-2.jpg" alt="Artist Nicolas Watine Sanguine Sketch">
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/drawings/sanguine/duck-1.jpg">
+					<img class="absolute-center" src="/img/drawings/sanguine/duck-1.jpg" alt="Artist Nicolas Watine Sanguine Sketch">
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/drawings/sanguine/nude-1.jpg">
+					<img class="absolute-center" src="/img/drawings/sanguine/nude-1.jpg" alt="Artist Nicolas Watine Sanguine Sketch">
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/drawings/sanguine/rabbit-1.jpg">
+					<img class="absolute-center" src="/img/drawings/sanguine/rabbit-1.jpg" alt="Artist Nicolas Watine Sanguine Sketch">
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/drawings/sanguine/nude-2.jpg">
+					<img class="absolute-center" src="/img/drawings/sanguine/nude-2.jpg" alt="Artist Nicolas Watine Sanguine Sketch">
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="column">
+		<div class="artCard">
+			<div class="artCard-image">
+				<a href="/img/drawings/sanguine/duck-3.jpg">
+					<img class="absolute-center" src="/img/drawings/sanguine/duck-3.jpg" alt="Artist Nicolas Watine Sanguine Sketch">
+				</a>
+			</div>
+		</div>
+	</div>
 </div>
 <hr>
 <div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" id="black-or-color-pencil">
