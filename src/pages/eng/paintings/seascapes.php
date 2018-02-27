@@ -352,7 +352,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Vague</h4>
-				<p class="dimensions">65 x 54 cm</p>
+				<p class="dimensions">46 x 38 cm</p>
 			</div>
 		</div>
 	</div>
