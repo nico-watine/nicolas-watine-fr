@@ -5162,16 +5162,22 @@ header.header {
     header.header h1 a {
       color: #0a0a0a; }
 
+.languageToggle {
+  margin-bottom: 0.75rem; }
+  .languageToggle a {
+    color: #000;
+    margin-right: 0.625rem; }
+  .languageToggle a:hover,
+  .languageToggle a.active {
+    border-bottom: 0.25rem solid #000; }
+
 .title-bar {
   background: #70848c; }
-  .title-bar .languageToggle {
-    display: inline; }
-    .title-bar .languageToggle a {
-      color: #fff;
-      margin-right: 10px; }
-    .title-bar .languageToggle a:hover,
-    .title-bar .languageToggle a.active {
-      border-bottom: 2px solid #fff; }
+  .title-bar .languageToggle a {
+    color: #fff; }
+  .title-bar .languageToggle a:hover,
+  .title-bar .languageToggle a.active {
+    border-bottom: 0.125rem solid #fff; }
 
 .mainNav {
   background: rgba(112, 132, 140, 0.3); }
@@ -5713,6 +5719,9 @@ header.header {
 @media print, screen and (min-width: 64em) {
   .galleryPage#venice .subCategory-heading {
     font-size: 4.25rem; } }
+
+.inline {
+  display: inline; }
 
 .inline-block {
   display: inline-block; }

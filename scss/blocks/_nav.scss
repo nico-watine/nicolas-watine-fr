@@ -4,16 +4,13 @@
 	background: #70848c;
 
 	.languageToggle {
-		display: inline;
-		
 		a {
 			color: #fff;
-			margin-right: 10px;
 		}
 
 		a:hover,
 		a.active {
-			border-bottom: 2px solid #fff;
+			border-bottom: rem-calc(2) solid #fff;
 		}
 	}
 }
