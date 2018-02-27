@@ -22,4 +22,10 @@
 			font-size: $h3-serif-medium;
 		}
 	}
+
+	@include breakpoint(large) {
+		.subCategory-heading {
+			font-size: $h2-serif-medium;
+		}
+	}
 }

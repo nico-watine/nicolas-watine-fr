@@ -5217,7 +5217,8 @@ header.header {
   position: sticky;
   position: -webkit-sticky;
   top: 0; }
-  .galleryNav h1 {
+  .galleryNav .galleryTitle {
+    font-size: 3rem;
     vertical-align: top; }
   .galleryNav .categoryNav {
     background: rgba(240, 242, 242, 0.3);
@@ -5232,6 +5233,8 @@ header.header {
     font-weight: bold;
     border-left: 0.4375rem solid #fff; }
   @media print, screen and (min-width: 40em) {
+    .galleryNav .galleryTitle {
+      font-size: 4.25rem; }
     .galleryNav .categoryNav {
       background: transparent;
       margin-bottom: 0; }
@@ -5246,14 +5249,15 @@ header.header {
       border-left: 0;
       border-bottom: 0.25rem solid #fff; } }
   @media print, screen and (min-width: 64em) {
-    .galleryNav h1 {
+    .galleryNav .galleryTitle {
       display: inline-block;
-      line-height: 100px; }
+      line-height: 8.125rem;
+      font-size: 6.875rem; }
     .galleryNav .categoryNav {
       display: inline-block;
       float: right; }
     .galleryNav .menu li {
-      height: 100px; } }
+      height: 8.125rem; } }
 
 .index#index .galleryLinks {
   background: linear-gradient(rgba(79, 110, 122, 0.8), rgba(79, 110, 122, 0.8)), url("/img/assets/linen.jpg") center/auto repeat; }
@@ -5682,6 +5686,10 @@ header.header {
     padding-bottom: 6.25rem; }
   .galleryPage#venice .subCategory-heading {
     font-size: 2.625rem; } }
+
+@media print, screen and (min-width: 64em) {
+  .galleryPage#venice .subCategory-heading {
+    font-size: 4.25rem; } }
 
 .inline-block {
   display: inline-block; }

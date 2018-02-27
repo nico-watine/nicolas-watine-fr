@@ -11,7 +11,7 @@ layout: eng-default
 ---
 <div class="row galleryNav">
 	<div class="columns">
-		<h1 class="h2 white serif margin-0">Landscapes</h1>
+		<h1 class="galleryTitle white serif margin-0">Landscapes</h1>
 		<div class="title-bar" data-responsive-toggle="categoryMenu" data-hide-for="medium">
 			<button class="menu-icon" type="button" data-toggle="categoryMenu"></button>
 			<div class="title-bar-title">Category Menu</div>
