@@ -9,37 +9,36 @@
 
 	a {
 		color: $black;
-		border-bottom: rem-calc(4) solid transparent;
+		border-right: rem-calc(7) solid transparent;
 
 		&:hover {
 			text-decoration: underline;
-			border-bottom: rem-calc(4) solid #000;
+			border-right: rem-calc(7) solid #000;
 		}
 	}
 
 	a.active {
 		text-decoration: underline;
 		font-weight: bold;
-		border-bottom: rem-calc(4) solid #000;
+		border-right: rem-calc(7) solid #000;
 	}
 
 	@include breakpoint(medium) {
 		background: none;
 
 		a {
-			color: $black;
 			border-bottom: rem-calc(4) solid transparent;
+			border-right: 0;
 
 			&:hover {
-				text-decoration: underline;
 				border-bottom: rem-calc(4) solid #000;
+				border-right: 0;
 			}
 		}
 
 		a.active {
-			text-decoration: underline;
-			font-weight: bold;
 			border-bottom: rem-calc(4) solid #000;
+			border-right: 0;
 		}
 	}
 }
