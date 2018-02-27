@@ -1,8 +1,12 @@
 @import "../../_settings.scss";
 
 .galleryPage#venice {
-	.artCard-grid {
-		padding-top: rem-calc(25);
+	.artCard-grid#canvas {
+		padding: rem-calc(25) 0 0;
+	}
+
+	.artCard-grid#paper {
+		padding: rem-calc(25) 0;
 	}
 
 	.subCategory-heading {

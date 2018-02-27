@@ -5667,8 +5667,11 @@ header.header {
   .index#index .drawings .sectionContent {
     height: 21.875rem; }
 
-.galleryPage#venice .artCard-grid {
-  padding-top: 1.5625rem; }
+.galleryPage#venice .artCard-grid#canvas {
+  padding: 1.5625rem 0 0; }
+
+.galleryPage#venice .artCard-grid#paper {
+  padding: 1.5625rem 0; }
 
 .galleryPage#venice .subCategory-heading {
   margin-bottom: 1.5625rem;

@@ -26,7 +26,7 @@ layout: eng-default
 		</nav>
 	</div>
 </div>
-<div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4">
+<div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" id="canvas">
 	<h2 class="subCategory-heading white serif text-center">Venice on Canvas</h2>
 	<div class="column">
 		<div class="artCard">
@@ -171,5 +171,7 @@ layout: eng-default
 			</div>
 		</div>
 	</div>
-	
+</div>
+<div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" id="paper">
+	<h2 class="subCategory-heading white serif text-center">Venice on Paper</h2>
 </div>
