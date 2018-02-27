@@ -455,8 +455,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Ciel</h4>
+				<p class="dimensions">73 x 92 cm</p>
 			</div>
 		</div>
 	</div>
@@ -468,8 +468,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Voiliers</h4>
+				<p class="dimensions">81 x 54 cm</p>
 			</div>
 		</div>
 	</div>
@@ -481,8 +481,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Tente de Plage</h4>
+				<p class="dimensions">80 x 80 cm</p>
 			</div>
 		</div>
 	</div>
@@ -494,8 +494,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Vague</h4>
+				<p class="dimensions">40 x 40 cm</p>
 			</div>
 		</div>
 	</div>
@@ -507,8 +507,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Vague</h4>
+				<p class="dimensions">100 x 81 cm</p>
 			</div>
 		</div>
 	</div>
@@ -520,8 +520,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Vague</h4>
+				<p class="dimensions">50 x 50 cm</p>
 			</div>
 		</div>
 	</div>
@@ -533,8 +533,8 @@ layout: eng-default
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<h4 class="title">Trois Vagues</h4>
+				<p class="dimensions">100 x 100 cm</p>
 			</div>
 		</div>
 	</div>
@@ -547,7 +547,7 @@ layout: eng-default
 			</div>
 			<div class="artCard-prose">
 				<h4 class="title">Untitled</h4>
-				<p class="dimensions"># x # cm</p>
+				<p class="dimensions">100 x 100 cm</p>
 			</div>
 		</div>
 	</div>
