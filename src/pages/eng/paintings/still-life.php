@@ -31,7 +31,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-1.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-1.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-1.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -44,7 +44,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-2.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-2.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-2.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -57,7 +57,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-3.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-3.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-3.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -70,7 +70,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-4.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-4.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-4.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -83,7 +83,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-16.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-16.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-16.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -96,7 +96,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-17.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-17.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-17.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -109,7 +109,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-18.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-18.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-18.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -122,7 +122,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-19.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-19.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-19.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -135,7 +135,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-20.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-20.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-20.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -148,7 +148,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-21.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-21.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-21.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -161,7 +161,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-22.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-22.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-22.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -174,7 +174,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-5.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-5.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-5.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -187,7 +187,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-6.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-6.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-6.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -200,7 +200,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-7.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-7.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-7.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -213,7 +213,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-8.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-8.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-8.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -226,7 +226,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-9.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-9.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-9.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -239,7 +239,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-10.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-10.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-10.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -252,7 +252,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-11.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-11.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-11.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -265,7 +265,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-12.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-12.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-12.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -278,7 +278,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-13.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-13.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-13.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -291,7 +291,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-14.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-14.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-14.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
@@ -304,7 +304,7 @@ layout: eng-default
 		<div class="artCard">
 			<div class="artCard-image">
 				<a href="/img/paintings/still-life/still-life-15.jpg">
-					<img class="absolute-center" src="/img/paintings/still-life/still-life-15.jpg" alt="">
+					<img class="absolute-center" src="/img/paintings/still-life/still-life-15.jpg" alt="Artist Nicolas Watine Still Life Painting">
 				</a>
 			</div>
 			<div class="artCard-prose">
