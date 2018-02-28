@@ -5696,6 +5696,13 @@ header.header {
   background: linear-gradient(rgba(175, 126, 112, 0.5), rgba(175, 126, 112, 0.5)), url("/img/index/sections/drawings/drawings-banner-background.jpg") center/cover no-repeat; }
   .index#index .drawings .sectionContent {
     height: 21.875rem; }
+  .index#index .drawings a {
+    color: #fff;
+    border-bottom: 0.375rem solid rgba(255, 255, 255, 0);
+    padding-bottom: 0.5rem; }
+    .index#index .drawings a:hover {
+      text-decoration: underline;
+      border-bottom: 0.375rem solid #fff; }
 
 .galleryPage#venice .artCard-grid#canvas {
   padding: 1.5625rem 0 0; }
