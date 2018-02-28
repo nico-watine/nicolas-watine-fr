@@ -228,7 +228,7 @@ body-class: index
 					<p>Miramas (13)</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Manor of Sarton</p>
+					<p class="lead">Manoir de Sarton</p>
 					<p>Pas de Calais</p>
 				</div>
 				<div class="column column-block listing">
