@@ -133,7 +133,7 @@ layout: eng-default
 	</div>
 </section>
 <br>
-<section class="shortStories" id="shortStories">
+<section class="shortStories" id="short-stories" data-magellan-target="short-stories">
 	<div class="sectionContent row flex">
 		<div class="columns text-center completeCenter">
 			<h2 class="serif margin-0 line-height-1">Short Stories</h2>
