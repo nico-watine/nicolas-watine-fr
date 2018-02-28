@@ -13,7 +13,7 @@ layout: paintings
 	<div class="sticky" data-sticky-on="small" data-sticky data-top-anchor="350" data-margin-top="0" style="width: 100%;">
 		<div class="row galleryNav">
 			<div class="columns">
-				<h1 class="galleryTitle white serif margin-0">Venice</h1>
+				<h1 class="galleryTitle white serif margin-0">Venises</h1>
 				<div class="title-bar" data-responsive-toggle="categoryMenu" data-hide-for="medium">
 					<button class="menu-icon" type="button" data-toggle="categoryMenu"></button>
 					<div class="title-bar-title">Category Menu</div>
@@ -31,7 +31,7 @@ layout: paintings
 	</div>
 </div>
 <div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" id="canvas">
-	<h2 class="subCategory-heading white serif text-center">Venice on Canvas</h2>
+	<h2 class="subCategory-heading white serif text-center">Venises sur Toile</h2>
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
@@ -178,7 +178,7 @@ layout: paintings
 </div>
 <hr>
 <div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" id="paper">
-	<h2 class="subCategory-heading white serif text-center">Venice on Paper</h2>
+	<h2 class="subCategory-heading white serif text-center">Venises sur Papier Froissé</h2>
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
