@@ -18,6 +18,10 @@
 .mainNav {
 	background: rgba(112,132,140,.3);
 
+	li {
+		font-size: $h4;
+	}
+
 	a {
 		color: $black;
 		border-right: rem-calc(7) solid transparent;
@@ -37,6 +41,10 @@
 	@include breakpoint(medium) {
 		background: none;
 
+		li {
+			font-size: $h5;
+		}
+
 		a {
 			border-bottom: rem-calc(4) solid transparent;
 			border-right: 0;
@@ -50,6 +58,12 @@
 		a.active {
 			border-bottom: rem-calc(4) solid #70848c;
 			border-right: 0;
+		}
+	}
+
+	@include breakpoint(large) {
+		li {
+			font-size: $h4;
 		}
 	}
 }

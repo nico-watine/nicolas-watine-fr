@@ -5181,6 +5181,8 @@ header.header {
 
 .mainNav {
   background: rgba(112, 132, 140, 0.3); }
+  .mainNav li {
+    font-size: 1.4375rem; }
   .mainNav a {
     color: #0a0a0a;
     border-right: 0.4375rem solid transparent; }
@@ -5194,6 +5196,8 @@ header.header {
   @media print, screen and (min-width: 40em) {
     .mainNav {
       background: none; }
+      .mainNav li {
+        font-size: 1rem; }
       .mainNav a {
         border-bottom: 0.25rem solid transparent;
         border-right: 0; }
@@ -5203,6 +5207,9 @@ header.header {
       .mainNav a.active {
         border-bottom: 0.25rem solid #70848c;
         border-right: 0; } }
+  @media print, screen and (min-width: 64em) {
+    .mainNav li {
+      font-size: 1.4375rem; } }
 
 @media screen and (max-width: 39.9375em) {
   .no-js .mainNav {
