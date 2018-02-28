@@ -5711,6 +5711,9 @@ header.header {
       text-decoration: underline;
       border-bottom: 0.375rem solid #fff; }
 
+.index#index .shortStories {
+  background: linear-gradient(rgba(255, 246, 219, 0.7), rgba(255, 246, 219, 0.7)), url("/img/index/sections/short-stories/short-stories-1.jpg") center/cover no-repeat; }
+
 .galleryPage#venice .artCard-grid#canvas {
   padding: 1.5625rem 0 0; }
 

@@ -1,0 +1,10 @@
+@import "../../_settings.scss";
+
+.index#index {
+	.shortStories {
+		background: linear-gradient(
+		rgba(255,246,219,.70),
+		rgba(255,246,219,.70)
+		), url("/img/index/sections/short-stories/short-stories-1.jpg") center/cover no-repeat;
+	}
+}

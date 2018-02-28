@@ -132,6 +132,13 @@ layout: eng-default
 		</div>
 	</div>
 </section>
+<section class="shortStories" id="shortStories" style="height: 350px;">
+	<div class="row">
+		<div class="columns">
+			&nbsp;
+		</div>
+	</div>
+</section>
 <br>
 <br>
 <section class="featuredExhibitions" id="featuredExhibitions" data-magellan-target="featuredExhibitions">
