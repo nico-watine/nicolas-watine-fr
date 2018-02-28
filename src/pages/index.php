@@ -17,7 +17,7 @@ body-class: index
 					<img class="show-for-large" src="/img/paintings/seascapes/seascapes-45.jpg" style="height: 300px; margin-left: 20px;" alt="">
 				</div>
 				<div class="prose">
-					<h2 class="serif text-center"><a href="#0">Marines</a></h2>
+					<h2 class="serif text-center"><a href="/peintures/marines">Marines</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Peintures</strong></h4>
@@ -34,7 +34,7 @@ body-class: index
 					<img class="secondary" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt="">
 				</div>
 				<div class="prose">
-					<h2 class="serif text-center"><a href="#0">Venises</a></h2>
+					<h2 class="serif text-center"><a href="/peintures/venises">Venises</a></h2>
 					<img class="show-for-medium" src="/img/assets/spacer.png" alt="">
 				</div>
 				<div class="cornerDetail text-center">
@@ -56,7 +56,7 @@ body-class: index
 					<img class="secondary" src="/img/paintings/still-life/still-life-4.jpg" alt="">
 				</div>
 				<div class="prose">
-					<h2 class="serif text-center"><a href="#0">Natures Mortes</a></h2>
+					<h2 class="serif text-center"><a href="/peintures/natures-mortes">Natures Mortes</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Peintures</strong></h4>
@@ -73,7 +73,7 @@ body-class: index
 					<img class="secondary" src="/img/paintings/landscapes/landscapes-1.jpg" alt="">
 				</div>
 				<div class="prose" style="text-align: center;">
-					<h2 class="serif"><a href="#0">Paysages</a></h2>
+					<h2 class="serif"><a href="/peintures/paysages">Paysages</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Peintures</strong></h4>
