@@ -4681,6 +4681,13 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/dist\/dessins.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/dessins.php",
+		"oF": 0
+		},
 	"\/dist\/drawings.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -10251,11 +10258,11 @@
 		"oAP": "\/src\/layouts\/eng-sarton.html",
 		"oF": 0
 		},
-	"\/src\/pages\/drawings.php": {
+	"\/src\/pages\/dessins.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/src\/pages\/drawings.php",
+		"oAP": "\/src\/pages\/dessins.php",
 		"oF": 0
 		},
 	"\/src\/pages\/eng\/drawings.php": {
