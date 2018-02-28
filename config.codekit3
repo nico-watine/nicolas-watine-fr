@@ -7593,6 +7593,456 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-1.jpg": {
+		"ft": 16384,
+		"iS": 122432,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-10.jpg": {
+		"ft": 16384,
+		"iS": 281632,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-11.jpg": {
+		"ft": 16384,
+		"iS": 354329,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-2.jpg": {
+		"ft": 16384,
+		"iS": 292346,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-3.jpg": {
+		"ft": 16384,
+		"iS": 58730,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-4.jpg": {
+		"ft": 16384,
+		"iS": 206462,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-5.jpg": {
+		"ft": 16384,
+		"iS": 83111,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-6.jpg": {
+		"ft": 16384,
+		"iS": 76371,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-7.jpg": {
+		"ft": 16384,
+		"iS": 102411,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-8.jpg": {
+		"ft": 16384,
+		"iS": 94092,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-9.jpg": {
+		"ft": 16384,
+		"iS": 298825,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venice\/canvas\/venice-canvas-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venice\/paper\/venice-paper-1.jpg": {
+		"ft": 16384,
+		"iS": 61483,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venice\/paper\/venice-paper-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venice\/paper\/venice-paper-2.jpg": {
+		"ft": 16384,
+		"iS": 106606,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venice\/paper\/venice-paper-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venice\/paper\/venice-paper-3.jpg": {
+		"ft": 16384,
+		"iS": 108693,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venice\/paper\/venice-paper-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venice\/paper\/venice-paper-4.jpg": {
+		"ft": 16384,
+		"iS": 98430,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venice\/paper\/venice-paper-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venice\/paper\/venice-paper-5.jpg": {
+		"ft": 16384,
+		"iS": 100956,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venice\/paper\/venice-paper-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venice\/paper\/venice-paper-6.jpg": {
+		"ft": 16384,
+		"iS": 97315,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venice\/paper\/venice-paper-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-1.jpg": {
+		"ft": 16384,
+		"iS": 122432,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-10.jpg": {
+		"ft": 16384,
+		"iS": 281632,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-11.jpg": {
+		"ft": 16384,
+		"iS": 354329,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-2.jpg": {
+		"ft": 16384,
+		"iS": 292346,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-3.jpg": {
+		"ft": 16384,
+		"iS": 58730,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-4.jpg": {
+		"ft": 16384,
+		"iS": 206462,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-5.jpg": {
+		"ft": 16384,
+		"iS": 83111,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-6.jpg": {
+		"ft": 16384,
+		"iS": 76371,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-7.jpg": {
+		"ft": 16384,
+		"iS": 102411,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-8.jpg": {
+		"ft": 16384,
+		"iS": 94092,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-9.jpg": {
+		"ft": 16384,
+		"iS": 298825,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venice-canvas-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-1.jpg": {
+		"ft": 16384,
+		"iS": 122432,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-10.jpg": {
+		"ft": 16384,
+		"iS": 354329,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-11.jpg": {
+		"ft": 16384,
+		"iS": 298825,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-2.jpg": {
+		"ft": 16384,
+		"iS": 292346,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-3.jpg": {
+		"ft": 16384,
+		"iS": 58730,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-4.jpg": {
+		"ft": 16384,
+		"iS": 206462,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-5.jpg": {
+		"ft": 16384,
+		"iS": 83111,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-6.jpg": {
+		"ft": 16384,
+		"iS": 76371,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-7.jpg": {
+		"ft": 16384,
+		"iS": 281632,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-8.jpg": {
+		"ft": 16384,
+		"iS": 102411,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-9.jpg": {
+		"ft": 16384,
+		"iS": 94092,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/paper\/venice-paper-1.jpg": {
+		"ft": 16384,
+		"iS": 61483,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/paper\/venice-paper-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/paper\/venice-paper-2.jpg": {
+		"ft": 16384,
+		"iS": 106606,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/paper\/venice-paper-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/paper\/venice-paper-3.jpg": {
+		"ft": 16384,
+		"iS": 108693,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/paper\/venice-paper-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/paper\/venice-paper-4.jpg": {
+		"ft": 16384,
+		"iS": 98430,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/paper\/venice-paper-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/paper\/venice-paper-5.jpg": {
+		"ft": 16384,
+		"iS": 100956,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/paper\/venice-paper-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/paintings\/french\/venises\/paper\/venice-paper-6.jpg": {
+		"ft": 16384,
+		"iS": 97315,
+		"oA": 1,
+		"oAP": "\/dist\/img\/paintings\/french\/venises\/paper\/venice-paper-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/paintings\/landscapes\/landscapes-1.jpg": {
 		"ft": 16384,
 		"iS": 43224,
@@ -9711,6 +10161,116 @@
 		"iS": 46079,
 		"oA": 1,
 		"oAP": "\/img\/paintings\/french\/paysages\/paysages-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-1.jpg": {
+		"ft": 16384,
+		"iS": 122432,
+		"oA": 1,
+		"oAP": "\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-10.jpg": {
+		"ft": 16384,
+		"iS": 354329,
+		"oA": 1,
+		"oAP": "\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-11.jpg": {
+		"ft": 16384,
+		"iS": 298825,
+		"oA": 1,
+		"oAP": "\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-2.jpg": {
+		"ft": 16384,
+		"iS": 292346,
+		"oA": 1,
+		"oAP": "\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-3.jpg": {
+		"ft": 16384,
+		"iS": 58730,
+		"oA": 1,
+		"oAP": "\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-4.jpg": {
+		"ft": 16384,
+		"iS": 206462,
+		"oA": 1,
+		"oAP": "\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-5.jpg": {
+		"ft": 16384,
+		"iS": 83111,
+		"oA": 1,
+		"oAP": "\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-6.jpg": {
+		"ft": 16384,
+		"iS": 76371,
+		"oA": 1,
+		"oAP": "\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-7.jpg": {
+		"ft": 16384,
+		"iS": 281632,
+		"oA": 1,
+		"oAP": "\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-8.jpg": {
+		"ft": 16384,
+		"iS": 102411,
+		"oA": 1,
+		"oAP": "\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-9.jpg": {
+		"ft": 16384,
+		"iS": 94092,
+		"oA": 1,
+		"oAP": "\/img\/paintings\/french\/venises\/canvas\/venises-sur-toile-9.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
