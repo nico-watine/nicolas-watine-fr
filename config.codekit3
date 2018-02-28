@@ -10391,11 +10391,25 @@
 		"oAP": "\/src\/partials\/google-tracking-id.html",
 		"oF": 0
 		},
+	"\/src\/partials\/header-drawings.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/partials\/header-drawings.html",
+		"oF": 0
+		},
 	"\/src\/partials\/header-paintings.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/partials\/header-paintings.html",
+		"oF": 0
+		},
+	"\/src\/partials\/header-sarton.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/partials\/header-sarton.html",
 		"oF": 0
 		},
 	"\/src\/partials\/header.html": {
