@@ -11,5 +11,16 @@
 		.sectionContent {
 			height: rem-calc(350);
 		}
+
+		a {
+			color: #fff;
+			border-bottom: rem-calc(6) solid rgba(255,255,255,.0);
+			padding-bottom: rem-calc(8);
+
+			&:hover {
+				text-decoration: underline;
+				border-bottom: rem-calc(6) solid #fff;
+			}
+		}
 	}
 }

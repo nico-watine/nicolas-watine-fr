@@ -88,7 +88,7 @@ layout: eng-default
 	<div class="sectionContent row flex">
 		<div class="columns text-center completeCenter">
 			<h2 class="white serif margin-0 line-height-1">Drawings &amp; Sketches</h2>
-			<a href="/eng/drawings" class="h4 white caps">View</a>
+			<a href="/eng/drawings" class="h4 caps">View</a>
 		</div>
 	</div>
 </section>
@@ -114,7 +114,7 @@ layout: eng-default
 			<div class="proseWrap">
 				<div class="prose padding-XY">
 					<h2 class="serif text-center white line-height-1 margin-0">Sarton Manor &amp; Gardens</h2>
-					<a href="/eng/sarton" class="h4 white caps">Visit</a>
+					<a href="/eng/sarton" class="h4 caps">Visit</a>
 				</div>
 				<img class="show-for-medium spacer" src="/img/assets/spacer.png">
 			</div>
