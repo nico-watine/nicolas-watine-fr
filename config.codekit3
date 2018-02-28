@@ -10202,6 +10202,13 @@
 		"oAP": "\/src\/layouts\/default.html",
 		"oF": 0
 		},
+	"\/src\/layouts\/drawings.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/layouts\/drawings.html",
+		"oF": 0
+		},
 	"\/src\/layouts\/eng-default.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -10235,6 +10242,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/layouts\/paintings.html",
+		"oF": 0
+		},
+	"\/src\/layouts\/sarton.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/layouts\/sarton.html",
 		"oF": 0
 		},
 	"\/src\/pages\/dessins.php": {

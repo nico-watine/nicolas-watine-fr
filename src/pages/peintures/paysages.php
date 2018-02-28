@@ -7,7 +7,7 @@ og-description:
 og-image:
 body-id: landscapes
 body-class: galleryPage
-layout: eng-paintings
+layout: paintings
 ---
 <div class="sticky-container" data-sticky-container>
 	<div class="sticky" data-sticky-on="small" data-sticky data-top-anchor="350" data-margin-top="0" style="width: 100%;">

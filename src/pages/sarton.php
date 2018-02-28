@@ -7,7 +7,7 @@ og-description:
 og-image:
 body-id: sarton
 body-class: galleryPage
-layout: eng-sarton
+layout: sarton
 ---
 <div class="row galleryNav">
 	<div class="columns">

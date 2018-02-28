@@ -7,7 +7,7 @@ og-description:
 og-image:
 body-id: drawings
 body-class: galleryPage
-layout: eng-drawings
+layout: drawings
 ---
 <div class="sticky-container" data-sticky-container>
 	<div class="sticky" data-sticky-on="small" data-sticky data-top-anchor="350" data-margin-top="0" style="width: 100%;">
