@@ -5682,6 +5682,13 @@ header.header {
   .index#index .sarton .prose {
     display: inline-block;
     background: rgba(0, 0, 0, 0.5); }
+  .index#index .sarton a {
+    color: #fff;
+    border-bottom: 0.375rem solid rgba(255, 255, 255, 0);
+    padding-bottom: 0.5rem; }
+    .index#index .sarton a:hover {
+      text-decoration: underline;
+      border-bottom: 0.375rem solid #fff; }
   .index#index .sarton img.spacer {
     height: 100%;
     width: 0; }
