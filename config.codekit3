@@ -7131,6 +7131,27 @@
 		"oAP": "\/dist\/paintings\/landscapes.php",
 		"oF": 0
 		},
+	"\/dist\/paintings\/marines.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/paintings\/marines.php",
+		"oF": 0
+		},
+	"\/dist\/paintings\/natures-mortes.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/paintings\/natures-mortes.php",
+		"oF": 0
+		},
+	"\/dist\/paintings\/paysages.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/paintings\/paysages.php",
+		"oF": 0
+		},
 	"\/dist\/paintings\/seascapes.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -7150,6 +7171,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/paintings\/venice.php",
+		"oF": 0
+		},
+	"\/dist\/paintings\/venises.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/paintings\/venises.php",
 		"oF": 0
 		},
 	"\/dist\/php\/autoVer.php": {
@@ -10300,32 +10328,32 @@
 		"oAP": "\/src\/pages\/paintings\/index.php",
 		"oF": 0
 		},
-	"\/src\/pages\/paintings\/landscapes.php": {
+	"\/src\/pages\/paintings\/marines.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/src\/pages\/paintings\/landscapes.php",
+		"oAP": "\/src\/pages\/paintings\/marines.php",
 		"oF": 0
 		},
-	"\/src\/pages\/paintings\/seascapes.php": {
+	"\/src\/pages\/paintings\/natures-mortes.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/src\/pages\/paintings\/seascapes.php",
+		"oAP": "\/src\/pages\/paintings\/natures-mortes.php",
 		"oF": 0
 		},
-	"\/src\/pages\/paintings\/still-life.php": {
+	"\/src\/pages\/paintings\/paysages.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/src\/pages\/paintings\/still-life.php",
+		"oAP": "\/src\/pages\/paintings\/paysages.php",
 		"oF": 0
 		},
-	"\/src\/pages\/paintings\/venice.php": {
+	"\/src\/pages\/paintings\/venises.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/src\/pages\/paintings\/venice.php",
+		"oAP": "\/src\/pages\/paintings\/venises.php",
 		"oF": 0
 		},
 	"\/src\/pages\/sarton.php": {
