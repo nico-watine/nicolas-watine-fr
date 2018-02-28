@@ -23,7 +23,7 @@ layout: paintings
 						<li class="caps"><a href="/peintures/marines">Marines</a></li>
 						<li class="caps"><a href="/peintures/venises">Venises</a></li>
 						<li class="caps"><a class="active" href="/peintures/natures-mortes">Natures Mortes</a></li>
-						<li class="caps"><a href="/peintures/landscapes">Paysages</a></li>
+						<li class="caps"><a href="/peintures/paysages">Paysages</a></li>
 					</ul>
 				</nav>
 			</div>
