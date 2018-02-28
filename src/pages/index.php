@@ -132,6 +132,15 @@ body-class: index
 	</div>
 </section>
 <br>
+<section class="shortStories" id="short-stories" data-magellan-target="short-stories">
+	<div class="sectionContent row flex">
+		<div class="columns text-center completeCenter">
+			<h2 class="serif margin-0 line-height-1">Histoires Courtes</h2>
+			<a href="#0" class="h4 caps">Lire</a>
+		</div>
+	</div>
+</section>
+<br>
 <br>
 <section class="featuredExhibitions" id="featuredExhibitions" data-magellan-target="featuredExhibitions">
 	<h2 class="serif text-center">Principales Expositions</h2>
