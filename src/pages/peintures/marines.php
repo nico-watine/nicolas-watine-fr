@@ -13,7 +13,7 @@ layout: paintings
 	<div class="sticky" data-sticky-on="small" data-sticky data-top-anchor="350" data-margin-top="0" style="width: 100%;">
 		<div class="row galleryNav">
 			<div class="columns">
-				<h1 class="galleryTitle white serif margin-0">Seascapes</h1>
+				<h1 class="galleryTitle white serif margin-0">Marines</h1>
 				<div class="title-bar" data-responsive-toggle="categoryMenu" data-hide-for="medium">
 					<button class="menu-icon" type="button" data-toggle="categoryMenu"></button>
 					<div class="title-bar-title">Category Menu</div>
