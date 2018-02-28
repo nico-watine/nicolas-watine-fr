@@ -7,6 +7,10 @@
 		rgba(255,246,219,.70)
 		), url("/img/index/sections/short-stories/short-stories-1.jpg") center/cover no-repeat;
 
+		.sectionContent {
+			height: rem-calc(300);
+		}
+
 		a {
 			color: $black;
 			border-bottom: rem-calc(6) solid rgba(255,255,255,.0);
