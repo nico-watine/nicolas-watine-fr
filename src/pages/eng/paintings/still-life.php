@@ -5,7 +5,7 @@ description:
 og-title:
 og-description:
 og-image:
-body-id: landscapes
+body-id: still-life
 body-class: galleryPage
 layout: eng-paintings
 ---
