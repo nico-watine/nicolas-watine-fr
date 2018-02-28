@@ -133,7 +133,8 @@ body-class: index
 </section>
 <br>
 <br>
-<section class="featuredExhibitions" id="featuredExhibitions" data-magellan-target="featuredExhibitions">
+<!-- Old Exhibits section with some English words :: -->
+<!-- <section class="featuredExhibitions" id="featuredExhibitions" data-magellan-target="featuredExhibitions">
 	<h2 class="serif text-center">Principales Expositions</h2>
 	<div class="exhibitionList white" style="padding: 50px 0;">
 		<div class="france" style="margin-bottom: 50px;">
@@ -299,4 +300,4 @@ body-class: index
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
