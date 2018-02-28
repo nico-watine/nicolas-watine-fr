@@ -5092,6 +5092,36 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/drawings\/black-color-pencil\/_french\/arbres-1.jpg": {
+		"ft": 16384,
+		"iS": 152370,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/black-color-pencil\/_french\/arbres-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/black-color-pencil\/_french\/arbres-2.jpg": {
+		"ft": 16384,
+		"iS": 114706,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/black-color-pencil\/_french\/arbres-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/black-color-pencil\/_french\/nu-1.jpg": {
+		"ft": 16384,
+		"iS": 268083,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/black-color-pencil\/_french\/nu-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/drawings\/black-color-pencil\/arbres-1.jpg": {
 		"ft": 16384,
 		"iS": 152370,
@@ -5107,6 +5137,36 @@
 		"iS": 114706,
 		"oA": 1,
 		"oAP": "\/dist\/img\/drawings\/black-color-pencil\/arbres-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/black-color-pencil\/New Folder With Items\/arbres-1.jpg": {
+		"ft": 16384,
+		"iS": 152370,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/black-color-pencil\/New Folder With Items\/arbres-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/black-color-pencil\/New Folder With Items\/arbres-2.jpg": {
+		"ft": 16384,
+		"iS": 114706,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/black-color-pencil\/New Folder With Items\/arbres-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/black-color-pencil\/New Folder With Items\/nu-1.jpg": {
+		"ft": 16384,
+		"iS": 268083,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/black-color-pencil\/New Folder With Items\/nu-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -5497,6 +5557,16 @@
 		"iS": 73756,
 		"oA": 1,
 		"oAP": "\/dist\/img\/drawings\/sanguine\/_french\/perdrix-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/_french\/perdrix.jpg": {
+		"ft": 16384,
+		"iS": 73756,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/_french\/perdrix.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -10305,31 +10375,31 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/drawings\/black-color-pencil\/arbres-1.jpg": {
+	"\/img\/drawings\/black-color-pencil\/_french\/arbres-1.jpg": {
 		"ft": 16384,
 		"iS": 152370,
 		"oA": 1,
-		"oAP": "\/img\/drawings\/black-color-pencil\/arbres-1.jpg",
+		"oAP": "\/img\/drawings\/black-color-pencil\/_french\/arbres-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/drawings\/black-color-pencil\/arbres-2.jpg": {
+	"\/img\/drawings\/black-color-pencil\/_french\/arbres-2.jpg": {
 		"ft": 16384,
 		"iS": 114706,
 		"oA": 1,
-		"oAP": "\/img\/drawings\/black-color-pencil\/arbres-2.jpg",
+		"oAP": "\/img\/drawings\/black-color-pencil\/_french\/arbres-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/drawings\/black-color-pencil\/nu-1.jpg": {
+	"\/img\/drawings\/black-color-pencil\/_french\/nu-1.jpg": {
 		"ft": 16384,
 		"iS": 268083,
 		"oA": 1,
-		"oAP": "\/img\/drawings\/black-color-pencil\/nu-1.jpg",
+		"oAP": "\/img\/drawings\/black-color-pencil\/_french\/nu-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -10585,11 +10655,11 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/drawings\/sanguine\/_french\/perdrix-1.jpg": {
+	"\/img\/drawings\/sanguine\/_french\/perdrix.jpg": {
 		"ft": 16384,
 		"iS": 73756,
 		"oA": 1,
-		"oAP": "\/img\/drawings\/sanguine\/_french\/perdrix-1.jpg",
+		"oAP": "\/img\/drawings\/sanguine\/_french\/perdrix.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
