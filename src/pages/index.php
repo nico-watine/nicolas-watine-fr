@@ -204,10 +204,6 @@ body-class: index
 					<p>Marseille</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Centre Culturel de la Somme</p>
-					<p>Somme</p>
-				</div>
-				<div class="column column-block listing">
 					<p class="lead">Galerie World Fine Art</p>
 					<p>Cannes</p>
 				</div>
