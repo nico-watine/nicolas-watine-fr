@@ -5352,6 +5352,166 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/drawings\/sanguine\/_french\/becasse-1.jpg": {
+		"ft": 16384,
+		"iS": 32028,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/_french\/becasse-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/_french\/becasse.jpg": {
+		"ft": 16384,
+		"iS": 32028,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/_french\/becasse.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/_french\/canard-1.jpg": {
+		"ft": 16384,
+		"iS": 73756,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/_french\/canard-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/_french\/canards-1.jpg": {
+		"ft": 16384,
+		"iS": 48754,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/_french\/canards-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/_french\/canards.jpg": {
+		"ft": 16384,
+		"iS": 48754,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/_french\/canards.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/_french\/duck-1.jpg": {
+		"ft": 16384,
+		"iS": 73756,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/_french\/duck-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/_french\/duck-2.jpg": {
+		"ft": 16384,
+		"iS": 32028,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/_french\/duck-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/_french\/duck-3.jpg": {
+		"ft": 16384,
+		"iS": 48754,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/_french\/duck-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/_french\/lievre-1.jpg": {
+		"ft": 16384,
+		"iS": 71895,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/_french\/lievre-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/_french\/lievre.jpg": {
+		"ft": 16384,
+		"iS": 71895,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/_french\/lievre.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/_french\/nu-1.jpg": {
+		"ft": 16384,
+		"iS": 281893,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/_french\/nu-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/_french\/nu-2.jpg": {
+		"ft": 16384,
+		"iS": 335208,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/_french\/nu-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/_french\/nude-1.jpg": {
+		"ft": 16384,
+		"iS": 281893,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/_french\/nude-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/_french\/nude-2.jpg": {
+		"ft": 16384,
+		"iS": 335208,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/_french\/nude-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/_french\/perdrix-1.jpg": {
+		"ft": 16384,
+		"iS": 73756,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/_french\/perdrix-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/drawings\/sanguine\/_french\/rabbit-1.jpg": {
+		"ft": 16384,
+		"iS": 71895,
+		"oA": 1,
+		"oAP": "\/dist\/img\/drawings\/sanguine\/_french\/rabbit-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/drawings\/sanguine\/duck-1.jpg": {
 		"ft": 16384,
 		"iS": 73756,
@@ -10370,6 +10530,66 @@
 		"iS": 63925,
 		"oA": 1,
 		"oAP": "\/img\/drawings\/sanguine-charcoal-chalk\/portrait-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/drawings\/sanguine\/_french\/becasse.jpg": {
+		"ft": 16384,
+		"iS": 32028,
+		"oA": 1,
+		"oAP": "\/img\/drawings\/sanguine\/_french\/becasse.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/drawings\/sanguine\/_french\/canards.jpg": {
+		"ft": 16384,
+		"iS": 48754,
+		"oA": 1,
+		"oAP": "\/img\/drawings\/sanguine\/_french\/canards.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/drawings\/sanguine\/_french\/lievre.jpg": {
+		"ft": 16384,
+		"iS": 71895,
+		"oA": 1,
+		"oAP": "\/img\/drawings\/sanguine\/_french\/lievre.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/drawings\/sanguine\/_french\/nu-1.jpg": {
+		"ft": 16384,
+		"iS": 281893,
+		"oA": 1,
+		"oAP": "\/img\/drawings\/sanguine\/_french\/nu-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/drawings\/sanguine\/_french\/nu-2.jpg": {
+		"ft": 16384,
+		"iS": 335208,
+		"oA": 1,
+		"oAP": "\/img\/drawings\/sanguine\/_french\/nu-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/drawings\/sanguine\/_french\/perdrix-1.jpg": {
+		"ft": 16384,
+		"iS": 73756,
+		"oA": 1,
+		"oAP": "\/img\/drawings\/sanguine\/_french\/perdrix-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
