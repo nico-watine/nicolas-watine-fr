@@ -6,5 +6,16 @@
 		rgba(255,246,219,.70),
 		rgba(255,246,219,.70)
 		), url("/img/index/sections/short-stories/short-stories-1.jpg") center/cover no-repeat;
+
+		a {
+			color: $black;
+			border-bottom: rem-calc(6) solid rgba(255,255,255,.0);
+			padding-bottom: rem-calc(8);
+
+			&:hover {
+				text-decoration: underline;
+				border-bottom: rem-calc(6) solid #000;
+			}
+		}
 	}
 }

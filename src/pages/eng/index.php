@@ -132,10 +132,13 @@ layout: eng-default
 		</div>
 	</div>
 </section>
-<section class="shortStories" id="shortStories" style="height: 350px;">
+<section class="shortStories" id="shortStories">
 	<div class="row">
-		<div class="columns">
-			&nbsp;
+		<div class="columns text-center">
+			<div class="prose" style="height: 350px">
+				<h2 class="serif line-height-1">Short Stories</h2>
+				<a href="#0" class="h4 caps">Read</a>
+			</div>
 		</div>
 	</div>
 </section>
