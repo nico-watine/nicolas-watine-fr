@@ -58,6 +58,9 @@ UNCSS_OPTIONS:
     - .mfp-close:hover
     - button.mfp-arrow
     - button.mfp-close
+    - .sticky.is-at-top.is-stuck
+    - .sticky.is-stuck
+    - .sticky
 
 # Gulp will reference these paths when it copies files
 PATHS:
