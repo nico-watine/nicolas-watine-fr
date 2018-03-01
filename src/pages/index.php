@@ -17,7 +17,7 @@ body-class: index
 					<img class="show-for-large" src="/img/paintings/seascapes/seascapes-45.jpg" style="height: 300px; margin-left: 20px;" alt="">
 				</div>
 				<div class="prose">
-					<h2 class="serif text-center"><a href="#0">Marines</a></h2>
+					<h2 class="serif text-center"><a href="/peintures/marines">Marines</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Peintures</strong></h4>
@@ -34,7 +34,7 @@ body-class: index
 					<img class="secondary" src="/img/paintings/venice/canvas/venice-canvas-2.jpg" alt="">
 				</div>
 				<div class="prose">
-					<h2 class="serif text-center"><a href="#0">Venises</a></h2>
+					<h2 class="serif text-center"><a href="/peintures/venises">Venises</a></h2>
 					<img class="show-for-medium" src="/img/assets/spacer.png" alt="">
 				</div>
 				<div class="cornerDetail text-center">
@@ -56,7 +56,7 @@ body-class: index
 					<img class="secondary" src="/img/paintings/still-life/still-life-4.jpg" alt="">
 				</div>
 				<div class="prose">
-					<h2 class="serif text-center"><a href="#0">Natures Mortes</a></h2>
+					<h2 class="serif text-center"><a href="/peintures/natures-mortes">Natures Mortes</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Peintures</strong></h4>
@@ -73,7 +73,7 @@ body-class: index
 					<img class="secondary" src="/img/paintings/landscapes/landscapes-1.jpg" alt="">
 				</div>
 				<div class="prose" style="text-align: center;">
-					<h2 class="serif"><a href="#0">Paysages</a></h2>
+					<h2 class="serif"><a href="/peintures/paysages">Paysages</a></h2>
 				</div>
 				<div class="cornerDetail text-center">
 					<h4 class="caps margin-0"><strong>Peintures</strong></h4>
@@ -87,7 +87,7 @@ body-class: index
 	<div class="sectionContent row flex">
 		<div class="columns text-center completeCenter">
 			<h2 class="white serif margin-0 line-height-1">Galerie des Dessins</h2>
-			<a href="#0" class="h4 white caps">Voir</a>
+			<a href="/dessins" class="h4 white caps">Voir</a>
 		</div>
 	</div>
 </section>
@@ -113,7 +113,7 @@ body-class: index
 			<div class="proseWrap">
 				<div class="prose padding-XY">
 					<h2 class="serif text-center white line-height-1 margin-0">Jardin et Manoir de Sarton</h2>
-					<a href="#0" class="h4 white caps">Visite</a>
+					<a href="/sarton" class="h4 white caps">Visite</a>
 				</div>
 				<img class="show-for-medium spacer" src="/img/assets/spacer.png">
 			</div>
@@ -132,6 +132,15 @@ body-class: index
 	</div>
 </section>
 <br>
+<section class="shortStories" id="short-stories" data-magellan-target="short-stories">
+	<div class="sectionContent row flex">
+		<div class="columns text-center completeCenter">
+			<h2 class="serif margin-0 line-height-1">Histoires Courtes</h2>
+			<a href="#0" class="h4 caps">Lire</a>
+		</div>
+	</div>
+</section>
+<br>
 <br>
 <section class="featuredExhibitions" id="featuredExhibitions" data-magellan-target="featuredExhibitions">
 	<h2 class="serif text-center">Principales Expositions</h2>
@@ -140,11 +149,11 @@ body-class: index
 			<h3 style="margin-bottom: 16px;" class="caps text-center"><strong>En France</strong></h3>
 			<div class="row small-up-2 medium-up-3 large-up-4">
 				<div class="column column-block listing">
-					<p class="lead">Gallery Motte</p>
+					<p class="lead">Galerie Motte</p>
 					<p>Lille</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Vendôme, rue de la Paix</p>
+					<p class="lead">Galerie Vendôme, rue de la Paix</p>
 					<p>Paris</p>
 				</div>
 				<div class="column column-block listing">
@@ -152,7 +161,7 @@ body-class: index
 					<p>Le Touquet</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Renaudot</p>
+					<p class="lead">Galerie Renaudot</p>
 					<p>Semur en Auxois</p>
 				</div>
 				<div class="column column-block listing">
@@ -160,15 +169,15 @@ body-class: index
 					<p>Somme</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Amyot, Saint-Louis en l’Ile</p>
+					<p class="lead">Galerie Amyot, Saint-Louis en l’Ile</p>
 					<p>Paris</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Dufour</p>
+					<p class="lead">Galerie Dufour</p>
 					<p>Amiens</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Auriel</p>
+					<p class="lead">Galerie Auriel</p>
 					<p>Toulouse</p>
 				</div>
 				<div class="column column-block listing">
@@ -176,7 +185,7 @@ body-class: index
 					<p>Somme</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery 26, Place des Vosges</p>
+					<p class="lead">Galerie 26, Place des Vosges</p>
 					<p>Paris</p>
 				</div>
 				<div class="column column-block listing">
@@ -184,15 +193,15 @@ body-class: index
 					<p>Dijon</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Art et Comparaison</p>
+					<p class="lead">Galerie Art et Comparaison</p>
 					<p>Nantes</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Alain Daune, avenue Matignon</p>
+					<p class="lead">Galerie Alain Daune, avenue Matignon</p>
 					<p>Paris</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Erath</p>
+					<p class="lead">Galerie Erath</p>
 					<p>Le Touquet</p>
 				</div>
 				<div class="column column-block listing">
@@ -200,15 +209,11 @@ body-class: index
 					<p>Somme</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery du Pharos</p>
+					<p class="lead">Galerie du Pharos</p>
 					<p>Marseille</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Centre Culturel de la Somme</p>
-					<p>Somme</p>
-				</div>
-				<div class="column column-block listing">
-					<p class="lead">Gallery World Fine Art</p>
+					<p class="lead">Galerie World Fine Art</p>
 					<p>Cannes</p>
 				</div>
 				<div class="column column-block listing">
@@ -220,23 +225,23 @@ body-class: index
 					<p>Lille</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery 31</p>
+					<p class="lead">Galerie 31</p>
 					<p>Lille</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery la Pléiade</p>
+					<p class="lead">Galerie la Pléiade</p>
 					<p>Grenoble</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery des Molières</p>
+					<p class="lead">Galerie des Molières</p>
 					<p>Miramas (13)</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Manor of Sarton</p>
+					<p class="lead">Manoir de Sarton</p>
 					<p>Pas de Calais</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Neel</p>
+					<p class="lead">Galerie Neel</p>
 					<p>Paris &amp; Cannes</p>
 				</div>
 				<div class="column column-block listing">
@@ -257,7 +262,7 @@ body-class: index
 			<h3 style="margin-bottom: 16px;" class="caps text-center"><strong>A L’étranger</strong></h3>
 			<div class="row small-up-2 medium-up-3 large-up-4">
 				<div class="column column-block listing">
-					<p class="lead">Gallery Marc Richard</p>
+					<p class="lead">Galerie Marc Richard</p>
 					<p>Zurich (Suisse)</p>
 				</div>
 				<div class="column column-block listing">
@@ -265,7 +270,7 @@ body-class: index
 					<p>Bruxelles (Belgique)</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Opéra Gallery</p>
+					<p class="lead">Opéra Galerie</p>
 					<p>Singapour</p>
 				</div>
 				<div class="column column-block listing">
@@ -273,11 +278,11 @@ body-class: index
 					<p>Tokyo</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Tempéra</p>
+					<p class="lead">Galerie Tempéra</p>
 					<p>Bruxelles (Belgique)</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Chérif Fine Art</p>
+					<p class="lead">Galerie Chérif Fine Art</p>
 					<p>Sidi Bous Saïd (Tunisie)</p>
 				</div>
 				<div class="column column-block listing">

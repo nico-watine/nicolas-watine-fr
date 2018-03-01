@@ -20,6 +20,24 @@
 	}
 
 	@include breakpoint(medium) {
+		.categoryNav.french {
+			li#one {
+				max-width: rem-calc(300);
+
+				a {
+					span {
+						display: inline-block;
+					}
+
+					&:hover {
+						span {
+							text-decoration: underline;
+						}
+					}
+				}
+			}
+		}
+
 		.galleryTitle {
 			font-size: $h2-serif-medium;
 		}
