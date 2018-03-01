@@ -1,5 +1,6 @@
 ---
 url: /dessins
+url-eng: /eng/drawings
 title:
 description:
 og-title:
