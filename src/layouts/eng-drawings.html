@@ -2,7 +2,7 @@
 	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
-<html class="no-js" lang="fr-FR">
+<html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -12,6 +12,11 @@
 	<link href="http://nicolas-watine.fr{{ url }}" rel="canonical">
 	<link href="/humans.txt" rel="author">
 
+	<link rel="alternate" href="http://nicolas-watine.fr{{ url-fr }}" hreflang="fr">
+
+	<link href="/apple-touch-icon.png" rel="apple-touch-icon">
+	<link href="/touch-icon-192x192.png" rel="icon" sizes="192x192">
+	
 	<link href="<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
 		
 </head>

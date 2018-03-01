@@ -1,6 +1,7 @@
 ---
-url: /
-title:
+url: /eng/sarton
+url-fr: /sarton
+title: Nicolas Watine
 description:
 og-title:
 og-description:

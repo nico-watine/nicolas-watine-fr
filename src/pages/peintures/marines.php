@@ -1,6 +1,7 @@
 ---
-url: /
-title:
+url: /peintures/marines
+url-eng: /eng/paintings/seascapes
+title: Nicolas Watine
 description:
 og-title:
 og-description:

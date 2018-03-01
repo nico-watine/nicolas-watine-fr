@@ -1,6 +1,7 @@
 ---
-url: /
-title:
+url: /peintures/paysages
+url-eng: /eng/paintings/landscapes
+title: Nicolas Watine
 description:
 og-title:
 og-description:
