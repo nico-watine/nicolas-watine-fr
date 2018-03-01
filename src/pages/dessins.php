@@ -1,5 +1,5 @@
 ---
-url: /
+url: /dessins
 title:
 description:
 og-title:
