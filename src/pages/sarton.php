@@ -1,5 +1,5 @@
 ---
-url: /
+url: /sarton
 title:
 description:
 og-title:

@@ -1,5 +1,5 @@
 ---
-url: /
+url: /peintures/marines
 title:
 description:
 og-title:
