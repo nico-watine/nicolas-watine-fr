@@ -318,3 +318,4 @@ RewriteRule ^(js|css)/(.+)\.(.+)\.(js|css)$ $1/$2.$4 [L]
 
 # blank /paintings root page
 Redirect 301 /eng/paintings/index.php /eng/paintings/seascapes.php
+Redirect 301 /peintures/index.php /peintures/marines.php
