@@ -1,7 +1,7 @@
 ---
 url: /eng/paintings/still-life
 url-fr: /peintures/natures-mortes
-title:
+title: Nicolas Watine
 description:
 og-title:
 og-description:
