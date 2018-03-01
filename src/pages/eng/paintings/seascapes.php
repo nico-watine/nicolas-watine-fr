@@ -66,7 +66,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
+				<h4 class="title">&nbsp;</h4>
 				<p class="dimensions">150 x 110 cm</p>
 			</div>
 		</div>
@@ -183,7 +183,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
+				<h4 class="title">&nbsp;</h4>
 				<p class="dimensions">146 x 89 cm</p>
 			</div>
 		</div>
@@ -352,7 +352,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
+				<h4 class="title">&nbsp;</h4>
 				<p class="dimensions">143 x 131 cm</p>
 			</div>
 		</div>
@@ -495,7 +495,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
+				<h4 class="title">&nbsp;</h4>
 				<p class="dimensions">100 x 100 cm</p>
 			</div>
 		</div>
@@ -521,7 +521,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
+				<h4 class="title">&nbsp;</h4>
 				<p class="dimensions">73 x 92 cm</p>
 			</div>
 		</div>
@@ -547,7 +547,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Untitled</h4>
+				<h4 class="title">&nbsp;</h4>
 				<p class="dimensions">81 x 100 cm</p>
 			</div>
 		</div>
