@@ -30,7 +30,7 @@ layout: drawings
 	</div>
 </div>
 <div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" data-magellan-target="sanguine-charcoal-chalk" id="sanguine-charcoal-chalk">
-	<h2 class="subCategory-heading white serif text-center">Sanguine, Charcoal &amp; Chalk</h2>
+	<h2 class="subCategory-heading white serif text-center">Sanguine, Pierre Noire &amp; Pierre Blanche</h2>
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
@@ -227,7 +227,7 @@ layout: drawings
 </div>
 <hr>
 <div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" data-magellan-target="black-or-color-pencil" id="black-or-color-pencil">
-	<h2 class="subCategory-heading white serif text-center">Black or Color Pencil</h2>
+	<h2 class="subCategory-heading white serif text-center">Crayon Noir ou de Couleur</h2>
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
