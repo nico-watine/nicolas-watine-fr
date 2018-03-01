@@ -16,7 +16,7 @@ layout: drawings
 				<h1 class="galleryTitle white serif margin-0">Dessins</h1>
 				<div class="title-bar" data-responsive-toggle="categoryMenu" data-hide-for="medium">
 					<button class="menu-icon" type="button" data-toggle="categoryMenu"></button>
-					<div class="title-bar-title">Menu de Dessins</div>
+					<div class="title-bar-title">Menu des Dessins</div>
 				</div>
 				<nav class="categoryNav french" id="categoryMenu">
 					<ul class="vertical medium-horizontal menu" data-magellan data-deep-linking="true">
