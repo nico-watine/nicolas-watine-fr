@@ -135,6 +135,79 @@
 		"oAP": "\/assets\/404.html",
 		"oF": 0
 		},
+	"\/assets\/apple-touch-icon-120x120-precomposed.png": {
+		"ft": 32768,
+		"iS": 2751,
+		"oA": 1,
+		"oAP": "\/assets\/apple-touch-icon-120x120-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/apple-touch-icon-152x152-precomposed.png": {
+		"ft": 32768,
+		"iS": 3361,
+		"oA": 1,
+		"oAP": "\/assets\/apple-touch-icon-152x152-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/apple-touch-icon-180x180-precomposed.png": {
+		"ft": 32768,
+		"iS": 3992,
+		"oA": 1,
+		"oAP": "\/assets\/apple-touch-icon-180x180-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/apple-touch-icon-76x76-precomposed.png": {
+		"ft": 32768,
+		"iS": 1729,
+		"oA": 1,
+		"oAP": "\/assets\/apple-touch-icon-76x76-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 3992,
+		"oA": 1,
+		"oAP": "\/assets\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/favicon.ico",
+		"oF": 0
+		},
+	"\/assets\/favicon.png": {
+		"ft": 32768,
+		"iS": 564,
+		"oA": 1,
+		"oAP": "\/assets\/favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/humans.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -155,6 +228,39 @@
 		"oA": 2,
 		"oAP": "\/assets\/robots.txt",
 		"oF": 0
+		},
+	"\/assets\/tile-wide.png": {
+		"ft": 32768,
+		"iS": 3999,
+		"oA": 1,
+		"oAP": "\/assets\/tile-wide.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/tile.png": {
+		"ft": 32768,
+		"iS": 5430,
+		"oA": 1,
+		"oAP": "\/assets\/tile.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/touch-icon-192x192.png": {
+		"ft": 32768,
+		"iS": 4305,
+		"oA": 1,
+		"oAP": "\/assets\/touch-icon-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower.json": {
 		"ft": 524288,
@@ -4650,6 +4756,61 @@
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
+	"\/dist\/apple-touch-icon-120x120-precomposed.png": {
+		"ft": 32768,
+		"iS": 2751,
+		"oA": 1,
+		"oAP": "\/dist\/apple-touch-icon-120x120-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/apple-touch-icon-152x152-precomposed.png": {
+		"ft": 32768,
+		"iS": 3361,
+		"oA": 1,
+		"oAP": "\/dist\/apple-touch-icon-152x152-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/apple-touch-icon-180x180-precomposed.png": {
+		"ft": 32768,
+		"iS": 3992,
+		"oA": 1,
+		"oAP": "\/dist\/apple-touch-icon-180x180-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/apple-touch-icon-76x76-precomposed.png": {
+		"ft": 32768,
+		"iS": 1729,
+		"oA": 1,
+		"oAP": "\/dist\/apple-touch-icon-76x76-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 3992,
+		"oA": 1,
+		"oAP": "\/dist\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -4722,6 +4883,24 @@
 		"oA": 2,
 		"oAP": "\/dist\/eng\/sarton.php",
 		"oF": 0
+		},
+	"\/dist\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/favicon.ico",
+		"oF": 0
+		},
+	"\/dist\/favicon.png": {
+		"ft": 32768,
+		"iS": 564,
+		"oA": 1,
+		"oAP": "\/dist\/favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/dist\/humans.txt": {
 		"cB": 0,
@@ -7144,6 +7323,39 @@
 		"oA": 2,
 		"oAP": "\/dist\/sarton.php",
 		"oF": 0
+		},
+	"\/dist\/tile-wide.png": {
+		"ft": 32768,
+		"iS": 3999,
+		"oA": 1,
+		"oAP": "\/dist\/tile-wide.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/tile.png": {
+		"ft": 32768,
+		"iS": 5430,
+		"oA": 1,
+		"oAP": "\/dist\/tile.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/touch-icon-192x192.png": {
+		"ft": 32768,
+		"iS": 4305,
+		"oA": 1,
+		"oAP": "\/dist\/touch-icon-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/gulpfile.babel.js": {
 		"ft": 64,
