@@ -1,5 +1,6 @@
 ---
 url: /eng/
+url-fr: /
 title:
 description:
 og-title:

@@ -1,5 +1,6 @@
 ---
 url: /eng/paintings/venice
+url-fr: /peintures/venises
 title:
 description:
 og-title:

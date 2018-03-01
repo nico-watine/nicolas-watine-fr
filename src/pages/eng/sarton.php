@@ -1,5 +1,6 @@
 ---
 url: /eng/sarton
+url-fr: /sarton
 title:
 description:
 og-title:
