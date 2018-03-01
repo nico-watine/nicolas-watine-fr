@@ -1,5 +1,6 @@
 ---
 url: /peintures/paysages
+url-eng: /eng/paintings/landscapes
 title:
 description:
 og-title:
