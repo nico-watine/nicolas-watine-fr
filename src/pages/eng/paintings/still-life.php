@@ -1,5 +1,5 @@
 ---
-url: /
+url: /eng/paintings/still-life
 title:
 description:
 og-title:

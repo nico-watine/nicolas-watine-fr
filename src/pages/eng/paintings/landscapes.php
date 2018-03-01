@@ -1,5 +1,5 @@
 ---
-url: /
+url: /eng/paintings/landscapes
 title:
 description:
 og-title:

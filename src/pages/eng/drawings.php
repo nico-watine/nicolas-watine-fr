@@ -1,5 +1,5 @@
 ---
-url: /
+url: /eng/drawings
 title:
 description:
 og-title:

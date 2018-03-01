@@ -1,5 +1,5 @@
 ---
-url: /
+url: /eng/paintings/seascapes
 title:
 description:
 og-title:
