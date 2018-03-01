@@ -7651,6 +7651,13 @@
 		"oAP": "\/src\/layouts\/default.html",
 		"oF": 0
 		},
+	"\/src\/layouts\/drawings.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/layouts\/drawings.html",
+		"oF": 0
+		},
 	"\/src\/layouts\/eng-default.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -7679,11 +7686,18 @@
 		"oAP": "\/src\/layouts\/eng-sarton.html",
 		"oF": 0
 		},
-	"\/src\/pages\/dessins.php": {
+	"\/src\/layouts\/paintings.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/src\/pages\/dessins.php",
+		"oAP": "\/src\/layouts\/paintings.html",
+		"oF": 0
+		},
+	"\/src\/layouts\/sarton.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/layouts\/sarton.html",
 		"oF": 0
 		},
 	"\/src\/pages\/eng\/drawings.php": {
@@ -7749,39 +7763,39 @@
 		"oAP": "\/src\/pages\/index.php",
 		"oF": 0
 		},
-	"\/src\/pages\/paintings\/index.php": {
+	"\/src\/pages\/peintures\/index.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/src\/pages\/paintings\/index.php",
+		"oAP": "\/src\/pages\/peintures\/index.php",
 		"oF": 0
 		},
-	"\/src\/pages\/paintings\/marines.php": {
+	"\/src\/pages\/peintures\/marines.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/src\/pages\/paintings\/marines.php",
+		"oAP": "\/src\/pages\/peintures\/marines.php",
 		"oF": 0
 		},
-	"\/src\/pages\/paintings\/natures-mortes.php": {
+	"\/src\/pages\/peintures\/natures-mortes.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/src\/pages\/paintings\/natures-mortes.php",
+		"oAP": "\/src\/pages\/peintures\/natures-mortes.php",
 		"oF": 0
 		},
-	"\/src\/pages\/paintings\/paysages.php": {
+	"\/src\/pages\/peintures\/paysages.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/src\/pages\/paintings\/paysages.php",
+		"oAP": "\/src\/pages\/peintures\/paysages.php",
 		"oF": 0
 		},
-	"\/src\/pages\/paintings\/venises.php": {
+	"\/src\/pages\/peintures\/venises.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/src\/pages\/paintings\/venises.php",
+		"oAP": "\/src\/pages\/peintures\/venises.php",
 		"oF": 0
 		},
 	"\/src\/pages\/sarton.php": {
@@ -7831,6 +7845,27 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/partials\/google-tracking-id.html",
+		"oF": 0
+		},
+	"\/src\/partials\/header-drawings.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/partials\/header-drawings.html",
+		"oF": 0
+		},
+	"\/src\/partials\/header-paintings.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/partials\/header-paintings.html",
+		"oF": 0
+		},
+	"\/src\/partials\/header-sarton.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/partials\/header-sarton.html",
 		"oF": 0
 		},
 	"\/src\/partials\/header.html": {

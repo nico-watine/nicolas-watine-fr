@@ -7,22 +7,22 @@ og-description:
 og-image:
 body-id: drawings
 body-class: galleryPage
-layout: eng-drawings
+layout: drawings
 ---
 <div class="sticky-container" data-sticky-container>
 	<div class="sticky" data-sticky-on="small" data-sticky data-top-anchor="350" data-margin-top="0" style="width: 100%;">
 		<div class="row galleryNav">
 			<div class="columns">
-				<h1 class="galleryTitle white serif margin-0">Drawings</h1>
+				<h1 class="galleryTitle white serif margin-0">Dessins</h1>
 				<div class="title-bar" data-responsive-toggle="categoryMenu" data-hide-for="medium">
 					<button class="menu-icon" type="button" data-toggle="categoryMenu"></button>
 					<div class="title-bar-title">Category Menu</div>
 				</div>
-				<nav class="categoryNav" id="categoryMenu">
+				<nav class="categoryNav french" id="categoryMenu">
 					<ul class="vertical medium-horizontal menu" data-magellan data-deep-linking="true">
-						<li class="caps"><a href="#sanguine-charcoal-chalk">Sanguine, Charcoal &amp; Chalk</a></li>
+						<li class="caps" id="one"><a href="#sanguine-charcoal-chalk">Sanguine, Pierre Noire &amp; <span>Pierre Blanche</span></a></li>
 						<li class="caps"><a href="#sanguine">Sanguine</a></li>
-						<li class="caps"><a href="#black-or-color-pencil">Black or Color Pencil</a></li>
+						<li class="caps"><a href="#black-or-color-pencil">Crayon Noir ou de Couleur</a></li>
 					</ul>
 				</nav>
 			</div>
@@ -30,7 +30,7 @@ layout: eng-drawings
 	</div>
 </div>
 <div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" data-magellan-target="sanguine-charcoal-chalk" id="sanguine-charcoal-chalk">
-	<h2 class="subCategory-heading white serif text-center">Sanguine, Charcoal &amp; Chalk</h2>
+	<h2 class="subCategory-heading white serif text-center">Sanguine, Pierre Noire &amp; Pierre Blanche</h2>
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
@@ -227,7 +227,7 @@ layout: eng-drawings
 </div>
 <hr>
 <div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" data-magellan-target="black-or-color-pencil" id="black-or-color-pencil">
-	<h2 class="subCategory-heading white serif text-center">Black or Color Pencil</h2>
+	<h2 class="subCategory-heading white serif text-center">Crayon Noir ou de Couleur</h2>
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">

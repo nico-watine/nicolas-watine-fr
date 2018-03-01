@@ -7,11 +7,11 @@ og-description:
 og-image:
 body-id: sarton
 body-class: galleryPage
-layout: eng-sarton
+layout: sarton
 ---
 <div class="row galleryNav">
 	<div class="columns">
-		<h1 style="line-height: 1.2;" class="padding-Y galleryTitle white serif margin-0">Sarton Manor &amp; Gardens</h1>
+		<h1 style="line-height: 1.2;" class="padding-Y galleryTitle white serif margin-0">Jardin et Manoir de Sarton</h1>
 	</div>
 </div>
 <div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4">
