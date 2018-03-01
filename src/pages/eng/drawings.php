@@ -1,7 +1,7 @@
 ---
 url: /eng/drawings
 url-fr: /dessins
-title:
+title: Nicolas Watine
 description:
 og-title:
 og-description:
