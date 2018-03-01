@@ -87,7 +87,7 @@ body-class: index
 	<div class="sectionContent row flex">
 		<div class="columns text-center completeCenter">
 			<h2 class="white serif margin-0 line-height-1">Galerie des Dessins</h2>
-			<a href="#0" class="h4 white caps">Voir</a>
+			<a href="/dessins" class="h4 white caps">Voir</a>
 		</div>
 	</div>
 </section>
