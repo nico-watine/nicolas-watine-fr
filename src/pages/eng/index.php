@@ -252,11 +252,11 @@ layout: eng-default
 				</div>
 				<div class="column column-block listing">
 					<p class="lead">Salon d’Automne</p>
-					<p>1er prix des Amis du Salon d’Automne</p>
+					<p>1st Place Award - Salon d’Automne</p>
 				</div>
 				<div class="column column-block listing">
 					<p class="lead">Salon des Artistes Français</p>
-					<p>Médaille d’Argent</p>
+					<p>Gold Medal</p>
 				</div>
 			</div>
 		</div>
