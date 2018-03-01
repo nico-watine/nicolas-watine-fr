@@ -24,8 +24,16 @@
 			li#one {
 				max-width: rem-calc(300);
 
-				span {
-					display: inline-block;
+				a {
+					span {
+						display: inline-block;
+					}
+
+					&:hover {
+						span {
+							text-decoration: underline;
+						}
+					}
 				}
 			}
 		}
