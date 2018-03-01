@@ -264,24 +264,24 @@ layout: eng-default
 			<h3 style="margin-bottom: 16px;" class="caps text-center"><strong>Internationally</strong></h3>
 			<div class="row small-up-2 medium-up-3 large-up-4">
 				<div class="column column-block listing">
-					<p class="lead">Gallery Marc Richard</p>
-					<p>Zurich (Suisse)</p>
+					<p class="lead">Galerie Marc Richard</p>
+					<p>Zurich, Switzerland</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Parlement Européen</p>
-					<p>Bruxelles (Belgique)</p>
+					<p class="lead">European Parliament</p>
+					<p>Brussels, Belgium</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Opéra Gallery</p>
-					<p>Singapour</p>
+					<p class="lead">Opera Gallery</p>
+					<p>Singapore</p>
 				</div>
 				<div class="column column-block listing">
 					<p class="lead">Art Yomiuri</p>
-					<p>Tokyo</p>
+					<p>Tokyo, Japan</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Tempéra</p>
-					<p>Bruxelles (Belgique)</p>
+					<p class="lead">Galerie Tempéra</p>
+					<p>Brussels, Belgium</p>
 				</div>
 				<div class="column column-block listing">
 					<p class="lead">Gallery Chérif Fine Art</p>
