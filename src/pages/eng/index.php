@@ -151,11 +151,11 @@ layout: eng-default
 			<h3 style="margin-bottom: 16px;" class="caps text-center"><strong>In France</strong></h3>
 			<div class="row small-up-2 medium-up-3 large-up-4">
 				<div class="column column-block listing">
-					<p class="lead">Gallery Motte</p>
+					<p class="lead">Galerie Motte</p>
 					<p>Lille</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Vendôme, rue de la Paix</p>
+					<p class="lead">Galerie Vendôme, rue de la Paix</p>
 					<p>Paris</p>
 				</div>
 				<div class="column column-block listing">
@@ -163,7 +163,7 @@ layout: eng-default
 					<p>Le Touquet</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Renaudot</p>
+					<p class="lead">Galerie Renaudot</p>
 					<p>Semur en Auxois</p>
 				</div>
 				<div class="column column-block listing">
@@ -171,15 +171,15 @@ layout: eng-default
 					<p>Somme</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Amyot, Saint-Louis en l’Ile</p>
+					<p class="lead">Galerie Amyot, Saint-Louis en l’Ile</p>
 					<p>Paris</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Dufour</p>
+					<p class="lead">Galerie Dufour</p>
 					<p>Amiens</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Auriel</p>
+					<p class="lead">Galerie Auriel</p>
 					<p>Toulouse</p>
 				</div>
 				<div class="column column-block listing">
@@ -187,7 +187,7 @@ layout: eng-default
 					<p>Somme</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery 26, Place des Vosges</p>
+					<p class="lead">Galerie 26, Place des Vosges</p>
 					<p>Paris</p>
 				</div>
 				<div class="column column-block listing">
@@ -195,15 +195,15 @@ layout: eng-default
 					<p>Dijon</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Art et Comparaison</p>
+					<p class="lead">Galerie Art et Comparaison</p>
 					<p>Nantes</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Alain Daune, avenue Matignon</p>
+					<p class="lead">Galerie Alain Daune, avenue Matignon</p>
 					<p>Paris</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Erath</p>
+					<p class="lead">Galerie Erath</p>
 					<p>Le Touquet</p>
 				</div>
 				<div class="column column-block listing">
@@ -211,15 +211,11 @@ layout: eng-default
 					<p>Somme</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery du Pharos</p>
+					<p class="lead">Galerie du Pharos</p>
 					<p>Marseille</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Centre Culturel de la Somme</p>
-					<p>Somme</p>
-				</div>
-				<div class="column column-block listing">
-					<p class="lead">Gallery World Fine Art</p>
+					<p class="lead">Galerie World Fine Art</p>
 					<p>Cannes</p>
 				</div>
 				<div class="column column-block listing">
@@ -231,23 +227,23 @@ layout: eng-default
 					<p>Lille</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery 31</p>
+					<p class="lead">Galerie 31</p>
 					<p>Lille</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery la Pléiade</p>
+					<p class="lead">Galerie la Pléiade</p>
 					<p>Grenoble</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery des Molières</p>
+					<p class="lead">Galerie des Molières</p>
 					<p>Miramas (13)</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Manor of Sarton</p>
+					<p class="lead">Manoir de Sarton</p>
 					<p>Pas de Calais</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Neel</p>
+					<p class="lead">Galerie Neel</p>
 					<p>Paris &amp; Cannes</p>
 				</div>
 				<div class="column column-block listing">
@@ -268,44 +264,44 @@ layout: eng-default
 			<h3 style="margin-bottom: 16px;" class="caps text-center"><strong>Internationally</strong></h3>
 			<div class="row small-up-2 medium-up-3 large-up-4">
 				<div class="column column-block listing">
-					<p class="lead">Gallery Marc Richard</p>
-					<p>Zurich (Suisse)</p>
+					<p class="lead">Galerie Marc Richard</p>
+					<p>Zurich, Switzerland</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Parlement Européen</p>
-					<p>Bruxelles (Belgique)</p>
+					<p class="lead">European Parliament</p>
+					<p>Brussels, Belgium</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Opéra Gallery</p>
-					<p>Singapour</p>
+					<p class="lead">Opera Gallery</p>
+					<p>Singapore</p>
 				</div>
 				<div class="column column-block listing">
 					<p class="lead">Art Yomiuri</p>
-					<p>Tokyo</p>
+					<p>Tokyo, Japan</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Tempéra</p>
-					<p>Bruxelles (Belgique)</p>
+					<p class="lead">Galerie Tempéra</p>
+					<p>Brussels, Belgium</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Chérif Fine Art</p>
-					<p>Sidi Bous Saïd (Tunisie)</p>
+					<p class="lead">Galerie Chérif Fine Art</p>
+					<p>Sidi Bou Said, Tunisia</p>
 				</div>
 				<div class="column column-block listing">
 					<p class="lead">Nolan-Rankin Galleries</p>
-					<p>Houston (USA)</p>
+					<p>Houston, Texas (USA)</p>
 				</div>
 				<div class="column column-block listing">
 					<p class="lead">Galerie d’Haudrecy</p>
-					<p>Knokke le Zoute (Belgique)</p>
+					<p>Knokke le Zoute, Belgium</p>
 				</div>
 				<div class="column column-block listing">
 					<p class="lead">Philips Galleries</p>
-					<p>Dallas (USA)</p>
+					<p>Dallas, Texas (USA)</p>
 				</div>
 				<div class="column column-block listing">
 					<p class="lead">Newman &amp; Saunders Galleries</p>
-					<p>Philadelphie (USA)</p>
+					<p>Philadelphia, Pennsylvania (USA)</p>
 				</div>
 			</div>
 		</div>
