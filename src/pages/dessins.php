@@ -18,9 +18,9 @@ layout: drawings
 					<button class="menu-icon" type="button" data-toggle="categoryMenu"></button>
 					<div class="title-bar-title">Category Menu</div>
 				</div>
-				<nav class="categoryNav" id="categoryMenu">
+				<nav class="categoryNav french" id="categoryMenu">
 					<ul class="vertical medium-horizontal menu" data-magellan data-deep-linking="true">
-						<li class="caps"><a href="#sanguine-charcoal-chalk">Sanguine, Pierre Noire &amp; Pierre Blanche</a></li>
+						<li class="caps" id="one"><a href="#sanguine-charcoal-chalk">Sanguine, Pierre Noire &amp; <span>Pierre Blanche</span></a></li>
 						<li class="caps"><a href="#sanguine">Sanguine</a></li>
 						<li class="caps"><a href="#black-or-color-pencil">Crayon Noir ou de Couleur</a></li>
 					</ul>

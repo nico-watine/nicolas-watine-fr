@@ -5765,6 +5765,10 @@ header.header {
   font-size: 2.125rem; }
 
 @media print, screen and (min-width: 40em) {
+  .galleryPage#drawings .categoryNav.french li#one {
+    max-width: 18.75rem; }
+    .galleryPage#drawings .categoryNav.french li#one span {
+      display: inline-block; }
   .galleryPage#drawings .galleryTitle {
     font-size: 4.25rem; }
   .galleryPage#drawings .artCard-grid#sanguine,
