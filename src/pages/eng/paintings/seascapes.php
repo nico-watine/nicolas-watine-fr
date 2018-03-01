@@ -1,5 +1,6 @@
 ---
 url: /eng/paintings/seascapes
+url-fr: /peintures/marines
 title:
 description:
 og-title:

@@ -1,5 +1,6 @@
 ---
 url: /eng/paintings/still-life
+url-fr: /peintures/natures-mortes
 title:
 description:
 og-title:
