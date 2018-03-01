@@ -1,5 +1,5 @@
 ---
-url: /
+url: /peintures/paysages
 title:
 description:
 og-title:

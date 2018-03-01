@@ -1,5 +1,5 @@
 ---
-url: /
+url: /peintures/venises
 title:
 description:
 og-title:

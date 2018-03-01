@@ -1,5 +1,5 @@
 ---
-url: /
+url: /peintures/natures-mortes
 title:
 description:
 og-title:
