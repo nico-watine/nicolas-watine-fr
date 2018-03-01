@@ -1,7 +1,7 @@
 ---
 url: /peintures/venises
 url-eng: /eng/paintings/venice
-title:
+title: Nicolas Watine
 description:
 og-title:
 og-description:

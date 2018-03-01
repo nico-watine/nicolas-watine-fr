@@ -1,7 +1,7 @@
 ---
 url: /
 url-eng: /eng/
-title:
+title: Nicolas Watine
 description:
 og-title:
 og-description:
