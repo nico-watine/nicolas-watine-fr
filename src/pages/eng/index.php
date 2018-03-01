@@ -284,24 +284,24 @@ layout: eng-default
 					<p>Brussels, Belgium</p>
 				</div>
 				<div class="column column-block listing">
-					<p class="lead">Gallery Chérif Fine Art</p>
-					<p>Sidi Bous Saïd (Tunisie)</p>
+					<p class="lead">Galerie Chérif Fine Art</p>
+					<p>Sidi Bou Said, Tunisia</p>
 				</div>
 				<div class="column column-block listing">
 					<p class="lead">Nolan-Rankin Galleries</p>
-					<p>Houston (USA)</p>
+					<p>Houston, Texas (USA)</p>
 				</div>
 				<div class="column column-block listing">
 					<p class="lead">Galerie d’Haudrecy</p>
-					<p>Knokke le Zoute (Belgique)</p>
+					<p>Knokke le Zoute, Belgium</p>
 				</div>
 				<div class="column column-block listing">
 					<p class="lead">Philips Galleries</p>
-					<p>Dallas (USA)</p>
+					<p>Dallas, Texas (USA)</p>
 				</div>
 				<div class="column column-block listing">
 					<p class="lead">Newman &amp; Saunders Galleries</p>
-					<p>Philadelphie (USA)</p>
+					<p>Philadelphia, Pennsylvania (USA)</p>
 				</div>
 			</div>
 		</div>
