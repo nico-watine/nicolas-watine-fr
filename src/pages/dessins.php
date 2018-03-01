@@ -13,16 +13,16 @@ layout: drawings
 	<div class="sticky" data-sticky-on="small" data-sticky data-top-anchor="350" data-margin-top="0" style="width: 100%;">
 		<div class="row galleryNav">
 			<div class="columns">
-				<h1 class="galleryTitle white serif margin-0">Drawings</h1>
+				<h1 class="galleryTitle white serif margin-0">Dessins</h1>
 				<div class="title-bar" data-responsive-toggle="categoryMenu" data-hide-for="medium">
 					<button class="menu-icon" type="button" data-toggle="categoryMenu"></button>
 					<div class="title-bar-title">Category Menu</div>
 				</div>
 				<nav class="categoryNav" id="categoryMenu">
 					<ul class="vertical medium-horizontal menu" data-magellan data-deep-linking="true">
-						<li class="caps"><a href="#sanguine-charcoal-chalk">Sanguine, Charcoal &amp; Chalk</a></li>
+						<li class="caps"><a href="#sanguine-charcoal-chalk">Sanguine, Pierre Noire &amp; Pierre Blanche</a></li>
 						<li class="caps"><a href="#sanguine">Sanguine</a></li>
-						<li class="caps"><a href="#black-or-color-pencil">Black or Color Pencil</a></li>
+						<li class="caps"><a href="#black-or-color-pencil">Crayon Noir ou de Couleur</a></li>
 					</ul>
 				</nav>
 			</div>
