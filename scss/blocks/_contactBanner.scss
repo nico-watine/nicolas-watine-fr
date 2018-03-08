@@ -1,6 +1,7 @@
 @import "../_settings.scss";
 
 .contactBanner {
+	padding: 55px 0;
 	background: linear-gradient(
 	rgba(240,242,242,.60),
 	rgba(240,242,242,.60)
@@ -8,5 +9,10 @@
 
 	.prose {
 		margin-bottom: rem-calc(30);
+	}
+
+	address {
+		font-style: normal;
+		margin-bottom: rem-calc(16);
 	}
 }
