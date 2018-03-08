@@ -9,6 +9,18 @@
 
 	.prose {
 		margin-bottom: rem-calc(30);
+
+		a,
+		a * {
+			color: $black;
+			text-decoration: underline;
+			border-bottom: rem-calc(6) solid transparent;
+			padding-bottom: rem-calc(8);
+
+			&:hover {
+				border-color: #70848C;
+			}
+		}
 	}
 
 	address {
