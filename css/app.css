@@ -5292,6 +5292,24 @@ header.header {
     .galleryNav .menu li {
       height: 8.125rem; } }
 
+.contactBanner {
+  padding: 55px 0;
+  background: linear-gradient(rgba(240, 242, 242, 0.6), rgba(240, 242, 242, 0.6)), url("/img/contact/map.jpg") center/cover no-repeat; }
+  .contactBanner .prose {
+    margin-bottom: 1.875rem; }
+    .contactBanner .prose a,
+    .contactBanner .prose a * {
+      color: #0a0a0a;
+      text-decoration: underline;
+      border-bottom: 0.375rem solid transparent;
+      padding-bottom: 0.5rem; }
+      .contactBanner .prose a:hover,
+      .contactBanner .prose a *:hover {
+        border-color: #70848C; }
+  .contactBanner address {
+    font-style: normal;
+    margin-bottom: 1rem; }
+
 .index#index .galleryLinks {
   background: linear-gradient(rgba(79, 110, 122, 0.8), rgba(79, 110, 122, 0.8)), url("/img/assets/linen.jpg") center/auto repeat; }
   .index#index .galleryLinks .categoryRow {

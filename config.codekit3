@@ -4930,6 +4930,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/dist\/img\/contact\/map.jpg": {
+		"ft": 16384,
+		"iS": 62592,
+		"oA": 1,
+		"oAP": "\/dist\/img\/contact\/map.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/drawings\/black-color-pencil\/_french\/arbres-1.jpg": {
 		"ft": 16384,
 		"iS": 152370,
@@ -7386,6 +7396,16 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/img\/contact\/map.jpg": {
+		"ft": 16384,
+		"iS": 62592,
+		"oA": 1,
+		"oAP": "\/img\/contact\/map.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/img\/drawings\/black-color-pencil\/_french\/arbres-1.jpg": {
@@ -9914,6 +9934,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/blocks\/_contactBanner.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/css\/_contactBanner.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/blocks\/_footer.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -10545,6 +10578,20 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/partials\/_notes.txt",
+		"oF": 0
+		},
+	"\/src\/partials\/contact-banner.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/partials\/contact-banner.html",
+		"oF": 0
+		},
+	"\/src\/partials\/eng-contact-banner.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/partials\/eng-contact-banner.html",
 		"oF": 0
 		},
 	"\/src\/partials\/eng-header-drawings.html": {
