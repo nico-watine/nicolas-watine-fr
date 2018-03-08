@@ -5293,7 +5293,7 @@ header.header {
       height: 8.125rem; } }
 
 .contactBanner {
-  background: #fefefe url("/img/contact/map.jpg") center/cover no-repeat; }
+  background: linear-gradient(rgba(240, 242, 242, 0.6), rgba(240, 242, 242, 0.6)), url("/img/contact/map.jpg") center/cover no-repeat; }
 
 .index#index .galleryLinks {
   background: linear-gradient(rgba(79, 110, 122, 0.8), rgba(79, 110, 122, 0.8)), url("/img/assets/linen.jpg") center/auto repeat; }

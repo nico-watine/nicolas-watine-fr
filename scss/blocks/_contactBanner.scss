@@ -1,5 +1,8 @@
 @import "../_settings.scss";
 
 .contactBanner {
-	background: $white url("/img/contact/map.jpg") center/cover no-repeat;
+	background: linear-gradient(
+	rgba(240,242,242,.60),
+	rgba(240,242,242,.60)
+	), url("/img/contact/map.jpg") center/cover no-repeat;
 }
