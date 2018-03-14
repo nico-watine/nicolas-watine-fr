@@ -92,8 +92,8 @@ RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule ^(.+)$ $1.html [L,QSA]
 
 #301 from example.com/page.php to example.com/page
-RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /.*\.php\ HTTP/
-RewriteRule ^(.*)\.php$ /$1 [R=301,L]
+#RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /.*\.php\ HTTP/
+#RewriteRule ^(.*)\.php$ /$1 [R=301,L]
 
 #301 from example.com/page.htm to example.com/page
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /.*\.htm\ HTTP/
