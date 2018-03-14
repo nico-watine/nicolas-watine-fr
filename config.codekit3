@@ -4811,6 +4811,13 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/dist\/beta-folder\/humans.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/beta-folder\/humans.txt",
+		"oF": 0
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -4896,6 +4903,17 @@
 		"iS": 564,
 		"oA": 1,
 		"oAP": "\/dist\/favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/histoires-courtes\/screenshot.png": {
+		"ft": 32768,
+		"iS": 727995,
+		"oA": 1,
+		"oAP": "\/dist\/histoires-courtes\/screenshot.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
