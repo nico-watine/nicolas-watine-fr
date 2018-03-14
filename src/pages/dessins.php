@@ -125,15 +125,6 @@ layout: drawings
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
-				<a href="/img/drawings/sanguine-charcoal-chalk/portrait-11.jpg">
-					<img class="absolute-center" src="/img/drawings/sanguine-charcoal-chalk/portrait-11.jpg" alt="Artist Nicolas Watine Portrait Sketch">
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="column">
-		<div class="artCard">
-			<div class="artCard-image">
 				<a href="/img/drawings/sanguine-charcoal-chalk/portrait-12.jpg">
 					<img class="absolute-center" src="/img/drawings/sanguine-charcoal-chalk/portrait-12.jpg" alt="Artist Nicolas Watine Portrait Sketch">
 				</a>
