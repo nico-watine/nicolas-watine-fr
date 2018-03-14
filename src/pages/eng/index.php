@@ -138,7 +138,7 @@ layout: eng-default
 	<div class="sectionContent row flex">
 		<div class="columns text-center completeCenter">
 			<h2 class="serif margin-0 line-height-1">Short Stories</h2>
-			<a href="#0" class="h4 caps">Read</a>
+			<a href="/histoires-courtes/" class="h4 caps">Read</a>
 		</div>
 	</div>
 </section>
