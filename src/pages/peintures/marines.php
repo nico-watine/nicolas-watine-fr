@@ -2,7 +2,7 @@
 url: /peintures/marines
 url-eng: /eng/paintings/seascapes
 title: Nicolas Watine
-description:
+description: Galerie de peintures de paysage marin par l'artiste français Nicolas Watine
 og-title:
 og-description:
 og-image:
