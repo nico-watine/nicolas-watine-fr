@@ -2,7 +2,7 @@
 url: /eng/
 url-fr: /
 title: Nicolas Watine
-description:
+description: Galleries & Short Stories by award-winning French artist Nicolas Watine
 og-title:
 og-description:
 og-image:

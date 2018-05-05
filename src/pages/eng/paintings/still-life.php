@@ -2,7 +2,7 @@
 url: /eng/paintings/still-life
 url-fr: /peintures/natures-mortes
 title: Nicolas Watine
-description:
+description: Gallery of Still Life paintings by French artist Nicolas Watine
 og-title:
 og-description:
 og-image:

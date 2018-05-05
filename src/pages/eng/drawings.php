@@ -2,7 +2,7 @@
 url: /eng/drawings
 url-fr: /dessins
 title: Nicolas Watine
-description:
+description: Sketches & Drawings by award-winning French artist Nicolas Watine
 og-title:
 og-description:
 og-image:
