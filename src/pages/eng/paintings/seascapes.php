@@ -2,7 +2,7 @@
 url: /eng/paintings/seascapes
 url-fr: /peintures/marines
 title: Nicolas Watine
-description:
+description: Gallery of Seascape paintings by French artist Nicolas Watine
 og-title:
 og-description:
 og-image:

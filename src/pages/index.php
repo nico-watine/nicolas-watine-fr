@@ -2,7 +2,7 @@
 url: /
 url-eng: /eng/
 title: Nicolas Watine
-description:
+description: Galeries et Histoires-Courtes de l'artiste français primé Nicolas Watine
 og-title:
 og-description:
 og-image:

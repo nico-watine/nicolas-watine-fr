@@ -2,7 +2,7 @@
 url: /peintures/venises
 url-eng: /eng/paintings/venice
 title: Nicolas Watine
-description:
+description: Galerie de peintures et croquis de Venise par Nicolas Watine
 og-title:
 og-description:
 og-image:

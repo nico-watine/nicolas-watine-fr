@@ -2,7 +2,7 @@
 url: /eng/sarton
 url-fr: /sarton
 title: Nicolas Watine
-description:
+description: Photos of the beautifully manicured Sarton Manor
 og-title:
 og-description:
 og-image:

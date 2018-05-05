@@ -2,7 +2,7 @@
 url: /eng/paintings/landscapes
 url-fr: /peintures/paysages
 title: Nicolas Watine
-description:
+description: Gallery of Landscape paintings by French artist Nicolas Watine
 og-title:
 og-description:
 og-image:

@@ -2,7 +2,7 @@
 url: /sarton
 url-eng: /eng/sarton
 title: Nicolas Watine
-description:
+description: Photos du Manoir de Sarton magnifiquement entretenu
 og-title:
 og-description:
 og-image:
