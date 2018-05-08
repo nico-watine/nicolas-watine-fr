@@ -208,6 +208,13 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/googlea536b0ce9879dae9.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/googlea536b0ce9879dae9.html",
+		"oF": 0
+		},
 	"\/assets\/histoires-courtes\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -4741,6 +4748,12 @@
 		"oAP": "\/css\/app-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/dist",
+		"oF": 0
 		},
 	"\/gulpfile.babel.js": {
 		"ft": 64,
