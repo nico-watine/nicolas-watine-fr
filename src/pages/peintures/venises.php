@@ -41,7 +41,7 @@ layout: paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Venise Rose</h4>
+				<h4 class="title">1</h4>
 				<p class="dimensions">36 x 48 cm</p>
 			</div>
 		</div>
@@ -54,7 +54,7 @@ layout: paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Pieux Rouges à Venise</h4>
+				<h4 class="title">2</h4>
 				<p class="dimensions">54 x 65 cm</p>
 			</div>
 		</div>
@@ -67,7 +67,7 @@ layout: paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Volets Verts à Venise</h4>
+				<h4 class="title">3</h4>
 				<p class="dimensions">41 x 33 cm</p>
 			</div>
 		</div>
@@ -80,7 +80,7 @@ layout: paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Porte Bleue à Venise</h4>
+				<h4 class="title">4</h4>
 				<p class="dimensions">65 x 54 cm</p>
 			</div>
 		</div>
@@ -93,7 +93,7 @@ layout: paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Grand Venise Gris</h4>
+				<h4 class="title">5</h4>
 				<p class="dimensions">89 x 116 cm</p>
 			</div>
 		</div>
@@ -106,7 +106,7 @@ layout: paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Venise Jaune</h4>
+				<h4 class="title">6</h4>
 				<p class="dimensions">100 x 100 cm</p>
 			</div>
 		</div>
@@ -119,7 +119,7 @@ layout: paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Grand Venise Jaune</h4>
+				<h4 class="title">7</h4>
 				<p class="dimensions">73 x 92 cm</p>
 			</div>
 		</div>
@@ -132,7 +132,7 @@ layout: paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Venise Ocre-Rouge</h4>
+				<h4 class="title">8</h4>
 				<p class="dimensions">89 x 116 cm</p>
 			</div>
 		</div>
@@ -145,7 +145,7 @@ layout: paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Venise Mur Gris</h4>
+				<h4 class="title">9</h4>
 				<p class="dimensions">38 x 46 cm</p>
 			</div>
 		</div>
@@ -158,7 +158,7 @@ layout: paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Venise Reflet Bleu</h4>
+				<h4 class="title">10</h4>
 				<p class="dimensions">73 x 92 cm</p>
 			</div>
 		</div>
@@ -171,7 +171,7 @@ layout: paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">&nbsp;</h4>
+				<h4 class="title">11</h4>
 				<p class="dimensions">100 x 100 cm</p>
 			</div>
 		</div>
