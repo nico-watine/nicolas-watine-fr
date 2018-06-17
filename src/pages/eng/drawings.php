@@ -31,7 +31,8 @@ layout: eng-drawings
 	</div>
 </div>
 <div class="row gallery artCard-grid small-up-1 medium-up-2 large-up-4" data-magellan-target="sanguine-charcoal-chalk" id="sanguine-charcoal-chalk">
-	<h2 class="subCategory-heading white serif text-center">Sanguine, Charcoal &amp; Chalk</h2>
+	<h2 style="margin-bottom: 0;" class="subCategory-heading white serif text-center">Sanguine, Charcoal &amp; Chalk</h2>
+	<h4 style="margin-bottom: 25px;" class="white text-center">Portraits for commission.</h4>
 	<div class="column">
 		<div class="artCard">
 			<div class="artCard-image">
