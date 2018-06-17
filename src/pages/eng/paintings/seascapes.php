@@ -40,7 +40,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Vagues</h4>
+				<h4 class="title">1</h4>
 				<p class="dimensions">100 x 100 cm</p>
 			</div>
 		</div>
@@ -53,7 +53,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Vagues</h4>
+				<h4 class="title">2</h4>
 				<p class="dimensions">100 x 50 cm</p>
 			</div>
 		</div>
@@ -66,7 +66,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">&nbsp;</h4>
+				<h4 class="title">3</h4>
 				<p class="dimensions">150 x 110 cm</p>
 			</div>
 		</div>
@@ -79,7 +79,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Turquoise</h4>
+				<h4 class="title">4</h4>
 				<p class="dimensions">92 x 73 cm</p>
 			</div>
 		</div>
@@ -92,7 +92,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Course de Chars à Voile</h4>
+				<h4 class="title">5</h4>
 				<p class="dimensions">73 x 60 cm</p>
 			</div>
 		</div>
@@ -105,7 +105,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Chars à Voile</h4>
+				<h4 class="title">6</h4>
 				<p class="dimensions">100 x 100 cm</p>
 			</div>
 		</div>
@@ -118,7 +118,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Vagues</h4>
+				<h4 class="title">7</h4>
 				<p class="dimensions">81 x 65 cm</p>
 			</div>
 		</div>
@@ -131,7 +131,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Le Bateau Rouge</h4>
+				<h4 class="title">8</h4>
 				<p class="dimensions">130 x 97 cm</p>
 			</div>
 		</div>
@@ -144,7 +144,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Course de Chars à Voile</h4>
+				<h4 class="title">9</h4>
 				<p class="dimensions">73 x 60 cm</p>
 			</div>
 		</div>
@@ -157,7 +157,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Vague</h4>
+				<h4 class="title">10</h4>
 				<p class="dimensions">61 x 50 cm</p>
 			</div>
 		</div>
@@ -170,7 +170,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Vague</h4>
+				<h4 class="title">11</h4>
 				<p class="dimensions">73 x 60 cm</p>
 			</div>
 		</div>
@@ -183,7 +183,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">&nbsp;</h4>
+				<h4 class="title">12</h4>
 				<p class="dimensions">146 x 89 cm</p>
 			</div>
 		</div>
@@ -196,7 +196,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Chars à Voile</h4>
+				<h4 class="title">13</h4>
 				<p class="dimensions">81 x 100 cm</p>
 			</div>
 		</div>
@@ -209,7 +209,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Course de Chars à Voile</h4>
+				<h4 class="title">14</h4>
 				<p class="dimensions">130 x 81 cm</p>
 			</div>
 		</div>
@@ -222,7 +222,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Char à Voile Rouge</h4>
+				<h4 class="title">15</h4>
 				<p class="dimensions">81 x 65 cm</p>
 			</div>
 		</div>
@@ -235,7 +235,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Chars à Voile Bleus</h4>
+				<h4 class="title">16</h4>
 				<p class="dimensions">130 x 97 cm</p>
 			</div>
 		</div>
@@ -248,7 +248,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Tempête</h4>
+				<h4 class="title">17</h4>
 				<p class="dimensions">100 x 81 cm</p>
 			</div>
 		</div>
@@ -261,7 +261,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Vague</h4>
+				<h4 class="title">18</h4>
 				<p class="dimensions">54 x 65 cm</p>
 			</div>
 		</div>
@@ -274,7 +274,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Pâtés de Sable</h4>
+				<h4 class="title">19</h4>
 				<p class="dimensions">100 x 50 cm</p>
 			</div>
 		</div>
@@ -287,7 +287,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Pâtés de Sable</h4>
+				<h4 class="title">20</h4>
 				<p class="dimensions">61 x 50 cm</p>
 			</div>
 		</div>
@@ -300,7 +300,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Vague</h4>
+				<h4 class="title">21</h4>
 				<p class="dimensions">46 x 38 cm</p>
 			</div>
 		</div>
@@ -313,7 +313,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Vague</h4>
+				<h4 class="title">22</h4>
 				<p class="dimensions">40 x 40 cm</p>
 			</div>
 		</div>
@@ -326,7 +326,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Tentes à Rayures</h4>
+				<h4 class="title">23</h4>
 				<p class="dimensions">100 x 81 cm</p>
 			</div>
 		</div>
@@ -339,7 +339,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Vague</h4>
+				<h4 class="title">24</h4>
 				<p class="dimensions">130 x 97 cm</p>
 			</div>
 		</div>
@@ -352,7 +352,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">&nbsp;</h4>
+				<h4 class="title">25</h4>
 				<p class="dimensions">143 x 131 cm</p>
 			</div>
 		</div>
@@ -365,7 +365,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Voilier</h4>
+				<h4 class="title">26</h4>
 				<p class="dimensions">60 x 73 cm</p>
 			</div>
 		</div>
@@ -378,7 +378,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Voilier</h4>
+				<h4 class="title">27</h4>
 				<p class="dimensions">73 x 60 cm</p>
 			</div>
 		</div>
@@ -391,7 +391,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Tente de Plage</h4>
+				<h4 class="title">28</h4>
 				<p class="dimensions">73 x 54 cm</p>
 			</div>
 		</div>
@@ -404,7 +404,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Ciel</h4>
+				<h4 class="title">29</h4>
 				<p class="dimensions">73 x 92 cm</p>
 			</div>
 		</div>
@@ -417,7 +417,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Voiliers</h4>
+				<h4 class="title">30</h4>
 				<p class="dimensions">81 x 54 cm</p>
 			</div>
 		</div>
@@ -430,7 +430,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Tente de Plage</h4>
+				<h4 class="title">31</h4>
 				<p class="dimensions">80 x 80 cm</p>
 			</div>
 		</div>
@@ -443,7 +443,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Vague</h4>
+				<h4 class="title">32</h4>
 				<p class="dimensions">40 x 40 cm</p>
 			</div>
 		</div>
@@ -456,7 +456,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Vague</h4>
+				<h4 class="title">33</h4>
 				<p class="dimensions">100 x 81 cm</p>
 			</div>
 		</div>
@@ -469,7 +469,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Vague</h4>
+				<h4 class="title">34</h4>
 				<p class="dimensions">50 x 50 cm</p>
 			</div>
 		</div>
@@ -482,7 +482,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Trois Vagues</h4>
+				<h4 class="title">35</h4>
 				<p class="dimensions">100 x 100 cm</p>
 			</div>
 		</div>
@@ -495,7 +495,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">&nbsp;</h4>
+				<h4 class="title">36</h4>
 				<p class="dimensions">100 x 100 cm</p>
 			</div>
 		</div>
@@ -508,7 +508,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Vague</h4>
+				<h4 class="title">37</h4>
 				<p class="dimensions">60 x 60 cm</p>
 			</div>
 		</div>
@@ -521,7 +521,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">&nbsp;</h4>
+				<h4 class="title">38</h4>
 				<p class="dimensions">73 x 92 cm</p>
 			</div>
 		</div>
@@ -534,7 +534,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Transparence</h4>
+				<h4 class="title">39</h4>
 				<p class="dimensions">61 x 50 cm</p>
 			</div>
 		</div>
@@ -547,7 +547,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">&nbsp;</h4>
+				<h4 class="title">40</h4>
 				<p class="dimensions">81 x 100 cm</p>
 			</div>
 		</div>
@@ -560,7 +560,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Char à Voile Bleu</h4>
+				<h4 class="title">41</h4>
 				<p class="dimensions">73 x 92 cm</p>
 			</div>
 		</div>
@@ -573,7 +573,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<h4 class="title">Vague</h4>
+				<h4 class="title">42</h4>
 				<p class="dimensions">40 x 40 cm</p>
 			</div>
 		</div>
