@@ -40,7 +40,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<!-- <h4 class="title">Untitled</h4> -->
+				<h4 class="title">1</h4>
 				<p class="dimensions">80 x 80 cm</p>
 			</div>
 		</div>
@@ -53,7 +53,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<!-- <h4 class="title">Untitled</h4> -->
+				<h4 class="title">2</h4>
 				<p class="dimensions">80 x 80 cm</p>
 			</div>
 		</div>
@@ -66,7 +66,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<!-- <h4 class="title">Untitled</h4> -->
+				<h4 class="title">3</h4>
 				<p class="dimensions">92 x 73 cm</p>
 			</div>
 		</div>
@@ -79,7 +79,7 @@ layout: eng-paintings
 				</a>
 			</div>
 			<div class="artCard-prose">
-				<!-- <h4 class="title">Untitled</h4> -->
+				<h4 class="title">4</h4>
 				<p class="dimensions">80 x 80 cm</p>
 			</div>
 		</div>
