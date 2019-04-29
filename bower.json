@@ -4,7 +4,6 @@
     "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
   ],
   "description": "Repo for nicolas-watine.fr, based on zurb-f6-boilerplate repo",
-  "main": "gulpfile.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
