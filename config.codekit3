@@ -25,25 +25,6 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
-	"/_ignores/CHANGELOG-guide.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/_ignores/CHANGELOG-guide.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"/_ignores/codekit-icon.png": {
 		"ft": 32768,
 		"iS": 5748,
@@ -63,22 +44,6 @@
 		"oAP": "/_ignores/dessins-text.txt",
 		"oF": 0
 		},
-	"/_ignores/head/favicon-linking.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_ignores/head/favicon-linking.html",
-		"oF": 0
-		},
-	"/_ignores/head/head-references.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_ignores/head/head-references.html",
-		"oF": 0
-		},
 	"/_ignores/htaccess/custom-error-pages.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -93,27 +58,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_ignores/htaccess/force-https.txt",
-		"oF": 0
-		},
-	"/_ignores/index/_bio.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/_ignores/css/_bio.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/_ignores/index/obsolete-index.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_ignores/index/obsolete-index.php",
 		"oF": 0
 		},
 	"/_ignores/nicolas-watine-fr.sublime-project": {
