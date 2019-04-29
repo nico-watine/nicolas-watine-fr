@@ -68,14 +68,17 @@ UNCSS_OPTIONS:
 PATHS:
   # Path to dist folder
   dist: "dist"
+
   # Paths to static assets that aren't images, CSS, or JavaScript
   assets:
     - "assets/.htaccess" # <- specify import invisible file .htaccess
     - "assets/**" # <- import all files inside assets/
+
   # Paths to Sass libraries, which can then be loaded with @import
   sass:
     - "bower_components/foundation-sites/scss"
     - "bower_components/motion-ui/src"
+
   # Paths to JavaScript libraries, which are compined into one file
   javascript:
     # Libraries requried by Foundation
