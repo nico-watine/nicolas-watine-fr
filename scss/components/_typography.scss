@@ -1,5 +1,15 @@
-@import "../_settings.scss";
-@import "typography/_fonts.scss";
+@import '../_settings.scss';
+@import 'typography/_fonts.scss';
+
+// ----------------------------------------------------------
+// |            Serif Garamond-Premier-Pro class            |
+// ----------------------------------------------------------
+
+.serif {
+	font-family: garamond-premier-pro-display, serif;
+	font-weight: 500;
+	font-style: normal;
+}
 
 // --------------------------------------
 // |            CAPS classes            |
@@ -107,7 +117,7 @@
 // ---------------------------------------------------------------------- //
 // MAYBE for <h>s, come back to this ::
 // .serif {
-// 	line-height: 1.1; 
+// 	line-height: 1.1;
 // }
 // ---------------------------------------------------------------------- //
 
