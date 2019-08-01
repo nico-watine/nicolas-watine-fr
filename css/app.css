@@ -5062,6 +5062,11 @@ a.thumbnail {
 .long-delay {
   animation-delay: 700ms !important; }
 
+.serif {
+  font-family: garamond-premier-pro-display, serif;
+  font-weight: 500;
+  font-style: normal; }
+
 .caps {
   text-transform: uppercase;
   letter-spacing: 0.075rem; }
