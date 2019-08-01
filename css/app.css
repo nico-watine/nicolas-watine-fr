@@ -5,7 +5,7 @@
  * foundation.zurb.com
  * Licensed under MIT Open Source
  */
-@import url("https://use.typekit.net/agd4krm.css");
+@import url("https://use.typekit.net/qfk7jth.css");
 .slide-in-down.mui-enter {
   transition-duration: 500ms;
   transition-timing-function: linear;
@@ -5061,6 +5061,11 @@ a.thumbnail {
 
 .long-delay {
   animation-delay: 700ms !important; }
+
+.serif {
+  font-family: garamond-premier-pro-display, serif;
+  font-weight: 500;
+  font-style: normal; }
 
 .caps {
   text-transform: uppercase;
